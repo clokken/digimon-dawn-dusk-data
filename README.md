@@ -1,4 +1,11 @@
-## Credits
+# Usage
+
+```
+npm i @clokken/digimon-dawn-dusk-data
+```
+or grab the .json files manually from the `data` directory
+
+# Credits
 
 - Normal evolution information was obtained from: [https://gamefaqs.gamespot.com/ds/937344-digimon-world-dusk/faqs/49842](https://gamefaqs.gamespot.com/ds/937344-digimon-world-dusk/faqs/49842)  
   - Author: Zephyron
@@ -9,6 +16,6 @@
 
 All other data was directly extracted from the game *Digimon World Dawn* by me, using a combination of [BizHawk](https://github.com/TASEmulators/BizHawk)'s memory inspector and Lua scripting. Additional data was extracted with a custom OCR and Lua scripting tool.
 
-## Copyright Notice
+# Copyright Notice
 
 Digimon, Digital Monsters, and all related names, characters, trademarks, and logos are the property of Toei Animation and Bandai. This repository is not affiliated with or endorsed by either company.
