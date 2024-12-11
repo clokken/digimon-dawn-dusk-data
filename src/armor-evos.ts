@@ -5,7 +5,7 @@ type DigimonName = string;
 
 export type ArmorInfo = {
   devolveFriendship: number;
-  eggs: Record<ArmorEgg, ArmorEggEvo>;
+  eggs: Partial<Record<ArmorEgg, ArmorEggEvo>>;
 }
 
 export type ArmorEggEvo = {
