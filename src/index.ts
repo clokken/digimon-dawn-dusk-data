@@ -29,7 +29,6 @@ export * from "./dna-evos";
 export * from "./evo-requirements";
 export * from "./evos";
 export * from "./game-version";
-export * from "./index";
 export * from "./tech-info";
 export * from "./tech-learned";
 export * from "./trait-info";

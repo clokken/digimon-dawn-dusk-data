@@ -2,7 +2,7 @@ import { z } from "zod";
 import { DIGIMON, TECHS, TRAITS, EVO_LINES, EVO_DNA, VERSION_EXCLUSIVES, EVO_ARMOR } from "..";
 import { DigimonSchema, TechInfoSchema, TraitInfoSchema, DigimonEvoLineSchema, DigimonDnaInfoMapSchema, VersionExclusivesSchema, ArmorInfoMapSchema } from "./schemas";
 
-function validate() {
+export default function validate() {
   // 1. Validate json structures
 
   const digimons = DigimonSchema.array().parse(DIGIMON);
@@ -199,14 +199,7 @@ function validate() {
     });
   }
 
-  console.log('All good!');
-}
-
-try {
-  validate();
-} catch (err) {
-  console.error('Validation failed:');
-  console.error(err);
+  return true;
 }
 
 // Helper functions:

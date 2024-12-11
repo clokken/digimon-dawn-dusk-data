@@ -8,7 +8,7 @@ export type DigimonEvoLine = Record<DigimonName, DigimonEvos>;
 
 // examples:
 
-const gummymonEvos: DigimonEvos = {
+/*const gummymonEvos: DigimonEvos = {
   "Terriermon": {
     "level": 9
   },
@@ -41,4 +41,4 @@ const gummymonLine: DigimonEvoLine = {
   // 'Renamon': renamonEvos,
   // 'Kyubimon': kyubimonEvos,
   // 'Taomon': taomonEvos,
-};
+};*/

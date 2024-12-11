@@ -1,16 +1,29 @@
 {
   "name": "digimon-dawn-dusk-data",
   "version": "1.0.0",
-  "description": "",
+  "type": "module",
   "scripts": {
-    "validate": "ts-node src/validation/validate.ts"
+    "build": "tsc && vite build",
+    "test": "vitest"
+  },
+  "main": "./dist/digimon-dawn-dusk-data.umd.cjs",
+  "module": "./dist/digimon-dawn-dusk-data.js",
+  "types": "./dist/src/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/digimon-dawn-dusk-data.js",
+      "require": "./dist/digimon-dawn-dusk-data.umd.cjs"
+    }
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "zod": "^3.23.8",
     "ts-essentials": "^10.0.2",
-    "ts-node": "^10.9.2"
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3",
+    "vite-plugin-dts": "^4.3.0",
+    "vitest": "^2.1.8",
+    "zod": "^3.23.8"
   }
 }
