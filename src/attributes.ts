@@ -1,5 +1,4 @@
 import { ElementOf } from "ts-essentials";
-import { z } from "zod";
 
 export const ATTRIBUTES = [
   'Light',
@@ -13,5 +12,3 @@ export const ATTRIBUTES = [
 ] as const;
 
 export type Attribute = ElementOf<typeof ATTRIBUTES>;
-
-export const AttributeSchema = z.enum(ATTRIBUTES);

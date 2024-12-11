@@ -3,15 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "validate": "ts-node src/tools/validate.ts"
+    "validate": "ts-node src/validation/validate.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "zod": "^3.23.8"
-  },
   "devDependencies": {
+    "zod": "^3.23.8",
     "ts-essentials": "^10.0.2",
     "ts-node": "^10.9.2"
   }

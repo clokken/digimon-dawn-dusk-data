@@ -6,6 +6,7 @@ import TECHS from "../data/techs.json";
 import TRAITS from "../data/traits.json";
 import VERSION_EXCLUSIVES from "../data/version_exclusives.json";
 
+// export all json files
 export {
   DIGIMON,
   EVO_LINES,
@@ -15,3 +16,21 @@ export {
   TRAITS,
   VERSION_EXCLUSIVES,
 };
+
+// export all types
+export * from "./armor-eggs";
+export * from "./armor-evos";
+export * from "./attributes";
+export * from "./digimon-species";
+export * from "./digimon-stages";
+export * from "./digimon-types";
+export * from "./digimon";
+export * from "./dna-evos";
+export * from "./evo-requirements";
+export * from "./evos";
+export * from "./game-version";
+export * from "./index";
+export * from "./tech-info";
+export * from "./tech-learned";
+export * from "./trait-info";
+export * from "./version-exclusives";

@@ -1,14 +1,10 @@
-import { z } from "zod";
-import { EvoRequirements, EvoRequirementsSchema } from "./evo-requirements";
+import { EvoRequirements } from "./evo-requirements";
 
 /// represents the name of a Digimon (either the fullName, shortName or altName)
 type DigimonName = string;
 
 export type DigimonEvos = Record<DigimonName, EvoRequirements>;
 export type DigimonEvoLine = Record<DigimonName, DigimonEvos>;
-
-export const DigimonEvosSchema = z.record(z.string(), EvoRequirementsSchema);
-export const DigimonEvoLineSchema = z.record(z.string(), DigimonEvosSchema);
 
 // examples:
 

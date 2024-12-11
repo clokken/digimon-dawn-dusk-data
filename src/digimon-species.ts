@@ -1,5 +1,4 @@
 import { ElementOf } from "ts-essentials";
-import { z } from "zod";
 
 export const DIGIMON_SPECIES = [
   'Holy',
@@ -13,5 +12,3 @@ export const DIGIMON_SPECIES = [
 ] as const;
 
 export type DigimonSpecies = ElementOf<typeof DIGIMON_SPECIES>;
-
-export const DigimonSpeciesSchema = z.enum(DIGIMON_SPECIES);

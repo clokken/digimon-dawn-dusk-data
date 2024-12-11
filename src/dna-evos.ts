@@ -1,6 +1,5 @@
-import { z } from "zod";
-import { EvoRequirements, EvoRequirementsSchema } from "./evo-requirements";
-import { ArmorEgg, ArmorEggSchema } from "./armor-eggs";
+import { ArmorEgg } from "./armor-eggs";
+import { EvoRequirements } from "./evo-requirements";
 
 /// represents the name of a Digimon (either the fullName, shortName or altName)
 type DigimonName = string;
@@ -37,38 +36,3 @@ export type DigimonDnaInfo = {
 
 /// this is what is stored in the evo_dna.json
 export type DigimonDnaInfoMap = Record<DigimonName, DigimonDnaInfo>;
-
-//# Validation
-
-const PossibleDigimonSchema = z.object({
-  digi1: z.string(),
-  digi2: z.string(),
-}).strict() satisfies z.ZodSchema<PossibleDigimonPair>;
-
-export const DnaEvoRequirementsSchema = z.object({
-  possibleDigimon: z.union([
-    z.string().array(),
-    PossibleDigimonSchema.array(),
-  ]),
-  fixedFirst: z.boolean().optional(),
-  evoReqs: EvoRequirementsSchema,
-}).strict() satisfies z.ZodSchema<DnaEvoRequirements>;
-
-export const DnaDegenerationsSchema = z.object({
-  target: z.string(),
-  neededDigimon: z.array(z.object({
-    digimon: z.string(),
-    level: z.number().optional(),
-  })),
-  befriended: z.string().optional(),
-  hasEgg: ArmorEggSchema.optional(),
-}).strict() satisfies z.ZodSchema<DnaDegenerations>;
-
-export const DigimonDnaInfoSchema = z.object({
-  dnaReqs: DnaEvoRequirementsSchema,
-  dnaEvolvesInto: z.string().array().optional(),
-  dnaDegensInto: DnaDegenerationsSchema.array(),
-}).strict() satisfies z.ZodSchema<DigimonDnaInfo>;
-
-export const DigimonDnaInfoMapSchema =
-  z.record(z.string(), DigimonDnaInfoSchema) satisfies z.ZodSchema<DigimonDnaInfoMap>;

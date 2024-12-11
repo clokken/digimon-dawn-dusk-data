@@ -1,12 +1,6 @@
 import { z } from "zod";
 import { DIGIMON, TECHS, TRAITS, EVO_LINES, EVO_DNA, VERSION_EXCLUSIVES, EVO_ARMOR } from "..";
-import { DigimonSchema } from "../digimon";
-import { TechInfoSchema } from "../tech-info";
-import { TraitInfoSchema } from "../trait-info";
-import { DigimonEvoLineSchema } from "../evos";
-import { DigimonDnaInfoMapSchema } from "../dna-evos";
-import { VersionExclusivesSchema } from "../version-exclusives";
-import { ArmorInfoMapSchema } from "../armor-evos";
+import { DigimonSchema, TechInfoSchema, TraitInfoSchema, DigimonEvoLineSchema, DigimonDnaInfoMapSchema, VersionExclusivesSchema, ArmorInfoMapSchema } from "./schemas";
 
 function validate() {
   // 1. Validate json structures
