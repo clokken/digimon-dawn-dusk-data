@@ -1,0 +1,3754 @@
+[
+  {
+    "name": "Charge",
+    "desc": "Tackle\nan enemy\nin 1 zone",
+    "effect": 3,
+    "mp": 3,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "TinyHolyFlame",
+    "desc": "Gather energy of\nlight and blow up\n3 zones☆Fixed",
+    "effect": 30,
+    "mp": 23,
+    "range": ".OOO.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Rainbow Spit",
+    "desc": "Spit mysterious foam\nat an enemy in\n1 zone",
+    "effect": 101,
+    "mp": 122,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Frothy Spit",
+    "desc": "Spit acid foam at\nan enemy\nin 1 zone",
+    "effect": 12,
+    "mp": 6,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Giga Breath",
+    "desc": "Unleash a big fire\nball and burn\n2 zones",
+    "effect": 89,
+    "mp": 53,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Heavy Tackle",
+    "desc": "Attack 3 zones\nwith a\nheavy tackle",
+    "effect": 73,
+    "mp": 59,
+    "range": ".ooo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Bubble Blow",
+    "desc": "Spit large amounts\nof acid foam at an\nenemy in 4 zones",
+    "effect": 58,
+    "mp": 72,
+    "range": ".oooo",
+    "attribute": "Water"
+  },
+  {
+    "name": "Top Gun",
+    "desc": "Unleash a ball\nof exploding hot air\nin 1 zone",
+    "effect": 82,
+    "mp": 38,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Rain of Pollen",
+    "desc": "Reduce Attack in 3\nzones with a\nstrange secretion",
+    "effect": null,
+    "mp": 100,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Pit Crusher",
+    "desc": "Destroy 2 zones of\ndata with arrows of\ndarkness☆Paralyze",
+    "effect": 78,
+    "mp": 63,
+    "range": ".o.o.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Boost Tackle",
+    "desc": "Accelerate with\nenergy power and\ncharge 1 zone",
+    "effect": 49,
+    "mp": 28,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Death Cannon",
+    "desc": "Burn 3 zones with\na cannon attack\nof darkness",
+    "effect": 101,
+    "mp": 99,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Glare Eye",
+    "desc": "Attack 1 zone with\na glare filled with\ndark power",
+    "effect": 11,
+    "mp": 8,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Holy Cannon",
+    "desc": "Fire a ball of light\nand attack 3 zones\n☆Fixed",
+    "effect": 89,
+    "mp": 48,
+    "range": "O.O.O",
+    "attribute": "Light"
+  },
+  {
+    "name": "Sonic Counter",
+    "desc": "Give a countering\neffect to allies with\nwind in 2 zones",
+    "effect": null,
+    "mp": 150,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Tiny Metal",
+    "desc": "Fire small metal\nprojectiles and\nattack 1 zone",
+    "effect": 32,
+    "mp": 12,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "PowerofLove",
+    "desc": "Resurrect ally in\n1 zone with a\nloving hug",
+    "effect": null,
+    "mp": 88,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Light Wave",
+    "desc": "Reduce attack in 4\nzones with waves of\nlight",
+    "effect": null,
+    "mp": 135,
+    "range": ".oooo",
+    "attribute": "Light"
+  },
+  {
+    "name": "AbsoluteHealing",
+    "desc": "Restore ally HP\nin 5 zones with\nholy power☆Fixed",
+    "effect": null,
+    "mp": 170,
+    "range": "OOOOO",
+    "attribute": "Light"
+  },
+  {
+    "name": "KurumonPrayer",
+    "desc": "Restore status and\nraise all resistance\n☆Fixed",
+    "effect": null,
+    "mp": 330,
+    "range": "OOOOO",
+    "attribute": "Light"
+  },
+  {
+    "name": "Mega Napalm",
+    "desc": "Create fire pillars\nwith fireballs in 3\nzones☆Fixed",
+    "effect": 55,
+    "mp": 47,
+    "range": ".OOO.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Dark Claw",
+    "desc": "Slash 2 zones with\nclaws of darkness\n☆Poison",
+    "effect": 79,
+    "mp": 48,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Nail Scratch",
+    "desc": "Scratch 1 zone\nwith a small claw\nof dark power",
+    "effect": 18,
+    "mp": 9,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Power Blaster",
+    "desc": "Fire large electric\nballs and attack\n3 zones",
+    "effect": 76,
+    "mp": 62,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Sharp Fang",
+    "desc": "Bite an enemy in\n1 zone with\nsharp fangs",
+    "effect": 50,
+    "mp": 32,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Lullaby",
+    "desc": "Affect 5 zones\nwith a song of\nsleep☆Fixed☆Sleep",
+    "effect": null,
+    "mp": 111,
+    "range": "OOOOO",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Starlight",
+    "desc": "Blow up 3 zones\nwith starlight\nenergy☆Fixed",
+    "effect": 76,
+    "mp": 48,
+    "range": ".OOO.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Black Blast",
+    "desc": "Attack 1 zone\nwith an energy\nball of darkness",
+    "effect": 45,
+    "mp": 23,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Air Gun",
+    "desc": "Unleash a ball\nof exploding air\nin 1 zone",
+    "effect": 22,
+    "mp": 9,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Gatling Punch",
+    "desc": "Unleash a hard\nfist punch to 1\nzone ☆2 times",
+    "effect": 22,
+    "mp": 15,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Small Tornado",
+    "desc": "Cause a small\ntyphoon and attack\n2 zones",
+    "effect": 28,
+    "mp": 13,
+    "range": ".o.o.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Dramon Claw",
+    "desc": "Slash 1 zone with\nclaws filled with the\npower of a dragon",
+    "effect": 48,
+    "mp": 29,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Headbutt",
+    "desc": "Attack 1 zone with\na very strong\nhead butt",
+    "effect": 26,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Claw Attack",
+    "desc": "Scratch 1 zone with\nlong claws",
+    "effect": 22,
+    "mp": 8,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Small Breath",
+    "desc": "Unleash a small\nfireball and\nattack 1 zone",
+    "effect": 24,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Raging Flame",
+    "desc": "Lower resist fire in\n2 zones with power\nof flame",
+    "effect": 40,
+    "mp": 55,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Pepper Breath",
+    "desc": "Cause an explosion\nat 1 zone with a\nsmall ball of flame",
+    "effect": 29,
+    "mp": 13,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Light Tackle",
+    "desc": "Attack 1 zone\nwith a\nswift tackle",
+    "effect": 26,
+    "mp": 9,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Middle Tackle",
+    "desc": "Attack 3 zones\nwith a\npowerful tackle",
+    "effect": 43,
+    "mp": 39,
+    "range": ".ooo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Air Cutter",
+    "desc": "Slash 2 zones with\nsharp blades of air",
+    "effect": 50,
+    "mp": 33,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Sharp Claw",
+    "desc": "Slash 2 zones\nwith long sharp\nclaws",
+    "effect": 38,
+    "mp": 28,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Fire Ball",
+    "desc": "Set off a blast at\n2 zones with\nballs of fire",
+    "effect": 24,
+    "mp": 14,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Raging Beast",
+    "desc": "Lower resist earth\nin 2 zones with the\npower of a beast",
+    "effect": 40,
+    "mp": 55,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Beast Coat",
+    "desc": "Raise resist earth\nin 3 zones with\npower of beast",
+    "effect": null,
+    "mp": 50,
+    "range": ".ooo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Beast Attack",
+    "desc": "Attack 1 zone with\na swift blow of\na powerful beast",
+    "effect": 28,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Tiny Blaster",
+    "desc": "Produce a small\nelectric ball and\nattack 1 zone",
+    "effect": 24,
+    "mp": 9,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Thunder",
+    "desc": "Summon thunder\nand attack 2 zones",
+    "effect": 50,
+    "mp": 34,
+    "range": "..oo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Acid Rain",
+    "desc": "Attack 3 zones with\nacid rain and\nreduce Defense",
+    "effect": 35,
+    "mp": 81,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Water Shot",
+    "desc": "Attack 1 zone with\na bursting stream\nof water",
+    "effect": 28,
+    "mp": 11,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Small Cutter",
+    "desc": "Slash\n1 zone",
+    "effect": 26,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Healing Air",
+    "desc": "Wind restores HP\nand cures poison\nin 3 zones",
+    "effect": null,
+    "mp": 55,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Boom Bubble",
+    "desc": "Attack 1 zone by\nsending a small\nball of air",
+    "effect": 26,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Wind Claw",
+    "desc": "Slash 1 zone with\nclaws with the\npower of the wind",
+    "effect": 21,
+    "mp": 8,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Surprise Blow",
+    "desc": "Attack 2 zones\nwith a sneaky\nattack",
+    "effect": 28,
+    "mp": 18,
+    "range": ".o.o.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Beak Attack",
+    "desc": "Poke 1 zone with\na hard beak",
+    "effect": 26,
+    "mp": 9,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Electric Rage",
+    "desc": "Lower resist thunder\nin 2 zones with\npower of electricity",
+    "effect": 40,
+    "mp": 55,
+    "range": "..oo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "UnexpectedBlow",
+    "desc": "Attack 3 zones\nwith unexpected\nmoves☆Fixed",
+    "effect": 47,
+    "mp": 33,
+    "range": "O.O.O",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Stun Whipping",
+    "desc": "Tie up enemies with\nvines and attack\n2 zones☆Paralyze",
+    "effect": 40,
+    "mp": 32,
+    "range": "..oo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Poison Ivy",
+    "desc": "Attack 1 zone\nwith poisonous ivy\n☆Poison",
+    "effect": 24,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Thunder Claw",
+    "desc": "Slash 2 zones\nwith an electrified\nclaw☆Paralyze",
+    "effect": 42,
+    "mp": 29,
+    "range": "..oo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Electric Shock",
+    "desc": "Resurrect ally in\n3 zones with\nelectric shocks",
+    "effect": null,
+    "mp": 108,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Super Shocker",
+    "desc": "Electrocute 1 zone\nwith a small ball\nof electricity",
+    "effect": 29,
+    "mp": 11,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Soulful Kick",
+    "desc": "Smash 1 zone\nwith a hard kick\nfull of soul",
+    "effect": 55,
+    "mp": 34,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "RagingMachine",
+    "desc": "Lower resist steel\nin 2 zones with\nmachine power",
+    "effect": 40,
+    "mp": 55,
+    "range": "..oo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Great Wall",
+    "desc": "Machine defense\nraises Defense of\nallies in 3 zones",
+    "effect": null,
+    "mp": 111,
+    "range": ".ooo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Angry Rock",
+    "desc": "Attack 1 zone by\nfiring a rock from\nthe head",
+    "effect": 32,
+    "mp": 12,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Frothier Spit",
+    "desc": "Spit a stronger\nacid foam at an\nenemy in 1 zone",
+    "effect": 26,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Healing Spring",
+    "desc": "Restore HP of\nallies in 3 zones\nwith healing rain",
+    "effect": null,
+    "mp": 110,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Lullaby Bubble",
+    "desc": "Envelope 4 zones\nwith bubbles of\nsleep☆Sleep",
+    "effect": null,
+    "mp": 103,
+    "range": ".oooo",
+    "attribute": "Water"
+  },
+  {
+    "name": "Hydro Water",
+    "desc": "Shoot a stream of\nwater and attack\n1 zone",
+    "effect": 25,
+    "mp": 9,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Ice Blast",
+    "desc": "Attack an enemy\nin 1 zone\nwith an ice arrow",
+    "effect": 44,
+    "mp": 28,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Double Wave",
+    "desc": "Cause a tsunami\nto attack\nenemies in 2 zones",
+    "effect": 47,
+    "mp": 33,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Holy Bolt",
+    "desc": "Fire a small\nball of light and\nattack 1 zone",
+    "effect": 25,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Nightmare",
+    "desc": "Attack 3 zones with\nnightmare, reducing\nall resistance",
+    "effect": 99,
+    "mp": 108,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Purification",
+    "desc": "Restore HP and\nstatus disorder in 5\nzones☆Fixed",
+    "effect": null,
+    "mp": 135,
+    "range": "OOOOO",
+    "attribute": "Light"
+  },
+  {
+    "name": "Holy Shoot",
+    "desc": "Cause an explosion\nin 1 zone with a\nsmall ball of light",
+    "effect": 30,
+    "mp": 13,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Shadow Claw",
+    "desc": "Slash 1 zone with\na claw of darkness\n☆Poison",
+    "effect": 27,
+    "mp": 12,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "RagingDarkness",
+    "desc": "Lower resist dark\nin 2 zones with\npower of darkness",
+    "effect": 40,
+    "mp": 55,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Dark Whisper",
+    "desc": "Reduce Spirit in 4\nzones with sweet\nwords of darkness",
+    "effect": null,
+    "mp": 122,
+    "range": ".oooo",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Demi Dart",
+    "desc": "Attack 1 zone with\nsyringes of\ndarkness☆HPDrain",
+    "effect": 20,
+    "mp": 14,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Energy Bolt",
+    "desc": "Fire an energy\nball and blow up\n1 zone",
+    "effect": 26,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Tiny Bomb",
+    "desc": "Throw a small bomb\nand blow up\n1 zone",
+    "effect": 26,
+    "mp": 11,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "MachineAttack",
+    "desc": "Inflict a hard blow\nfull of machine\npower in 1 zone",
+    "effect": 25,
+    "mp": 9,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Dark Crusher",
+    "desc": "Destroy data in 1\nzone with arrow\ndarkness☆Paralyze",
+    "effect": 29,
+    "mp": 12,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Nano Break",
+    "desc": "Attack 4 zones\nwith nanomachines\nand reduce Defense",
+    "effect": 62,
+    "mp": 115,
+    "range": ".oooo",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Sonic Voice",
+    "desc": "Unleash a sonic ball\nand attack 1 zone\nwith its impact",
+    "effect": 43,
+    "mp": 23,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Holy Hand",
+    "desc": "Attack 1 zone\nwith a fist of\nholy power",
+    "effect": 36,
+    "mp": 27,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Shock Net",
+    "desc": "Attack 5 zones\nwith electrified net\nreducing Speed☆Fixed",
+    "effect": 25,
+    "mp": 68,
+    "range": "OOOOO",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Gaia Healing",
+    "desc": "Restore HP of\nallies in 4 zones\nwith earth power",
+    "effect": null,
+    "mp": 150,
+    "range": ".oooo",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Petite Tackle",
+    "desc": "Tackle 1 zone\nwith your small body\n☆Confusion",
+    "effect": 23,
+    "mp": 8,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Tiny Twister",
+    "desc": "Attack 2 zones\nwith a small\ntyphoon",
+    "effect": 24,
+    "mp": 13,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Little Blizzard",
+    "desc": "Freeze 2 zones\nwith a small\nice storm",
+    "effect": 28,
+    "mp": 13,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Dark Twister",
+    "desc": "Attack 2 zones with\na small typhoon\nof dark energy",
+    "effect": 25,
+    "mp": 13,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Grand Cross",
+    "desc": "Slash 1 zone with\nholy power and\nadminister justice",
+    "effect": 29,
+    "mp": 12,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Light Coat",
+    "desc": "Raise resist light\nin 3 zones with\npower of light",
+    "effect": null,
+    "mp": 50,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Leaf Blade",
+    "desc": "Throw sharp leaf\nblades at 1 zone\n☆2 times",
+    "effect": 23,
+    "mp": 22,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Dark Fire",
+    "desc": "Attack 1 zone with\na small ball of\nfire from the abyss",
+    "effect": 29,
+    "mp": 13,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Crazy Giggle",
+    "desc": "Attack 1 zone with\na ball filled\nwith dark energy",
+    "effect": 30,
+    "mp": 12,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Metal Star",
+    "desc": "Throw shuriken at\n3 zones all at\nonce☆Fixed",
+    "effect": 53,
+    "mp": 36,
+    "range": "O.O.O",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Wind Coat",
+    "desc": "Raise resist wind\nin 3 zones with\npower of wind",
+    "effect": null,
+    "mp": 50,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Goburi Strike",
+    "desc": "Throw a ball of\nfire striking\n1 zone",
+    "effect": 29,
+    "mp": 12,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Pummel Whack",
+    "desc": "Unleash fatal\nbeast punches\nat 3 zones",
+    "effect": 61,
+    "mp": 48,
+    "range": ".ooo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Mini Blade",
+    "desc": "Slash 1 zone with\na small blade",
+    "effect": 22,
+    "mp": 8,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Normal Blade",
+    "desc": "Slash 1 zone with\na sharp blade",
+    "effect": 44,
+    "mp": 26,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "LightningArrow",
+    "desc": "Pierce 1 zone with\nan electric shock\n☆Paralyze",
+    "effect": 28,
+    "mp": 11,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Cure Poison",
+    "desc": "Magic restores\nHP and cures poison\nin 3 zones",
+    "effect": null,
+    "mp": 45,
+    "range": ".ooo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Raging Water",
+    "desc": "Lower resist water\nin 2 zones with\npower of water",
+    "effect": 40,
+    "mp": 55,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Snow Claw",
+    "desc": "Slash 1 zone with\nclaws of freezing\nair",
+    "effect": 27,
+    "mp": 10,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Hard Shell",
+    "desc": "Raise Defense in\n2 zones with power\nof a hard shell",
+    "effect": null,
+    "mp": 87,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Water Coat",
+    "desc": "Raise resist water\nin 3 zones with\npower of water",
+    "effect": null,
+    "mp": 50,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Freeze Bolt",
+    "desc": "Attack 3 zones by\nfreezing the ground\nand reducing Speed",
+    "effect": 60,
+    "mp": 96,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Raging Wind",
+    "desc": "Lower resist wind\nin 2 zones with\npower of wind",
+    "effect": 40,
+    "mp": 55,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Cross Cutter",
+    "desc": "Slash 1 zone\nwith a\ncrisscross attack",
+    "effect": 42,
+    "mp": 26,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Poison Powder",
+    "desc": "Attack 4 zones by\nscattering poisonous\npowder☆Poison",
+    "effect": 43,
+    "mp": 90,
+    "range": ".oooo",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Black Coat",
+    "desc": "Raise resist dark\nin 3 zones with\npower of darkness",
+    "effect": null,
+    "mp": 50,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Boost 0n",
+    "desc": "Speed up an ally in\n1 zone with machine\npower",
+    "effect": null,
+    "mp": 100,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Bone Spear",
+    "desc": "Slash 1 zone\nwith a spear",
+    "effect": 26,
+    "mp": 9,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Rainbow Force",
+    "desc": "Attack 1 zone\nwith a prismatic\nenergy ball",
+    "effect": 50,
+    "mp": 30,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "GashingBreeze",
+    "desc": "Slash 2 zones\nby causing\na vacuum storm",
+    "effect": 47,
+    "mp": 31,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "CrescentCutter",
+    "desc": "Slash 2 zones with\nmultiple blades of\nair☆2 times",
+    "effect": 64,
+    "mp": 103,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Flash Ray",
+    "desc": "Confuse enemies\nin 3 zones with\nflashing light",
+    "effect": null,
+    "mp": 62,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Mental Cure",
+    "desc": "Restore MP of\nally in 1 zone\nwith power of light",
+    "effect": null,
+    "mp": 140,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Normal Missile",
+    "desc": "Fire a missile and\nengulf 1 zone\nin flames",
+    "effect": 51,
+    "mp": 31,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Dark Savior",
+    "desc": "Resurrect ally in\n1 zone with a hand\nof darkness",
+    "effect": null,
+    "mp": 58,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "MedicalSystem",
+    "desc": "Restore ally HP in\n3 zones with\nnanomachine power",
+    "effect": null,
+    "mp": 95,
+    "range": ".ooo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Power Cutter",
+    "desc": "Slash 2 zones\nwith powerful quick\ncrisscross attacks",
+    "effect": 73,
+    "mp": 43,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Double Blaster",
+    "desc": "Fire multiple electric\nballs to attack 1\nzone☆2 times",
+    "effect": 38,
+    "mp": 68,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Energy Shot",
+    "desc": "Fire energy balls\nall at once and\nblow up 3 zones",
+    "effect": 70,
+    "mp": 55,
+    "range": ".ooo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Rising Ray",
+    "desc": "Fire a shining\nenergy ball into\n1 zone☆2 times",
+    "effect": 81,
+    "mp": 94,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Power Laser",
+    "desc": "Attack 3 zones with\na laser beam\n☆Fixed",
+    "effect": 54,
+    "mp": 33,
+    "range": "O.O.O",
+    "attribute": "Steel"
+  },
+  {
+    "name": "DoubleD Claw",
+    "desc": "Slash 1 zone with\npowerful dragon\nclaws☆2 times",
+    "effect": 74,
+    "mp": 92,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Fiery Breath",
+    "desc": "Set off a blast of\nfire in 2 zones with\na big fireball",
+    "effect": 48,
+    "mp": 32,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Fire Breath",
+    "desc": "Strike 1 zone with\na fireball causing\na pillar of fire",
+    "effect": 52,
+    "mp": 29,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Touch of Evil",
+    "desc": "Slash enemies in 2\nzones with power of\ndarkness☆Paralyze",
+    "effect": 44,
+    "mp": 33,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Hyper-Tornado",
+    "desc": "Cause a strong\ntyphoon and blow\naway 4 zones",
+    "effect": 118,
+    "mp": 134,
+    "range": ".oooo",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Fatal Tornado",
+    "desc": "Damage enemies\nin 4 zones with a\nwhirling tornado",
+    "effect": 51,
+    "mp": 47,
+    "range": ".oooo",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Big Ice Blast",
+    "desc": "Attack enemies\nin 2 zones\nwith big ice arrows",
+    "effect": 66,
+    "mp": 45,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Water Wave",
+    "desc": "Attack 3 zones\nwith a big\ntsunami",
+    "effect": 39,
+    "mp": 35,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Junk Attack",
+    "desc": "A dangerous attack\nat 1 zone throwing\nyour poop",
+    "effect": 38,
+    "mp": 24,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Random Poop",
+    "desc": "Repeatedly throw\nyour poop at 1\nzone☆3 times",
+    "effect": 48,
+    "mp": 109,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Nume Charge",
+    "desc": "Charge 1 zone\nwith a slippery body\n☆Paralyze",
+    "effect": 38,
+    "mp": 25,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "ElectroShocker",
+    "desc": "Electrify 1 zone by\nfiring a big electric\nball",
+    "effect": 55,
+    "mp": 33,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Freeze Fang",
+    "desc": "Slash 1 zone with\na claw of freezing\ncold☆2times",
+    "effect": 40,
+    "mp": 47,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Big Tornado",
+    "desc": "Cause a big typhoon\nand attack 3 zones\n☆Fixed",
+    "effect": 77,
+    "mp": 48,
+    "range": "O.O.O",
+    "attribute": "Wind"
+  },
+  {
+    "name": "CelestialCross",
+    "desc": "Slash 1 zone\nand administer the\njustice of light",
+    "effect": 99,
+    "mp": 46,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Celestial Hand",
+    "desc": "Attack 2 zones\nwith a fist of\nholy power",
+    "effect": 73,
+    "mp": 50,
+    "range": "..oo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "HeavenKnuckle",
+    "desc": "Punch at 1 zone\nwith a holy iron\nfist",
+    "effect": 53,
+    "mp": 31,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Branch Drain",
+    "desc": "Take HP from an\nenemy in 1 zone\n☆HPDrain",
+    "effect": 47,
+    "mp": 35,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Winning Punch",
+    "desc": "Unleash quick\nfatal punches to\n2 zones",
+    "effect": 85,
+    "mp": 65,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Bone Strike",
+    "desc": "Attack 1 zone with\na hard bone club\n☆2 times",
+    "effect": 39,
+    "mp": 46,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "DarkKnowledge",
+    "desc": "Give knowledge of\ndarkness and raise\nSpirit of 2 zones",
+    "effect": null,
+    "mp": 84,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Scar Nail",
+    "desc": "Slash 2 zones\nwith dirty filthy\nclaws☆Confuse",
+    "effect": 43,
+    "mp": 27,
+    "range": "..oo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Petrifier",
+    "desc": "Stare with evil\neyes and petrify\n3 zones☆paralyze",
+    "effect": 53,
+    "mp": 82,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Feather Shoot",
+    "desc": "Slice up 1 zone by\nfiring sharp-edged\nfeathers☆2 times",
+    "effect": 39,
+    "mp": 45,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "BeastKing Fist",
+    "desc": "Unleash fatal\nlion punches\nat 2 zones",
+    "effect": 70,
+    "mp": 45,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Shishiomaru",
+    "desc": "Slash 2 zones with\nthe legendary sword\n''Shishioumaru''",
+    "effect": 67,
+    "mp": 38,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Instant Blow",
+    "desc": "Make a quick\nattack to\n3 zones",
+    "effect": 81,
+    "mp": 63,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Shadow Slash",
+    "desc": "Slash 1 zone with\nlighting speed",
+    "effect": 50,
+    "mp": 30,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Raging Light",
+    "desc": "Lower resist light\nin 2 zones with\npower of light",
+    "effect": 40,
+    "mp": 55,
+    "range": "..oo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Normal Bomb",
+    "desc": "Throw two small\nbombs and blow up\n2 zones",
+    "effect": 43,
+    "mp": 28,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Thunder Ball",
+    "desc": "Attack 2 zones\nwith bolts of\nlightning",
+    "effect": 52,
+    "mp": 34,
+    "range": ".o.o.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Needle Spray",
+    "desc": "Attack 1 zone with\nconsecutive punches\n☆3 times",
+    "effect": 33,
+    "mp": 77,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Twin Missile",
+    "desc": "Fire 2 missiles and\nengulf 2 zones\nin flames",
+    "effect": 88,
+    "mp": 47,
+    "range": ".o.o.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "X Laser",
+    "desc": "Burn 1 zone with a\nlaser beam fired\nfrom the X mark",
+    "effect": 55,
+    "mp": 31,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Wild TD Claw",
+    "desc": "Slash 2 zones with\nelectrified claws\n☆2 times☆Paralyze",
+    "effect": 63,
+    "mp": 100,
+    "range": "..oo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Spiking FN",
+    "desc": "Pierce 1 zone with\na pile of energy",
+    "effect": 66,
+    "mp": 38,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Fire Coat",
+    "desc": "Raise resist fire in\n3 zones with power\nof flame",
+    "effect": null,
+    "mp": 50,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Meteor Fall",
+    "desc": "Summon a meteor\nand burn 2 zones\n☆2 times",
+    "effect": 83,
+    "mp": 115,
+    "range": ".o.o.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Meteor Wing",
+    "desc": "Send burning wings\nflying to damage\nenemies in 2 zones",
+    "effect": 49,
+    "mp": 29,
+    "range": ".o.o.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Megaton Press",
+    "desc": "Squash 3 zones\nwith a heavy body\n☆Fixed",
+    "effect": 65,
+    "mp": 38,
+    "range": ".OOO.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Bunny Pummel",
+    "desc": "Fire guns at\n1 zone randomly\n☆2 times",
+    "effect": 44,
+    "mp": 54,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "FoxtailInferno",
+    "desc": "Send a dragon\nshaped flame to\nburn 1 zone",
+    "effect": 61,
+    "mp": 35,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Cursed Slash",
+    "desc": "Slash 1 zone with\ncursing power\n☆Sleep",
+    "effect": 51,
+    "mp": 39,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Dark Counter",
+    "desc": "Give a countering\neffect to allies with\ndarkness in 2 zones",
+    "effect": null,
+    "mp": 150,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "MentalEssence",
+    "desc": "Restore MP of\nally in 1 zone\nwith dark power",
+    "effect": null,
+    "mp": 120,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Data Crusher",
+    "desc": "Slash 4 zones with\nnumerous tentacles\n☆Fixed",
+    "effect": 48,
+    "mp": 42,
+    "range": "OO.OO",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Saint Heal",
+    "desc": "Restore HP of\nallies in 4 zones\nwith holy power",
+    "effect": null,
+    "mp": 140,
+    "range": ".oooo",
+    "attribute": "Light"
+  },
+  {
+    "name": "Energy Ray",
+    "desc": "Fire a solar ball\nof light at 1 zone\n☆2 times",
+    "effect": 43,
+    "mp": 52,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Cyclone Claw",
+    "desc": "Slash 1 zone with\nclaws as swift as\na whirlwind☆2 times",
+    "effect": 66,
+    "mp": 89,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Blast Shot",
+    "desc": "Send ballistic waves\nand attack 1 zone",
+    "effect": 50,
+    "mp": 30,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Blazing Power",
+    "desc": "Raise Attack of\nallies in 3 zones\nwith power of flame",
+    "effect": null,
+    "mp": 110,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Dino Slash",
+    "desc": "Slash 1 zone with\nthe power of a\ndragon☆2 times",
+    "effect": 40,
+    "mp": 48,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Battle Stamp",
+    "desc": "Raise Attack of an\nally in 1 zone with\nmachine power",
+    "effect": null,
+    "mp": 105,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Metal Shot",
+    "desc": "Fire on 1 zone with\nhard metal balls\n☆2 times",
+    "effect": 40,
+    "mp": 46,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Heavy Attack",
+    "desc": "Attack 1 zone with\na blow with the\npower of a beast",
+    "effect": 57,
+    "mp": 35,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Heavy Metal",
+    "desc": "Fire several metal\nprojectiles attacking\n3 zones☆2 times",
+    "effect": 70,
+    "mp": 123,
+    "range": ".ooo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Fighting Spirit",
+    "desc": "Fire a big metal\nball and crash it\ninto 1 zone",
+    "effect": 59,
+    "mp": 32,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Forlorn Fang",
+    "desc": "Crush the enemy\nin 1 zone\nwith sharp fangs",
+    "effect": 122,
+    "mp": 99,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Mind Reader",
+    "desc": "Read the enemy's\nmind to speed up\nallies in 2 zones",
+    "effect": null,
+    "mp": 115,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Meteor Squall",
+    "desc": "Summon meteors of\nfire and attack 2\nzones",
+    "effect": 44,
+    "mp": 35,
+    "range": ".o.o.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Gatling Bomb",
+    "desc": "Fire a bomb into 1\nzone attacking from\nthe inside☆3 times",
+    "effect": 63,
+    "mp": 121,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "PowerfulPunch",
+    "desc": "Punch 1 zone with\na punch full of\npowerful energy",
+    "effect": 53,
+    "mp": 32,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Aerial Attack",
+    "desc": "Fire a shot of holy\nenergy at an enemy\nin 1 zone",
+    "effect": 50,
+    "mp": 30,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Lore of Light",
+    "desc": "Raise spirit of 4\nzones with wisdom\nof light",
+    "effect": null,
+    "mp": 110,
+    "range": ".oooo",
+    "attribute": "Light"
+  },
+  {
+    "name": "Fire Blast",
+    "desc": "Burn 4 zones\nby breathing fire",
+    "effect": 45,
+    "mp": 47,
+    "range": ".oooo",
+    "attribute": "Fire"
+  },
+  {
+    "name": "HarpoonTrpedo",
+    "desc": "Attack 1 zone\nwith horn missiles\n☆2 times",
+    "effect": 41,
+    "mp": 49,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Ice Punch",
+    "desc": "Attack 2 zones\nwith a fist of\npowerful cold",
+    "effect": 48,
+    "mp": 30,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Dark Blast",
+    "desc": "Attack 2 zones with\nenergy balls of\ncondensed darkness",
+    "effect": 83,
+    "mp": 62,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Spiral Blow",
+    "desc": "Attack 3 zones by\nunleashing a\npowerful tornado",
+    "effect": 49,
+    "mp": 39,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "HighSonicVoice",
+    "desc": "Unleash a strong\nsonic ball and\nattack 3 zones",
+    "effect": 69,
+    "mp": 62,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "DLGashBreeze",
+    "desc": "Slash 2 zones by\ncausing multiple\nvacuum storms",
+    "effect": 75,
+    "mp": 108,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Fang Attack",
+    "desc": "Slash 1 zone with\nquick sharp claws\n☆2 times",
+    "effect": 41,
+    "mp": 50,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Sunshine Beam",
+    "desc": "Attack 1 zone\nwith a beam of\nsolar energy",
+    "effect": 55,
+    "mp": 32,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "DJ Shooter",
+    "desc": "Slash 3 zones by\nfiring a spinning\ndisk☆Fixed",
+    "effect": 52,
+    "mp": 32,
+    "range": "O.O.O",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Drain Slash",
+    "desc": "Slash 1 zone with\na strike filled with\ndarkness☆HPDrain",
+    "effect": 53,
+    "mp": 40,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Spiral Claw",
+    "desc": "Slash 1 zone with\nclaws of tornado\npower☆2 times",
+    "effect": 103,
+    "mp": 132,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Drill Spin",
+    "desc": "Slash 1 zone to\npieces with a drill\nslash☆Death",
+    "effect": 60,
+    "mp": 41,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "StrngCarapace",
+    "desc": "Attack 3 zones\nwith rock missiles\n☆Fixed",
+    "effect": 60,
+    "mp": 29,
+    "range": "O.O.O",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Deadly Shade",
+    "desc": "Attack 2 zones\nwhile inflicting\nparalysis☆Paralyze",
+    "effect": 44,
+    "mp": 31,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Megaton Hydro",
+    "desc": "Shoot a strong\nstream of water\nand attack 2 zones",
+    "effect": 72,
+    "mp": 63,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Blizzard",
+    "desc": "Freeze 3 zones\nwith a strong\nice storm",
+    "effect": 67,
+    "mp": 59,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Poison Rain",
+    "desc": "Attack 3 zones\nwith poisonous rain\n☆Poison",
+    "effect": 55,
+    "mp": 84,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Double Blade",
+    "desc": "Slash 1 zone quickly\nwith a sharp blade\n☆2 times",
+    "effect": 77,
+    "mp": 103,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Poison Sting",
+    "desc": "Attack 1 zone with\na sharp poisonous\nneedle☆Poison",
+    "effect": 52,
+    "mp": 31,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Air Thunder",
+    "desc": "Manipulate the air\nand drop thunder\non 3 zones",
+    "effect": 85,
+    "mp": 70,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "MegaMetalStar",
+    "desc": "Throw two huge\nshuriken and\nslash 4 zones",
+    "effect": 88,
+    "mp": 92,
+    "range": ".oooo",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Machine Coat",
+    "desc": "Raise resist steel\nin 3 zones with\nmachine power",
+    "effect": null,
+    "mp": 50,
+    "range": ".ooo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Paint Rocket",
+    "desc": "Cover enemies in\n3 zones with\npaint☆Fixed",
+    "effect": 50,
+    "mp": 37,
+    "range": ".OOO.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "ChronoBreaker",
+    "desc": "Destoy time\nin 3 zones\n☆Fixed",
+    "effect": 63,
+    "mp": 44,
+    "range": ".OOO.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Electric Coat",
+    "desc": "Raise resist thunder\nin 3 zones with\npower of electricity",
+    "effect": null,
+    "mp": 50,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Quick Shot",
+    "desc": "Shoot out 1 zone\nwith a quick draw",
+    "effect": 49,
+    "mp": 28,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "VibelessArrow",
+    "desc": "Burn 1 zone by\nfiring intense heat\nballs from mouth",
+    "effect": 53,
+    "mp": 30,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Chaos Slash",
+    "desc": "Slash 2 zones with\nthe power of chaos\n☆Confusion",
+    "effect": 93,
+    "mp": 76,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Night Lancer",
+    "desc": "Slash 1 zone by\ncharging at an\nenemy with darts",
+    "effect": 56,
+    "mp": 34,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Flame Dive",
+    "desc": "Attack 2 zones\nfrom the sky\nengulfed in flames",
+    "effect": 58,
+    "mp": 35,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "MoonNightBomb",
+    "desc": "Attack 1 zone with\nsleep inducing\nbubbles☆2times☆Sleep",
+    "effect": 40,
+    "mp": 53,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "VolcanoNapalm",
+    "desc": "Create fire pillars\nwith fireballs in 2\nzones☆2 Times",
+    "effect": 71,
+    "mp": 108,
+    "range": ".o.o.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "BigBangTackle",
+    "desc": "Tackle 3 zones\nwith explosive\npower",
+    "effect": 92,
+    "mp": 84,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Giga Missile",
+    "desc": "Fire potent missiles\nand engulf 3 zones\nin flames☆2 times",
+    "effect": 118,
+    "mp": 182,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Giga Blaster",
+    "desc": "Destroy 2 zones\nwith two powerful\nmissiles",
+    "effect": 100,
+    "mp": 70,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Lovely Attack",
+    "desc": "Attack 3 zones by\nshooting lots of\nhearts of love",
+    "effect": 80,
+    "mp": 75,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Skull Destroy",
+    "desc": "Destroy 3 zones by\nfiring missiles\n☆Fixed☆Poison",
+    "effect": 101,
+    "mp": 81,
+    "range": ".OOO.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Energy Bomb",
+    "desc": "Blow up 3 zones\nwith the ''psycho\nblaster''☆Fixed",
+    "effect": 93,
+    "mp": 63,
+    "range": ".OOO.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Laser Blade",
+    "desc": "Slash 1 zone with\nan energy laser\nblade☆2 times",
+    "effect": 111,
+    "mp": 142,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Lightning Blade",
+    "desc": "Slash 2 zones by\nunleashing blades\nof energy",
+    "effect": 82,
+    "mp": 71,
+    "range": "..oo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Love Serenade",
+    "desc": "Attack 4 zones by\nsinging a love song\n☆Confuse",
+    "effect": 85,
+    "mp": 72,
+    "range": ".oooo",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Nanomech Heal",
+    "desc": "Restore HP and\nstatus disorder\nin 4 zones☆Fixed",
+    "effect": null,
+    "mp": 115,
+    "range": ".oooo",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Genocide A",
+    "desc": "Fire missiles from\nthe arms attacking\n3 zones☆2 times",
+    "effect": 54,
+    "mp": 112,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Holy Slash",
+    "desc": "Slash 3 zones\nwith a strike filled\nwith holy power",
+    "effect": 80,
+    "mp": 70,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Bit Bomb",
+    "desc": "Throw a CPU virus\nbomb at 1 zone\n☆2 times☆Poison",
+    "effect": 79,
+    "mp": 86,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "01 Crusher",
+    "desc": "Destroy 1 zone with\narrow of darkness\n☆3 times☆Paralyze",
+    "effect": 92,
+    "mp": 187,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Enigma",
+    "desc": "Attack 4 zones\nwith mysterious\npower☆Paralyze",
+    "effect": 72,
+    "mp": 84,
+    "range": ".oooo",
+    "attribute": "Dark"
+  },
+  {
+    "name": "CrazyIceBlast",
+    "desc": "Attack enemies\nin 5 zones with lots\nof ice arrows☆Fixed",
+    "effect": 105,
+    "mp": 120,
+    "range": "OOOOO",
+    "attribute": "Water"
+  },
+  {
+    "name": "Tusk Strike",
+    "desc": "Charge and pierce\nthrough 2 zones\n☆Death",
+    "effect": 92,
+    "mp": 80,
+    "range": ".o.o.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Horn Buster",
+    "desc": "Attack 2 zones with\na large, hard,\nelectrified horn",
+    "effect": 94,
+    "mp": 63,
+    "range": "..oo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "S Arm's0mega",
+    "desc": "Slash 1 zone with\nsharp scissor-like\nclaws☆Paralyze",
+    "effect": 95,
+    "mp": 64,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Gigaton Hydro",
+    "desc": "Shoot multiple\nbursts of water at\n2 zones ☆2 Times",
+    "effect": 115,
+    "mp": 158,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Musical Fist",
+    "desc": "Attack 3 zones with\na cool song\n☆Confuse",
+    "effect": 80,
+    "mp": 78,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Fatal Cross",
+    "desc": "Slash 3 zones\nwith strong holy\npower",
+    "effect": 124,
+    "mp": 133,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Holy Arrow",
+    "desc": "Attack 1 zone with\na powerful arrow\nof light",
+    "effect": 100,
+    "mp": 65,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Triple Wave",
+    "desc": "Cause a large\ntsunami to attack\nenemies in 3 zones",
+    "effect": 81,
+    "mp": 71,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "TorpedoAttack",
+    "desc": "Attack a target in\n1 zone without\nmercy",
+    "effect": 83,
+    "mp": 53,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Stinger S",
+    "desc": "Slash 2 zones with\nan energetic blade\n☆2 times",
+    "effect": 72,
+    "mp": 105,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "LightningJavelin",
+    "desc": "Unleash a blast of\nlightning at 3 zones\n☆Fixed☆Paralyze",
+    "effect": 94,
+    "mp": 71,
+    "range": "O.O.O",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "F Trident",
+    "desc": "Slash 1 zone by\nthrowing a pike\n☆Paralyze",
+    "effect": 98,
+    "mp": 58,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Wolf Claw",
+    "desc": "Slash 1 zone with\nclaws of dark\npower☆3 times",
+    "effect": 58,
+    "mp": 113,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Royal Claw",
+    "desc": "Slash 2 zones\nwith very sharp and\nhard claws☆2 times",
+    "effect": 109,
+    "mp": 152,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "DMag.Square",
+    "desc": "Reduce resistance in\n5 zones with dark\nritual☆Fixed",
+    "effect": null,
+    "mp": 155,
+    "range": "OOOOO",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Midnight Raid",
+    "desc": "Attack 3 zones with\nbats of darkness\n☆Fixed☆MPDrain",
+    "effect": 101,
+    "mp": 99,
+    "range": ".OOO.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Chaos Blast",
+    "desc": "Attack 3 zones with\nenergy balls of\ndarkness and chaos",
+    "effect": 120,
+    "mp": 124,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "DarknessWave",
+    "desc": "Burn 3 zones\nwith dark energy\n☆Fixed",
+    "effect": 96,
+    "mp": 71,
+    "range": "O.O.O",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Shadow Wing",
+    "desc": "Slash 3 zones\nwith fast\nsonic waves",
+    "effect": 87,
+    "mp": 70,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Drain Whipping",
+    "desc": "Attack with a whip\nwhich absorbs HP\n☆HPDrain",
+    "effect": 54,
+    "mp": 69,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Spiral Flower",
+    "desc": "Fire flower shuriken\nat an enemy in\n3 zones☆2 times",
+    "effect": 51,
+    "mp": 109,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "FTemptation",
+    "desc": "Attack 4 zones\nwith energy of\ntemptation☆Confuse",
+    "effect": 116,
+    "mp": 137,
+    "range": ".oooo",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Flower Cannon",
+    "desc": "Use flower cannons\nto attack enemies in\n1 zone☆2 times",
+    "effect": 73,
+    "mp": 83,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Digital Bomb",
+    "desc": "Attack 1 zone with\na small bomb\n☆3 times☆Confuse",
+    "effect": 58,
+    "mp": 112,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Burst Tackle",
+    "desc": "Charge 1 zone with\ngreat speed\n☆2 times",
+    "effect": 87,
+    "mp": 99,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "ScrewD Claw",
+    "desc": "Slash 3 zones with\ndragon claws using\na spinning charge",
+    "effect": 121,
+    "mp": 119,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Erase Claw",
+    "desc": "Destroy data in 5\nzones by releasing\nshock waves☆Fixed",
+    "effect": 102,
+    "mp": 110,
+    "range": "OOOOO",
+    "attribute": "Steel"
+  },
+  {
+    "name": "WarningofLight",
+    "desc": "Attack with power\nof light in 3 zones\nand reduce Spirit",
+    "effect": null,
+    "mp": 93,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Shine Slash",
+    "desc": "Slash 2 zones\nwith shining holy\npower☆2 times",
+    "effect": 115,
+    "mp": 165,
+    "range": ".o.o.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Heaven's Gate",
+    "desc": "0pen a dimension\ndoor destroying 3\nzones☆Fixed☆Death",
+    "effect": 105,
+    "mp": 115,
+    "range": ".OOO.",
+    "attribute": "Light"
+  },
+  {
+    "name": "DesperadoBRT",
+    "desc": "Fire energy waves\nat 2 zones from a\ncannon☆2 times",
+    "effect": 80,
+    "mp": 100,
+    "range": ".o.o.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "DMasquerade",
+    "desc": "Slash 3 zones with\nhigh speed\n☆Paralyze",
+    "effect": 94,
+    "mp": 72,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Bunny Blade",
+    "desc": "Slash 2 zones into\npieces with\nboth hands",
+    "effect": 88,
+    "mp": 58,
+    "range": ".o.o.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "ElectroWhipping",
+    "desc": "Attack 2 zones with\na whip that deludes\nenemies☆2times☆Conf",
+    "effect": 110,
+    "mp": 156,
+    "range": "..oo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Spider Thread",
+    "desc": "Slash 3 zones with\nsharp spider's\nthread☆Fixed",
+    "effect": 82,
+    "mp": 63,
+    "range": "O.O.O",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Pyramid Power",
+    "desc": "Raise all resistance\nin 3 zones with\nmysterious power",
+    "effect": null,
+    "mp": 180,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Necrophobia",
+    "desc": "Send spirits to\nattack an enemy in\n3 zones☆Sleep",
+    "effect": 82,
+    "mp": 73,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Atomic BRT",
+    "desc": "Burn 3 zones\nwith fire\n☆Fixed",
+    "effect": 103,
+    "mp": 77,
+    "range": ".OOO.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Rapid Fire",
+    "desc": "Attack 2 zones with\nhoming missiles\n☆2 times",
+    "effect": 78,
+    "mp": 98,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Lethal Cards",
+    "desc": "Post tags in 2\nzones and expode\nthem☆2 times",
+    "effect": 74,
+    "mp": 101,
+    "range": "..oo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Mjollnir Ltning",
+    "desc": "Unleash powerful\nlightning on 1\nzone☆Paralyze",
+    "effect": 89,
+    "mp": 53,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "EnergyGrenade",
+    "desc": "Blow up 3 zones\nwith balls of\ndark energy",
+    "effect": 91,
+    "mp": 70,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Animal Nail",
+    "desc": "Slash 2 zones with\npowerful claws\nof a beast",
+    "effect": 88,
+    "mp": 58,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Guilty Black",
+    "desc": "Pollute 2 zones with\nhighly poisonous\nink☆Poison",
+    "effect": 87,
+    "mp": 67,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Shogekiha",
+    "desc": "Slash 2 zones to\npieces with a blast\nwave☆2 times☆Sleep",
+    "effect": 69,
+    "mp": 104,
+    "range": ".o.o.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Mega Twister",
+    "desc": "Slash 1 zone into\npieces with a sharp\nscythe☆3 times",
+    "effect": 56,
+    "mp": 116,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Puyavaha",
+    "desc": "Drop lightning on\n3 zones\n☆Fixed",
+    "effect": 88,
+    "mp": 62,
+    "range": "O.O.O",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Crazy Sonic",
+    "desc": "Attack 3 zones by\nunleashing strong\nsonic waves☆Confuse",
+    "effect": 77,
+    "mp": 63,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Metal Meteor",
+    "desc": "Unleash a big\niron ball into\n3 zones☆Fixed",
+    "effect": 101,
+    "mp": 80,
+    "range": ".OOO.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Harpoon Jab",
+    "desc": "Stab 1 zone with\na harpoon called\n''Trent''☆2 times",
+    "effect": 70,
+    "mp": 85,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Heat Viper",
+    "desc": "Attack 1 zone with\nmultiple death rays\n☆3 times",
+    "effect": 70,
+    "mp": 128,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Tryhorn A",
+    "desc": "Charge 3 zones\nwith 3 hard horns\n☆Fixed",
+    "effect": 87,
+    "mp": 62,
+    "range": ".OOO.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "TopGun Bomb",
+    "desc": "Unleash a dense\nball of air in\n3 zones☆Fixed",
+    "effect": 124,
+    "mp": 116,
+    "range": ".OOO.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Royal Nuts",
+    "desc": "Unleash egg-like\nobjects and attack\n3 zones☆Fixed",
+    "effect": 81,
+    "mp": 54,
+    "range": "O.O.O",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Sonic Blades",
+    "desc": "Unleash sharp\nblades of wind\nin 4 zones",
+    "effect": 75,
+    "mp": 89,
+    "range": ".oooo",
+    "attribute": "Wind"
+  },
+  {
+    "name": "MegaMeteoFall",
+    "desc": "Drop meteors on 5\nzones and cause\ndevastation☆Fixed",
+    "effect": 132,
+    "mp": 182,
+    "range": "OOOOO",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Justice Kick",
+    "desc": "Punish the enemy in\n1 zone with a hard\nkick of justice",
+    "effect": 140,
+    "mp": 114,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Hail Strike",
+    "desc": "Countless meteors\nfall down on 5\nzones☆Fixed",
+    "effect": 80,
+    "mp": 99,
+    "range": "OOOOO",
+    "attribute": "Fire"
+  },
+  {
+    "name": "VulcanHammer",
+    "desc": "Attack 3 zones with\nThor's Hammer\n☆Fixed",
+    "effect": 92,
+    "mp": 76,
+    "range": ".OOO.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "0cean Wave",
+    "desc": "Summon a legendary\nbig wave to attack\n5 zones ☆Fixed",
+    "effect": 117,
+    "mp": 132,
+    "range": "OOOOO",
+    "attribute": "Water"
+  },
+  {
+    "name": "Tidal Wave",
+    "desc": "Attack enemies in\n4 zones with a\nbig tsunami",
+    "effect": 91,
+    "mp": 91,
+    "range": ".oooo",
+    "attribute": "Water"
+  },
+  {
+    "name": "Flash Punch",
+    "desc": "Unleash a fatal\npunch with fighting\nspirit☆3 times",
+    "effect": 102,
+    "mp": 190,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Smiley Bomb",
+    "desc": "Throw a bomb and\nblow up 1 zone\n☆2 times",
+    "effect": 77,
+    "mp": 82,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Beak Twister",
+    "desc": "Attack 1 zone\nwith large beaks\n☆Death",
+    "effect": 92,
+    "mp": 77,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "MN Clutch",
+    "desc": "Slash 1 zone in\nstealth with sharp\nclaws☆2times☆Death",
+    "effect": 70,
+    "mp": 106,
+    "range": "..o..",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Cosmo Flash",
+    "desc": "Attack 2 zones\nwith meteorites\n☆2 times",
+    "effect": 80,
+    "mp": 102,
+    "range": ".o.o.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Genocide Gear",
+    "desc": "Blow up 2 zones\nwith missiles of\ndarkness☆2 times",
+    "effect": 89,
+    "mp": 110,
+    "range": ".o.o.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "TRI Revolver",
+    "desc": "Burn 2 zones\nby firing 3 fire\nballs consecutively",
+    "effect": 102,
+    "mp": 88,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "GaogaTornado",
+    "desc": "Attack 5 zones with\na barrage of\npunches☆Fixed",
+    "effect": 85,
+    "mp": 107,
+    "range": "OOOOO",
+    "attribute": "Earth"
+  },
+  {
+    "name": "HurricaneBlade",
+    "desc": "Slash 1 zone by\nattacking from\nthe sky",
+    "effect": 101,
+    "mp": 65,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Pollen Spray",
+    "desc": "Paralyze 4 zones\nwith enchanted dance\nand sweet fragrance",
+    "effect": null,
+    "mp": 85,
+    "range": ".oooo",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Lila Shower",
+    "desc": "Attack 2 zones by\nfiring continuous\nbeams☆2 times",
+    "effect": 73,
+    "mp": 103,
+    "range": ".o.o.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Flare Buster",
+    "desc": "Blow fire from\nboth arms and\nburn 2 zones",
+    "effect": 98,
+    "mp": 58,
+    "range": ".o.o.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Demon Claw",
+    "desc": "Slash 2 zones with\nclaws of darkness\n☆2 times☆Poison",
+    "effect": 128,
+    "mp": 180,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Grand Arrow",
+    "desc": "Slash 1 zone into\npieces with a rapier\n☆3 times",
+    "effect": 59,
+    "mp": 116,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Full Bloom",
+    "desc": "Attack 3 zones with\nblossoms and light\n☆Sleep",
+    "effect": 84,
+    "mp": 77,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Illusion M",
+    "desc": "Attack 3 zones with\na strange mist\n☆Fixed☆HPDrain",
+    "effect": 64,
+    "mp": 83,
+    "range": ".OOO.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Poop Bazooka",
+    "desc": "Fire poop at 1 zone\nwith a bazooka\nmade from a can",
+    "effect": 68,
+    "mp": 55,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Demon Blast",
+    "desc": "Destroy 5 zones\nwith energy balls\nof darkness☆Fixed",
+    "effect": 146,
+    "mp": 205,
+    "range": "OOOOO",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Eternal Sleep",
+    "desc": "Destroy 1 zone with\na combination of\nvarious attacks",
+    "effect": 111,
+    "mp": 90,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Met Lariat",
+    "desc": "Crash your small\nbody into 1 zone\nlike a bullet",
+    "effect": 84,
+    "mp": 50,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Deadly Bomb",
+    "desc": "Throw powerful\nbombs and blow\nup 3 zones",
+    "effect": 90,
+    "mp": 81,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Devil's Kiss",
+    "desc": "Reduce Spirit by\nattacking 4 zones\nwith a sexy kiss",
+    "effect": 70,
+    "mp": 76,
+    "range": ".oooo",
+    "attribute": "Steel"
+  },
+  {
+    "name": "GBlaster 2",
+    "desc": "Fire missiles and\ncover 1 zone in\nflames☆3 times",
+    "effect": 60,
+    "mp": 118,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "ElectricKatana",
+    "desc": "Slice 1 zone quickly\nwith an electric\nsword☆Paralyze",
+    "effect": 85,
+    "mp": 53,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "B Smiley Bomb",
+    "desc": "Blow up 1 zone by\nthrowing Mamemon\nlike a bomb☆3 times",
+    "effect": 61,
+    "mp": 122,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Pretty Attack",
+    "desc": "Attack 1 zone by\nthrowing a pretty\nheart☆Sleep",
+    "effect": 78,
+    "mp": 51,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "GeomgmNapalm",
+    "desc": "Create fire pillars\nof magma with fire\nballs in 4 zones",
+    "effect": 127,
+    "mp": 146,
+    "range": ".oooo",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Volcano SS",
+    "desc": "Burn 2 zones\nby firing balls\nof fire",
+    "effect": 94,
+    "mp": 58,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Soul Chopper",
+    "desc": "Slash 2 zones with\na big chained\nsickle☆Death",
+    "effect": 89,
+    "mp": 86,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Terra Blade",
+    "desc": "Slash 1 zone with\nelectric power\n☆2 times",
+    "effect": 66,
+    "mp": 88,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "V Wing Blade",
+    "desc": "Unleash sharp\nenergy waves at 2\nzones from the sky",
+    "effect": 102,
+    "mp": 72,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Vortex Kick",
+    "desc": "Kick enemies in\n2 zones\n☆2 times",
+    "effect": 78,
+    "mp": 106,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Berserk Sword",
+    "desc": "Slash 1 zone in a\nsingle sweep with\nyour trusty sword",
+    "effect": 92,
+    "mp": 59,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Brachio Bubble",
+    "desc": "Attack 4 zones\nwith multiple bubbles\n☆Sleep",
+    "effect": 68,
+    "mp": 87,
+    "range": ".oooo",
+    "attribute": "Water"
+  },
+  {
+    "name": "Dino Burst",
+    "desc": "Attack 3 zones by\nbreathing a fiery\nwind☆Paralyze",
+    "effect": 93,
+    "mp": 75,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Thermal Mane",
+    "desc": "Cause an explosion\nin 3 zones with\na big flame",
+    "effect": 87,
+    "mp": 69,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Water of Life",
+    "desc": "Resurrect allies in\n5 zones with\nwaves of life☆Fixed",
+    "effect": null,
+    "mp": 148,
+    "range": "OOOOO",
+    "attribute": "Water"
+  },
+  {
+    "name": "Whirl Form",
+    "desc": "Attack 3 zones with\na twister of water\n☆Confuse",
+    "effect": 83,
+    "mp": 79,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Spiritual Kick",
+    "desc": "Destroy 3 zones\nwith holy energy\n☆Fixed",
+    "effect": 103,
+    "mp": 83,
+    "range": ".OOO.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Bishop Laser",
+    "desc": "Burn down 4 zones\nby releasing energy\nfrom a staff",
+    "effect": 78,
+    "mp": 83,
+    "range": ".oooo",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Rook Gatling",
+    "desc": "Blast 1 zone with\nthe arm cannon\n☆3 times",
+    "effect": 55,
+    "mp": 114,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Guren Juuouha",
+    "desc": "Unleash a lion\nspirited fist of fire\nat 4 zones",
+    "effect": 101,
+    "mp": 102,
+    "range": ".oooo",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Lunatic Dance",
+    "desc": "Dance and slash 2\nzones with a weapon\n☆2times☆Confuse",
+    "effect": 72,
+    "mp": 108,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Fire Rocket",
+    "desc": "Attack 1 zone by\nbecoming a flaming\nrocket☆Death",
+    "effect": 102,
+    "mp": 76,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Royal Cannon",
+    "desc": "Fire powerful balls\nof light and destroy\n5 zones☆Fixed",
+    "effect": 160,
+    "mp": 220,
+    "range": "OOOOO",
+    "attribute": "Light"
+  },
+  {
+    "name": "EXT. War",
+    "desc": "Unleash radiant\nenergy and\nexterminate 4 zones",
+    "effect": 104,
+    "mp": 103,
+    "range": ".oooo",
+    "attribute": "Light"
+  },
+  {
+    "name": "Sonic Ears",
+    "desc": "Slash 3 zones with\nthe blades on both\nears☆Fixed",
+    "effect": 81,
+    "mp": 59,
+    "range": "O.O.O",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Popper",
+    "desc": "Slap enemies in 2\nzones with 6 arms\n☆2 times",
+    "effect": 85,
+    "mp": 105,
+    "range": "..oo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Prizm Rainbow",
+    "desc": "Unleash a rainbow\nbeam and attack 1\nzone☆2 times",
+    "effect": 73,
+    "mp": 85,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Kusanagi",
+    "desc": "Slash 3 zones\ninstantly with big\nshuriken☆Fixed",
+    "effect": 88,
+    "mp": 65,
+    "range": "O.O.O",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Crazy Crane",
+    "desc": "Swing around a\nheavy crane and\nattack 3 zones",
+    "effect": 93,
+    "mp": 72,
+    "range": ".ooo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "TequilaKnuckle",
+    "desc": "Attack 2 zones\nwith fierce punches\n☆Confuse",
+    "effect": 85,
+    "mp": 53,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Hupunos Claw",
+    "desc": "Slash 2 zones with\ncursed tentacles\n☆2 times☆Confuse",
+    "effect": 77,
+    "mp": 96,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Fatal Cannon",
+    "desc": "Fire a ball of light\nand attack 4 zones\nwith purifying energy",
+    "effect": 120,
+    "mp": 137,
+    "range": ".oooo",
+    "attribute": "Light"
+  },
+  {
+    "name": "Justice Beam",
+    "desc": "Burn 3 zones\nby firing beams\nfrom both eyes",
+    "effect": 99,
+    "mp": 86,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Fatal Hand",
+    "desc": "Attack 2 zones\nhard with holy\nfists☆2 times",
+    "effect": 116,
+    "mp": 160,
+    "range": "..oo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "PhantomTurban",
+    "desc": "Attack 1 zone by\ncontrolling a turban\n☆3 times☆Sleep",
+    "effect": 84,
+    "mp": 206,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Burst Counter",
+    "desc": "Give a countering\neffect to allies with\nflame in 3 zones",
+    "effect": null,
+    "mp": 180,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "ElectroBlaster",
+    "desc": "Seal strong electric\npower in a ball\nand attack 4 zones",
+    "effect": 124,
+    "mp": 134,
+    "range": ".oooo",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "GigaScssrClaw",
+    "desc": "Attack 3 zones with\nhorns filled with\nelectricity☆Paralyze",
+    "effect": 135,
+    "mp": 138,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "HowlingCrusher",
+    "desc": "Slash 2 zones with\nsharp, huge claws\n☆2 times",
+    "effect": 114,
+    "mp": 142,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Nuclear Punch",
+    "desc": "Punch 3 zones\nwith metal fists\n☆Fixed",
+    "effect": 113,
+    "mp": 114,
+    "range": ".OOO.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "0cean Love",
+    "desc": "Demoralize enemy by\nthrowing heart balls\nat 3 zones☆Sleep",
+    "effect": 119,
+    "mp": 135,
+    "range": ".ooo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Energy Cannon",
+    "desc": "Fire a volley of\nstrong energy balls\nblowing up 4 zones",
+    "effect": 110,
+    "mp": 130,
+    "range": ".oooo",
+    "attribute": "Steel"
+  },
+  {
+    "name": "G SeaDestroy",
+    "desc": "Blow up 5 zones\nwith a torpedo\nof energy ☆Fixed",
+    "effect": 149,
+    "mp": 200,
+    "range": "OOOOO",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Trump Sword",
+    "desc": "Attack 1 zone with\nsword on the back\n☆3 times☆Confuse",
+    "effect": 96,
+    "mp": 183,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Demon Slash",
+    "desc": "Slash 3 zones with\nthe power of\ndarkness",
+    "effect": 141,
+    "mp": 162,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Chaos Flare",
+    "desc": "Burn 5 zones with\nflames of darkness\n☆Fixed",
+    "effect": 148,
+    "mp": 195,
+    "range": "OOOOO",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Starlight EX",
+    "desc": "Gather pure star\nlight and destroy\n5 zones☆Fixed",
+    "effect": 138,
+    "mp": 197,
+    "range": "OOOOO",
+    "attribute": "Light"
+  },
+  {
+    "name": "Crimson Flame",
+    "desc": "Unleash crimson\nflames to burn\n5 zones☆Fixed",
+    "effect": 135,
+    "mp": 186,
+    "range": "OOOOO",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Puppet Pummel",
+    "desc": "Destroy 1 zone with\na hammer filled with\nexplosives☆Confuse",
+    "effect": 125,
+    "mp": 118,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Rose Rapier",
+    "desc": "Slash 1 zone with\nthe tip of a whip\n☆2 times☆Confusion",
+    "effect": 109,
+    "mp": 127,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Burst Breath",
+    "desc": "Unleash a bursting\nfireball burning 2\nzones☆2 times",
+    "effect": 137,
+    "mp": 193,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Terra Force",
+    "desc": "Burn enemies in 3\nzones with a\ngiant energy ball",
+    "effect": 137,
+    "mp": 140,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "FreezingBreath",
+    "desc": "Freeze 5 zones\nwith icy breath\n☆Fixed",
+    "effect": 135,
+    "mp": 175,
+    "range": "OOOOO",
+    "attribute": "Water"
+  },
+  {
+    "name": "Giga Cannon",
+    "desc": "Blow up 3 zones\nwith 2 powerful\nenergy cannons",
+    "effect": 138,
+    "mp": 142,
+    "range": ".ooo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "VN Infuse",
+    "desc": "Pollute 1 zone with\ndata killing arrows\n☆3times☆Paralyze",
+    "effect": 103,
+    "mp": 203,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Royal Blizzard",
+    "desc": "Freeze 5 zones\nwith a severe\nice storm☆Fixed",
+    "effect": 146,
+    "mp": 191,
+    "range": "OOOOO",
+    "attribute": "Water"
+  },
+  {
+    "name": "Royal Slash",
+    "desc": "Use a blade of\nholy power to slash\n1 zone☆3 times",
+    "effect": 145,
+    "mp": 260,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "TranscndntSwd",
+    "desc": "Slash 2 zones with\nballistic waves of\nlight☆2 times",
+    "effect": 146,
+    "mp": 201,
+    "range": "..oo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Mega Crusher",
+    "desc": "Unleash a powerful\nfireball and destroy\n3 zones",
+    "effect": 132,
+    "mp": 151,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Shining Ray",
+    "desc": "Fire shining\nenergy balls into\n2 zones☆2 times",
+    "effect": 118,
+    "mp": 168,
+    "range": ".o.o.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Giga Fire",
+    "desc": "Unleash a burst of\nenergy destroying 5\nzones☆Fixed",
+    "effect": 142,
+    "mp": 188,
+    "range": "OOOOO",
+    "attribute": "Steel"
+  },
+  {
+    "name": "0mega Blade",
+    "desc": "Attack enemies in 4\nzones with\n0mnimon's blade",
+    "effect": 174,
+    "mp": 215,
+    "range": ".oooo",
+    "attribute": "Light"
+  },
+  {
+    "name": "Eye Blow",
+    "desc": "Shoot arrows at 1\nzone from the evil\neyes☆2 times",
+    "effect": 110,
+    "mp": 136,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "SevenHeavens",
+    "desc": "Destroy 5 zones\nwith 7 balls of\nlight☆Fixed",
+    "effect": 146,
+    "mp": 199,
+    "range": "OOOOO",
+    "attribute": "Light"
+  },
+  {
+    "name": "Atomic Ray",
+    "desc": "Blow up 3 zones\nwith a fusion beam\n☆Fixed☆Death",
+    "effect": 127,
+    "mp": 155,
+    "range": ".OOO.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "DestroyCannon",
+    "desc": "Destroy space-time\nwith a dark cannon\nin 3 zones☆Fixed",
+    "effect": 145,
+    "mp": 166,
+    "range": ".OOO.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "BDeath Cloud",
+    "desc": "Destroy data in 3\nzones with gas of\ndarkness☆Death",
+    "effect": 112,
+    "mp": 110,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Glory Thunder",
+    "desc": "Summon thunder to\nattack 5 zones\n☆Fixed",
+    "effect": 148,
+    "mp": 208,
+    "range": "OOOOO",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "LightningSpear",
+    "desc": "Throw a spear of\nlightning at 1 zone\n☆2 times",
+    "effect": 112,
+    "mp": 143,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Dark Spear",
+    "desc": "Throw a spear of\ndark power at\n1 zone",
+    "effect": 146,
+    "mp": 127,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "FIN Elysion",
+    "desc": "Attack 4 zones\nwith light energy\nfrom a shield",
+    "effect": 140,
+    "mp": 170,
+    "range": ".oooo",
+    "attribute": "Light"
+  },
+  {
+    "name": "Invincible Swd",
+    "desc": "Slash 3 zones with\nthe ''Blutgang''\nenergy sword☆2times",
+    "effect": 152,
+    "mp": 224,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "GA Missile",
+    "desc": "Destroy 5 zones\nwith huge missiles\n☆Fixed",
+    "effect": 126,
+    "mp": 168,
+    "range": "OOOOO",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Light Mandala",
+    "desc": "Barrier raises all\nresistance of allies\nin 5 zones☆Fixed",
+    "effect": null,
+    "mp": 250,
+    "range": "OOOOO",
+    "attribute": "Light"
+  },
+  {
+    "name": "Izuna",
+    "desc": "Slash 3 zones by\nunleashing a fox-\nlike creature☆Fixed",
+    "effect": 134,
+    "mp": 124,
+    "range": ".OOO.",
+    "attribute": "Light"
+  },
+  {
+    "name": "CatastropheC",
+    "desc": "Destroy 3 zones by\nfiring dark balls\nfrom the chest",
+    "effect": 132,
+    "mp": 129,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Vortex P",
+    "desc": "Slash 1 zone\nwith a\nhuge pike",
+    "effect": 148,
+    "mp": 140,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "Needle Squall",
+    "desc": "Rain down small\nPukumon to sting\n3 zones☆Fixed",
+    "effect": 124,
+    "mp": 117,
+    "range": "O.O.O",
+    "attribute": "Water"
+  },
+  {
+    "name": "SPSonic Voice",
+    "desc": "Destroy data in 3\nzones with a sonic\nwave ☆Paralyze",
+    "effect": 117,
+    "mp": 125,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Sorrow Blue",
+    "desc": "Attack 1 zone with\na sad cry sure to\ndemoralize the enemy",
+    "effect": 118,
+    "mp": 109,
+    "range": "..o..",
+    "attribute": "Water"
+  },
+  {
+    "name": "ULTI Flare",
+    "desc": "Attack 1 zone by\nshooting balls\nof fire☆2 times",
+    "effect": 155,
+    "mp": 224,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Pandemonium F",
+    "desc": "Burn 3 zones with\nfire from the abyss\n☆Confuse",
+    "effect": 146,
+    "mp": 177,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Tomahawk S",
+    "desc": "Swing a ''battle\naxe'' and throw it\nat 4 zones",
+    "effect": 123,
+    "mp": 139,
+    "range": ".oooo",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Purple Rain",
+    "desc": "Attack 3 zones with\nheavy poisonous rain\n☆Fixed☆Poison",
+    "effect": 117,
+    "mp": 114,
+    "range": "O.O.O",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Sephirothic C",
+    "desc": "Attack 4 zones\nwith balls of\nlight energy",
+    "effect": 134,
+    "mp": 172,
+    "range": ".oooo",
+    "attribute": "Light"
+  },
+  {
+    "name": "Slicing Slash",
+    "desc": "Slash 2 zones\nwith a huge sword\n☆Death",
+    "effect": 138,
+    "mp": 174,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "HungonDeath",
+    "desc": "Attack 1 zone with\na rare branch\n☆3 times☆Confuse",
+    "effect": 97,
+    "mp": 185,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Empress Haze",
+    "desc": "Attack enemies in\n4 zones with light\nwave☆Palalyze",
+    "effect": 113,
+    "mp": 132,
+    "range": ".oooo",
+    "attribute": "Light"
+  },
+  {
+    "name": "Amemit",
+    "desc": "Summon beast from\nabyss and attack\n1 zone☆Death",
+    "effect": 154,
+    "mp": 158,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "EL Bind",
+    "desc": "Unleash an electric\nshock at 1 zone\n☆MPDrain☆Paralyze",
+    "effect": 118,
+    "mp": 113,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "DynamicCannon",
+    "desc": "Attack 2 zones with\nfireballs from a\ncannon☆2 times",
+    "effect": 114,
+    "mp": 145,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Heaven'sRipper",
+    "desc": "Slash 3 zones to\npieces with blades\nof light",
+    "effect": 124,
+    "mp": 131,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "C Phoenix",
+    "desc": "Charge at 3 zones\nat high speed with\nhard armor",
+    "effect": 123,
+    "mp": 139,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "SuprmeCourage",
+    "desc": "Tackle 3 zones\nwith everything\nyou have",
+    "effect": 136,
+    "mp": 172,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Double Impact",
+    "desc": "Shoot 2 zones with\ntwo favorite\nshotguns☆2 times",
+    "effect": 122,
+    "mp": 174,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Beast Whack",
+    "desc": "Destroy 4 zones\nwith the power of\nlion and beast",
+    "effect": 141,
+    "mp": 170,
+    "range": ".oooo",
+    "attribute": "Earth"
+  },
+  {
+    "name": "King Lion",
+    "desc": "Slash 2 zones\nviolently with a\ndagger",
+    "effect": 148,
+    "mp": 155,
+    "range": "..oo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Gigastick L",
+    "desc": "Slash 1 zone\nswiftly with a lance\nof darkness",
+    "effect": 142,
+    "mp": 131,
+    "range": "..o..",
+    "attribute": "Dark"
+  },
+  {
+    "name": "DarknessZone",
+    "desc": "Cover 5 zones with\neternal darkness\n☆Fixed☆Confuse",
+    "effect": 175,
+    "mp": 240,
+    "range": "OOOOO",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Brain RP",
+    "desc": "Absorb data in 1\nzone with a ray\ngun ☆MPDrain",
+    "effect": 140,
+    "mp": 125,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Dead Scream",
+    "desc": "Attack 5 zones\nwith a scream\n☆Fixed☆Paralyze",
+    "effect": 142,
+    "mp": 188,
+    "range": "OOOOO",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Fatal Flame",
+    "desc": "Destroy 5 zones by\nunleashing holy\nenergy☆Fixed",
+    "effect": 142,
+    "mp": 194,
+    "range": "OOOOO",
+    "attribute": "Light"
+  },
+  {
+    "name": "T Destroyer",
+    "desc": "Destroy 5 zones\nwith power of an\nevil deity☆Fixed",
+    "effect": 155,
+    "mp": 205,
+    "range": "OOOOO",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Illuminator",
+    "desc": "Slash 3 zones by\nunleashing a fox-\nlike creature",
+    "effect": 115,
+    "mp": 124,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Mystic Pulse",
+    "desc": "Attack 2 zones with\nthe Gorgon shield\n☆2 times☆Poison",
+    "effect": 135,
+    "mp": 198,
+    "range": "..oo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "UltimateStream",
+    "desc": "Attack 4 zones\nwith powerful energy\nfired from a cannon",
+    "effect": 136,
+    "mp": 167,
+    "range": ".oooo",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Fenrir Sword",
+    "desc": "Slash 2 zones with\na freezing sword\n☆2times☆Sleep",
+    "effect": 108,
+    "mp": 138,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Appndge Blade",
+    "desc": "Slash enemies in 1\nzone with arm\nblades☆Death",
+    "effect": 141,
+    "mp": 150,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "MjollnirHammer",
+    "desc": "Attack 2 zones\nwith the weapon\n''Mjollnir''☆2 times",
+    "effect": 119,
+    "mp": 151,
+    "range": "..oo.",
+    "attribute": "Water"
+  },
+  {
+    "name": "Spiral Bone",
+    "desc": "Unleash bones of\nthe spine slashing\n4 zones☆Poison",
+    "effect": 125,
+    "mp": 142,
+    "range": ".oooo",
+    "attribute": "Earth"
+  },
+  {
+    "name": "DM Scissors",
+    "desc": "Slash 1 zone with\nsharp scissors\n☆Death",
+    "effect": 141,
+    "mp": 143,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Necro Mist",
+    "desc": "Attack 3 zones with\na mummifying gas\n☆HPDrain",
+    "effect": 121,
+    "mp": 150,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "CelestialBlade",
+    "desc": "Slash 5 zones\nwith an enormous\nsword☆Fixed",
+    "effect": 161,
+    "mp": 240,
+    "range": "OOOOO",
+    "attribute": "Light"
+  },
+  {
+    "name": "DIGI of Soul",
+    "desc": "Slash 3 zones\nquickly with strong\nlight energy",
+    "effect": 143,
+    "mp": 193,
+    "range": ".ooo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Holy Flame",
+    "desc": "Destroy 2 zones\nby unleashing\nlight energy",
+    "effect": 146,
+    "mp": 161,
+    "range": ".oo..",
+    "attribute": "Light"
+  },
+  {
+    "name": "T Unlimited",
+    "desc": "Create a space of\ndarkness and\ndestroy 3 zones",
+    "effect": 143,
+    "mp": 168,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Death Crystal",
+    "desc": "Destroy the hearts\nin 3 zones with the\ncrystal of darkness",
+    "effect": 154,
+    "mp": 199,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Megido Flame",
+    "desc": "Burn 2 zones with\na reckless fire of\nanger☆2 times",
+    "effect": 140,
+    "mp": 204,
+    "range": "..oo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Bifrost",
+    "desc": "Unleash an arrow\nof intense heat at\n1 zone☆3 times",
+    "effect": 105,
+    "mp": 202,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Glorious Burst",
+    "desc": "Burn 4 zones with\nfireballs released\nfrom the wings",
+    "effect": 145,
+    "mp": 180,
+    "range": ".oooo",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Dbl Crescent",
+    "desc": "Slash 4 zones with\nvacuum blades from\nboth hands☆Fixed",
+    "effect": 128,
+    "mp": 116,
+    "range": "OO.OO",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Gale Claw",
+    "desc": "Slash 1 zone with\nquick claws\n☆3 times",
+    "effect": 104,
+    "mp": 193,
+    "range": "..o..",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Jumbo Crater",
+    "desc": "Attack 5 zones\nseverely and\nindiscriminately☆Fixed",
+    "effect": 149,
+    "mp": 203,
+    "range": "OOOOO",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Spiral R Claw",
+    "desc": "Slash 2 zones\nby charging with\nthe left claw",
+    "effect": 139,
+    "mp": 134,
+    "range": "..oo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "Heart Breaker",
+    "desc": "Attack an enemy's\nweak spot in\n1 zone",
+    "effect": 137,
+    "mp": 119,
+    "range": "..o..",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Checkmate",
+    "desc": "Attack 3 zones by\nusing smart tactics\nin a pinch☆Fixed",
+    "effect": 125,
+    "mp": 136,
+    "range": ".OOO.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Holy Flare",
+    "desc": "Blast 3 zones\nwith holy power\n☆Fixed",
+    "effect": 200,
+    "mp": 280,
+    "range": ".OOO.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Phantom Pain",
+    "desc": "Envelope 3 zones\nwith a mysterious\nnightmare☆Confuse",
+    "effect": 126,
+    "mp": 158,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "AuroraAngelR",
+    "desc": "Unleash celestial\nballs of light\nat 1 zone☆3 times",
+    "effect": 101,
+    "mp": 198,
+    "range": "..o..",
+    "attribute": "Light"
+  },
+  {
+    "name": "Solblaster",
+    "desc": "Burn 3 zones\nwith a small sun-\nlike energy bomb",
+    "effect": 158,
+    "mp": 202,
+    "range": ".ooo.",
+    "attribute": "Fire"
+  },
+  {
+    "name": "CrescntHarken",
+    "desc": "A succession of\nattacks on 2 zones\n☆2 times☆Confuse",
+    "effect": 116,
+    "mp": 159,
+    "range": ".o.o.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Corona BlazeS",
+    "desc": "Slash 1 zone with\na sword/shield of\nfire ☆3 times",
+    "effect": 124,
+    "mp": 228,
+    "range": "..o..",
+    "attribute": "Fire"
+  },
+  {
+    "name": "Torrid Weiss",
+    "desc": "Attack 5 zones with\nflames of darkness\nrandomly☆Fixed",
+    "effect": 155,
+    "mp": 221,
+    "range": "OOOOO",
+    "attribute": "Dark"
+  },
+  {
+    "name": "FullmoonMeteoI",
+    "desc": "Attack 3 zones\nwith weapons\nmade from energy",
+    "effect": 177,
+    "mp": 197,
+    "range": ".ooo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "MusouTenshou",
+    "desc": "Attack 3 zones by\nunleashing an aura\nof darkness☆2 times",
+    "effect": 137,
+    "mp": 212,
+    "range": ".ooo.",
+    "attribute": "Wind"
+  },
+  {
+    "name": "SV Fantasia",
+    "desc": "Attack 1 zone by\nunleashing a rainbow\naura from a staff",
+    "effect": 138,
+    "mp": 124,
+    "range": "..o..",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "0megaR Force",
+    "desc": "Attack 3 zones\nwith strong prismatic\nenergy balls",
+    "effect": 130,
+    "mp": 120,
+    "range": ".ooo.",
+    "attribute": "Steel"
+  },
+  {
+    "name": "Chaotic Flare",
+    "desc": "Destroy 3 zones\nwith shots from a\ncannon☆Fixed",
+    "effect": 154,
+    "mp": 189,
+    "range": ".OOO.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Charite",
+    "desc": "Cover 3 zones with\na cloak of the\naura of love☆Sleep",
+    "effect": 139,
+    "mp": 197,
+    "range": ".ooo.",
+    "attribute": "Thunder"
+  },
+  {
+    "name": "Mystic Cannon",
+    "desc": "Blow up 3 zones\nwith powerful cursed\nvolleys",
+    "effect": 160,
+    "mp": 194,
+    "range": ".ooo.",
+    "attribute": "Dark"
+  },
+  {
+    "name": "Strike Roll",
+    "desc": "Slash 3 zones\nwith the sword of\n''0lympia''☆2 times",
+    "effect": 106,
+    "mp": 201,
+    "range": ".ooo.",
+    "attribute": "Earth"
+  },
+  {
+    "name": "Leopard Mode",
+    "desc": "Slash 2 zones in\nthe form of a\nbeast ☆2 times",
+    "effect": 130,
+    "mp": 193,
+    "range": "..oo.",
+    "attribute": "Light"
+  },
+  {
+    "name": "Bantyo Blade",
+    "desc": "Strike 1 zone in a\nsingle sweep with\nthe Bantyo Arm",
+    "effect": 145,
+    "mp": 129,
+    "range": "..o..",
+    "attribute": "Light"
+  }
+]

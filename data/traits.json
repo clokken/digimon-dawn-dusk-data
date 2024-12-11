@@ -1,0 +1,546 @@
+[
+  {
+    "name": "Economizer",
+    "desc": "Cuts down MP\nconsumption"
+  },
+  {
+    "name": "Powerful 1",
+    "desc": "Digimon's ''Attack''\n+5"
+  },
+  {
+    "name": "Mist Cape1",
+    "desc": "Slightly increases\nresistance\nto Water-based\nattacks"
+  },
+  {
+    "name": "Sylph Aegis1",
+    "desc": "Slightly increases\nresistance\nto Wind-based\nattacks"
+  },
+  {
+    "name": "Psychic 1",
+    "desc": "Digimon's ''Spirit''\n+5"
+  },
+  {
+    "name": "Protect 1",
+    "desc": "Digimon's ''Defense''\n+5"
+  },
+  {
+    "name": "Ether Eddy1",
+    "desc": "Slightly increases\nresistance to\nSteel-based attacks"
+  },
+  {
+    "name": "DarkBreath1",
+    "desc": "Slightly increases\nresistance to\nDark-based attacks"
+  },
+  {
+    "name": "Halo 1",
+    "desc": "Slightly increases\nresistance\nto Holy-based\nattacks"
+  },
+  {
+    "name": "Speed 1",
+    "desc": "Digimon's ''Speed''\n+5"
+  },
+  {
+    "name": "D-Entelechy",
+    "desc": "Enormously\nincreases species\nEXP you can\nobtain in battle"
+  },
+  {
+    "name": "StatusBarrier",
+    "desc": "Voids all\nstatus\ndisorders"
+  },
+  {
+    "name": "Dodge Dance",
+    "desc": "Greatly increases\ndodge rate of\nattacks"
+  },
+  {
+    "name": "Retreat",
+    "desc": "Makes it much\neasier to flee\nfrom battle"
+  },
+  {
+    "name": "Fire Aura1",
+    "desc": "Slightly increases\nresistance\nto Fire-based\nattacks"
+  },
+  {
+    "name": "MotherEarth1",
+    "desc": "Slightly increases\nresistance to\nEarth-based attacks"
+  },
+  {
+    "name": "ThunderSign1",
+    "desc": "Slightly increases\nresistance\nto Thunder-based\nattacks"
+  },
+  {
+    "name": "Speed 2",
+    "desc": "Digimon's ''Speed''\n+10"
+  },
+  {
+    "name": "Sylph Aegis2",
+    "desc": "Increases resistance\nto Wind-based\nattacks"
+  },
+  {
+    "name": "Powerful 2",
+    "desc": "Digimon's ''Attack''\n+10"
+  },
+  {
+    "name": "Fire Aura2",
+    "desc": "Increases resistance\nto Fire-based\nattacks"
+  },
+  {
+    "name": "Protect 2",
+    "desc": "Digimon's ''Defense''\n+10"
+  },
+  {
+    "name": "Quick 1",
+    "desc": "Somewhat increases\ndodge rate of\nattacks"
+  },
+  {
+    "name": "EX Damage1",
+    "desc": "Slightly increases\ndamage from\nattacks"
+  },
+  {
+    "name": "MotherEarth2",
+    "desc": "Increases resistance\nto Earth-based\nattacks"
+  },
+  {
+    "name": "LuckyMedal1",
+    "desc": "Slightly increases\nspecies EXP you\ncan obtain in battle"
+  },
+  {
+    "name": "ThunderSign2",
+    "desc": "Increases resistance\nto Thunder-based\nattacks"
+  },
+  {
+    "name": "Mist Cape2",
+    "desc": "Increases resistance\nto Water-based\nattacks"
+  },
+  {
+    "name": "Sleep Ward1",
+    "desc": "Increases\nresistance to\n''Sleep''"
+  },
+  {
+    "name": "Hard Rock1",
+    "desc": "Increases\nresistance to\n''Confuse''"
+  },
+  {
+    "name": "Psychic 2",
+    "desc": "Digimon's ''Spirit''\n+10"
+  },
+  {
+    "name": "Numb Ward1",
+    "desc": "Increases\nresistance to\n''Paralyze''"
+  },
+  {
+    "name": "MoneySaver1",
+    "desc": "Slightly increases\nbits you can obtain\nin battle"
+  },
+  {
+    "name": "Ether Eddy2",
+    "desc": "Increases resistance\nto Steel-based\nattacks"
+  },
+  {
+    "name": "Collector1",
+    "desc": "Slightly increases\nthe chance of items\nbeing dropped during\nbattle"
+  },
+  {
+    "name": "DarkBreath2",
+    "desc": "Increases resistance\nto Dark-based\nattacks"
+  },
+  {
+    "name": "Flee 1",
+    "desc": "Slightly makes\nit easier to flee\nfrom battle"
+  },
+  {
+    "name": "Halo 2",
+    "desc": "Increases resistance\nto Holy-based\nattacks"
+  },
+  {
+    "name": "DeathWard1",
+    "desc": "Increases\nresistance to\n''Death''"
+  },
+  {
+    "name": "Sniper 1",
+    "desc": "Somewhat increases\nhit rate of\nattacks"
+  },
+  {
+    "name": "Critical 1",
+    "desc": "Slightly increases\ncritical rate of\nattacks"
+  },
+  {
+    "name": "Antidote 1",
+    "desc": "Increases\nresistance to\n''Poison''"
+  },
+  {
+    "name": "Lucky Gods",
+    "desc": "Greatly increases\nspecies EXP you\ncan obtain in battle"
+  },
+  {
+    "name": "Economizer S",
+    "desc": "Significantly cuts\ndown MP\nconsumption"
+  },
+  {
+    "name": "Protect 3",
+    "desc": "Digimon's ''Defense''\n+15"
+  },
+  {
+    "name": "Collector2",
+    "desc": "Increases the\nchance of items\nbeing dropped during\nbattle"
+  },
+  {
+    "name": "Powerful 3",
+    "desc": "Digimon's ''Attack''\n+15"
+  },
+  {
+    "name": "Critical 2",
+    "desc": "Increases critical\nrate of attacks"
+  },
+  {
+    "name": "Psychic 3",
+    "desc": "Digimon's ''Spirit''\n+15"
+  },
+  {
+    "name": "Fire Aura3",
+    "desc": "Moderately increases\nresistance to\nFire-based\nattacks"
+  },
+  {
+    "name": "DarkBreath3",
+    "desc": "Moderately increases\nresistance to\nDark-based\nattacks"
+  },
+  {
+    "name": "Speed 3",
+    "desc": "Digimon's ''Speed''\n+15"
+  },
+  {
+    "name": "Sylph Aegis4",
+    "desc": "Significantly\nincreases\nresistance to\nWind-based attacks"
+  },
+  {
+    "name": "Mist Cape3",
+    "desc": "Moderately increases\nresistance to\nWater-based\nattacks"
+  },
+  {
+    "name": "Quick 2",
+    "desc": "Increases dodge\nrate of attacks"
+  },
+  {
+    "name": "Numb Ward2",
+    "desc": "Moderately increases\nresistance to\n''Paralyze''"
+  },
+  {
+    "name": "Flee 2",
+    "desc": "Makes it easier\nto flee from\nbattle"
+  },
+  {
+    "name": "ThunderSign3",
+    "desc": "Moderately increases\nresistance to\nThunder-based\nattacks"
+  },
+  {
+    "name": "Halo 3",
+    "desc": "Moderately increases\nresistance to\nHoly-based\nattacks"
+  },
+  {
+    "name": "MoneySaver2",
+    "desc": "Increases\nbits you can obtain\nin battle"
+  },
+  {
+    "name": "MotherEarth3",
+    "desc": "Moderately increases\nresistance to\nEarth-based attacks"
+  },
+  {
+    "name": "DeathWard2",
+    "desc": "Moderately increases\nresistance to\n''Death''"
+  },
+  {
+    "name": "Ether Eddy3",
+    "desc": "Moderately increases\nresistance to\nSteel-based attacks"
+  },
+  {
+    "name": "Antidote 2",
+    "desc": "Moderately increases\nresistance to\n''Poison''"
+  },
+  {
+    "name": "Sylph Aegis3",
+    "desc": "Moderately increases\nresistance to\nWind-based\nattacks"
+  },
+  {
+    "name": "EX Damage2",
+    "desc": "Increases damage\nfrom attacks"
+  },
+  {
+    "name": "Sleep Ward2",
+    "desc": "Moderately increases\nresistance to\n''Sleep''"
+  },
+  {
+    "name": "LuckyMedal2",
+    "desc": "Increases\nspecies EXP you\ncan obtain in battle"
+  },
+  {
+    "name": "Hard Rock2",
+    "desc": "Moderately increases\nresistance to\n''Confuse''"
+  },
+  {
+    "name": "Sniper 2",
+    "desc": "Increases hit rate\nof attacks"
+  },
+  {
+    "name": "Ether Eddy4",
+    "desc": "Significantly\nincreases resistance\nto Steel-based\nattacks"
+  },
+  {
+    "name": "Powerful 4",
+    "desc": "Digimon's ''Attack''\n+20"
+  },
+  {
+    "name": "Protect 4",
+    "desc": "Digimon's ''Defense''\n+20"
+  },
+  {
+    "name": "Fire Aura4",
+    "desc": "Significantly\nincreases\nresistance to\nFire-based attacks"
+  },
+  {
+    "name": "Critical 3",
+    "desc": "Moderately\nincreases critical\nrate of attacks"
+  },
+  {
+    "name": "Halo 4",
+    "desc": "Significantly\nincreases\nresistance to\nHoly-based attacks"
+  },
+  {
+    "name": "SoothingHand",
+    "desc": "Increases amount\nof HP\nrecovered"
+  },
+  {
+    "name": "Dark Veil",
+    "desc": "Greatly increases\nresistance to\nDark-based attacks"
+  },
+  {
+    "name": "Antidote 3",
+    "desc": "Significantly\nincreases\nresistance to\n''Poison''"
+  },
+  {
+    "name": "Speed 4",
+    "desc": "Digimon's ''Speed''\n+20"
+  },
+  {
+    "name": "Sniper 3",
+    "desc": "Moderately\nincreases hit rate\nof attacks"
+  },
+  {
+    "name": "Sleep Ward3",
+    "desc": "Significantly\nincreases\nresistance to\n''Sleep''"
+  },
+  {
+    "name": "Skill Adept",
+    "desc": "Increases the\ntime the attack\nis in effect"
+  },
+  {
+    "name": "Numb Ward3",
+    "desc": "Significantly\nincreases\nresistance to\n''Paralyze''"
+  },
+  {
+    "name": "Flee 3",
+    "desc": "Moderately makes\nit easier to flee\nfrom battle"
+  },
+  {
+    "name": "DarkBreath4",
+    "desc": "Significantly\nincreases\nresistance to\nDark-based attacks"
+  },
+  {
+    "name": "MoneySaver3",
+    "desc": "Moderately increases\nbits you can obtain\nin battle"
+  },
+  {
+    "name": "MotherErth4",
+    "desc": "Significantly\nincreases resistance\nto Earth-based\nattacks"
+  },
+  {
+    "name": "ThunderSign4",
+    "desc": "Significantly\nincreases\nresistance to\nThunder-based\nattacks"
+  },
+  {
+    "name": "Hard Rock3",
+    "desc": "Significantly\nincreases\nresistance to\n''Confuse''"
+  },
+  {
+    "name": "Collector3",
+    "desc": "Moderately increases\nthe chance of items\nbeing dropped during\nbattle"
+  },
+  {
+    "name": "Mist Cape4",
+    "desc": "Significantly\nincreases\nresistance to\nWater-based attacks"
+  },
+  {
+    "name": "Psychic 4",
+    "desc": "Digimon's ''Spirit''\n+20"
+  },
+  {
+    "name": "Quick 3",
+    "desc": "Moderately\nincreases dodge rate\nof attacks"
+  },
+  {
+    "name": "EX Damage3",
+    "desc": "Moderately\nincreases damage\nfrom attacks"
+  },
+  {
+    "name": "LuckyMedal3",
+    "desc": "Moderately increases\nspecies EXP you\ncan obtain in battle"
+  },
+  {
+    "name": "DeathBarrier",
+    "desc": "Always blocks\n''Death''"
+  },
+  {
+    "name": "DeathWard3",
+    "desc": "Significantly\nincreases\nresistance to\n''Death''"
+  },
+  {
+    "name": "Silphy Air",
+    "desc": "Greatly increases\nresistance to\nWind-based attacks"
+  },
+  {
+    "name": "Nimbus",
+    "desc": "Greatly increases\nresistance to\nHoly-based attacks"
+  },
+  {
+    "name": "Gladiator",
+    "desc": "Greatly increases\ndamage from\nattacks"
+  },
+  {
+    "name": "All Elements",
+    "desc": "Increases\nresistance to\nall attacks"
+  },
+  {
+    "name": "Healthy Body",
+    "desc": "Significantly increase\nresistance to\n''Poison, Death,\nParalyze, Confuse\n& Sleep''"
+  },
+  {
+    "name": "Heroic Guard",
+    "desc": "Digimon's ''Defense''\n+30"
+  },
+  {
+    "name": "Heroic Heart",
+    "desc": "Digimon's ''Spirit''\n+30"
+  },
+  {
+    "name": "Miser",
+    "desc": "Greatly increases\nbits you can obtain\nin battle"
+  },
+  {
+    "name": "HighCollector",
+    "desc": "Greatly increases\nthe chance of items\nbeing dropped during\nbattle"
+  },
+  {
+    "name": "Heroic Power",
+    "desc": "Digimon's ''Attack''\n+30"
+  },
+  {
+    "name": "Thundertatoo",
+    "desc": "Greatly increases\nresistance to\nThunder-based\nattacks"
+  },
+  {
+    "name": "ParalBarrier",
+    "desc": "Nuetralizes effects\nof ''Paralyze''"
+  },
+  {
+    "name": "Heroic Move",
+    "desc": "Digimon's ''Speed''\n+30"
+  },
+  {
+    "name": "Critical 4",
+    "desc": "Significantly\nincreases critical\nrate of attacks"
+  },
+  {
+    "name": "Skill Master",
+    "desc": "Significantly\nincreases the\ntime the attack\nis in effect"
+  },
+  {
+    "name": "Mist Coat",
+    "desc": "Greatly increases\nresistance to\nWater-based attacks"
+  },
+  {
+    "name": "Flee 4",
+    "desc": "Significantly\nmakes it easier to\nflee from battle"
+  },
+  {
+    "name": "HealingWave",
+    "desc": "Significantly\nincreases amount of\nHP recovered"
+  },
+  {
+    "name": "Assassin",
+    "desc": "Greatly increases\ncritical rate of\nattacks"
+  },
+  {
+    "name": "Flame Aura",
+    "desc": "Greatly increases\nresistance to\nFire-based attacks"
+  },
+  {
+    "name": "MoneySaver4",
+    "desc": "Significantly\nincreases bits you\ncan obtain in battle"
+  },
+  {
+    "name": "Quick 4",
+    "desc": "Significantly\nincreases dodge rate\nof attacks"
+  },
+  {
+    "name": "LuckyMedal4",
+    "desc": "Significantly\nincreases species\nEXP you can obtain\nin battle"
+  },
+  {
+    "name": "Ether Ring",
+    "desc": "Greatly increases\nresistance to\nSteel-based attacks"
+  },
+  {
+    "name": "Sniper 4",
+    "desc": "Significantly\nincreases hit rate\nof attacks"
+  },
+  {
+    "name": "EX Damage4",
+    "desc": "Significantly\nincreases damage\nfrom attacks"
+  },
+  {
+    "name": "Mind's Eye",
+    "desc": "Greatly increases\nhit rate of\nattacks"
+  },
+  {
+    "name": "ConfuBarrier",
+    "desc": "Nuetralizes effects\nof ''Confuse''"
+  },
+  {
+    "name": "PoisonBarrier",
+    "desc": "Nuetralizes effects\nof ''Poison''"
+  },
+  {
+    "name": "Hard Rock4",
+    "desc": "Greatly increases\nresistance to\n''Confuse''"
+  },
+  {
+    "name": "Collector4",
+    "desc": "Significantly\nincreases the chance\nof items being\ndropped during\nbattle"
+  },
+  {
+    "name": "Sleep Ward4",
+    "desc": "Greatly increases\nresistance to\n''Sleep''"
+  },
+  {
+    "name": "StunBarrier",
+    "desc": "Nuetralizes effects\nof ''Stun''"
+  },
+  {
+    "name": "Numb Ward4",
+    "desc": "Greatly increases\nresistance to\n''Paralyze''"
+  },
+  {
+    "name": "DeathWard4",
+    "desc": "Greatly increases\nresistance to\n''Death''"
+  },
+  {
+    "name": "Gaia Brave",
+    "desc": "Greatly increases\nresistance to\nEarth-based attacks"
+  },
+  {
+    "name": "SleepBarrier",
+    "desc": "Nuetralizes effects\nof ''Sleep''"
+  },
+  {
+    "name": "Antidote 4",
+    "desc": "Greatly increases\nresistance to\n''Poison''"
+  }
+]

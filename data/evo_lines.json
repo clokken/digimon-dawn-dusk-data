@@ -1,0 +1,1951 @@
+{
+  "Gummymon": {
+    "Gummymon": {
+      "Terriermon": {
+        "level": 9
+      },
+      "Tapirmon": {
+        "level": 16,
+        "holyExp": 470
+      },
+      "Renamon": {
+        "level": 12,
+        "speed": 70
+      }
+    },
+    "Terriermon": {
+      "Gargomon": {
+        "level": 20,
+        "friendship": 60,
+        "beastExp": 480
+      }
+    },
+    "Gargomon": {
+      "Rapidmon": {
+        "level": 33,
+        "speed": 145,
+        "machineExp": 3500
+      }
+    },
+    "Rapidmon": {
+      "MegaGargomon": {
+        "level": 50,
+        "holyExp": 8000,
+        "machineExp": 8000
+      }
+    },
+    "Tapirmon": {
+      "Unimon": {
+        "level": 22,
+        "speed": 90
+      },
+      "Saesarmon": {
+        "level": 24,
+        "defense": 120,
+        "holyExp": 800
+      }
+    },
+    "Unimon": {
+      "Pixiemon": {
+        "level": 33,
+        "spirit": 145,
+        "holyExp": 4300
+      }
+    },
+    "Pixiemon": {
+      "Jijimon": {}
+    },
+    "Renamon": {
+      "Kyubimon": {
+        "level": 23,
+        "spirit": 125
+      },
+      "Sorcerymon": {
+        "friendship": 70,
+        "holyExp": 700
+      }
+    },
+    "Kyubimon": {
+      "Taomon": {
+        "level": 36,
+        "friendship": 80,
+        "spirit": 185
+      }
+    },
+    "Taomon": {
+      "Sakuyamon": {
+        "level": 52,
+        "holyExp": 16000,
+        "befriended": ["Kuzuhamon"]
+      }
+    }
+  },
+  "Puttomon": {
+    "Puttomon": {
+      "Plotmon": {
+        "level": 7
+      },
+      "Kudamon": {
+        "level": 15,
+        "aptitude": 25,
+        "befriended": ["Kudamon"]
+      },
+      "PawnChessmonWhite": {
+        "level": 11,
+        "machineExp": 200
+      }
+    },
+    "Plotmon": {
+      "Tailmon": {
+        "level": 18,
+        "friendship": 70
+      }
+    },
+    "Tailmon": {
+      "Angewomon": {
+        "level": 35,
+        "attack": 160,
+        "holyExp": 2700
+      }
+    },
+    "Angewomon": {
+      "Ophanimon": {
+        "level": 64,
+        "spirit": 255,
+        "holyExp": 27000
+      }
+    },
+    "Kudamon": {
+      "Reppamon": {
+        "level": 27,
+        "speed": 125,
+        "holyExp": 800
+      },
+      "Starmon": {
+        "level": 24,
+        "friendship": 70,
+        "spirit": 115
+      }
+    },
+    "Reppamon": {
+      "Tyilinmon": {
+        "level": 43,
+        "spirit": 210,
+        "holyExp": 7100
+      }
+    },
+    "Tyilinmon": {
+      "Sleipmon": {
+        "level": 65,
+        "attack": 370,
+        "holyExp": 48000
+      }
+    },
+    "Starmon": {
+      "SuperStarmon": {
+        "level": 41,
+        "attack": 190,
+        "holyExp": 8800
+      }
+    },
+    "PawnChessmonWhite": {
+      "KnightChessmonWhite": {
+        "level": 21,
+        "speed": 100
+      }
+    },
+    "KnightChessmonWhite": {
+      "BishopChessmon": {
+        "level": 34,
+        "attack": 175
+      }
+    },
+    "BishopChessmon": {
+      "KingChessmon": {
+        "level": 50,
+        "aptitude": 55,
+        "machineExp": 13000
+      }
+    }
+  },
+  "Sunmon": {
+    "Sunmon": {
+      "Coronamon": {
+        "level": 11,
+        "friendship": 50
+      }
+    },
+    "Coronamon": {
+      "Firamon": {
+        "level": 25,
+        "friendship": 70,
+        "beastExp": 700
+      }
+    },
+    "Firamon": {
+      "Flaremon": {
+        "level": 40,
+        "friendship": 80,
+        "spirit": 140
+      }
+    },
+    "Flaremon": {
+      "Apollomon": {
+        "level": 55,
+        "friendship": 100,
+        "holyExp": 17500
+      }
+    }
+  },
+  "Botamon": {
+    "Botamon": {
+      "BlackAgumon": {
+        "level": 7,
+        "attack": 75
+      },
+      "Candlemon": {
+        "level": 13,
+        "darkExp": 120
+      }
+    },
+    "BlackAgumon": {
+      "Monochromon": {
+        "level": 19,
+        "dragonExp": 220
+      },
+      "DarkTyrannomon": {
+        "level": 21,
+        "attack": 100,
+        "darkExp": 1000
+      }
+    },
+    "Monochromon": {
+      "Vermillimon": {
+        "level": 37,
+        "defense": 175,
+        "dragonExp": 3500
+      }
+    },
+    "Vermillimon": {
+      "BlackWarGreymon": {
+        "level": 58,
+        "spirit": 290,
+        "darkExp": 21000
+      }
+    },
+    "DarkTyrannomon": {
+      "SkullGreymon": {
+        "level": 42,
+        "darkExp": 7000,
+        "befriended": ["SkullGreymon"]
+      },
+      "MetalTyrannomon": {
+        "level": 34,
+        "machineExp": 5500
+      }
+    },
+    "SkullGreymon": {
+      "Machinedramon": {
+        "level": 55,
+        "attack": 280,
+        "befriended": ["MetalSeadramon"]
+      }
+    },
+    "Candlemon": {
+      "DarkRizamon": {
+        "level": 20,
+        "dragonExp": 650
+      },
+      "Flarerizamon": {
+        "level": 20,
+        "dragonExp": 650
+      }
+    },
+    "DarkRizamon": {
+      "Volcamon": {
+        "level": 26,
+        "attack": 160,
+        "darkExp": 3400
+      }
+    }
+  },
+  "Chocomon": {
+    "Chocomon": {
+      "Lopmon": {
+        "level": 9
+      }
+    },
+    "Lopmon": {
+      "Centaurmon": {
+        "level": 20,
+        "machineExp": 480
+      },
+      "Wendigomon": {
+        "level": 29,
+        "darkExp": 1800
+      }
+    },
+    "Centaurmon": {
+      "BlackRapidmon": {
+        "level": 33,
+        "speed": 145,
+        "machineExp": 3500
+      }
+    },
+    "BlackRapidmon": {
+      "BlackMegaGargomon": {
+        "level": 50,
+        "darkExp": 8000,
+        "machineExp": 8000
+      }
+    },
+    "Wendigomon": {
+      "Antylamon": {
+        "level": 41,
+        "friendship": 80
+      }
+    },
+    "Antylamon": {
+      "Cherubimon (Vaccine)": {
+        "level": 62,
+        "spirit": 360,
+        "holyExp": 30000
+      },
+      "Cherubimon (Evil)": {
+        "level": 62,
+        "attack": 300,
+        "darkExp": 23000
+      }
+    }
+  },
+  "Kuramon": {
+    "Kuramon": {
+      "Tsukaimon": {
+        "level": 8
+      }
+    },
+    "Tsukaimon": {
+      "Bakemon": {
+        "level": 19,
+        "darkExp": 420
+      },
+      "Devidramon": {
+        "level": 22,
+        "dragonExp": 350,
+        "darkExp": 300
+      }
+    },
+    "Bakemon": {
+      "Phantomon": {
+        "level": 34,
+        "darkExp": 4200
+      }
+    },
+    "Phantomon": {
+      "GhoulmonB": {
+        "level": 49,
+        "attack": 230,
+        "darkExp": 10500
+      },
+      "Apocalymon": {
+        "level": 71,
+        "darkExp": 44444,
+        "befriended": ["Apocalymon"]
+      }
+    },
+    "Devidramon": {
+      "Kimeramon": {
+        "level": 44,
+        "darkExp": 11000,
+        "befriended": ["Kimeramon"]
+      },
+      "Gigadramon": {
+        "level": 40,
+        "attack": 195,
+        "machineExp": 4400
+      }
+    },
+    "Kimeramon": {
+      "MoonMilleniumon": {
+        "level": 66,
+        "spirit": 370,
+        "befriended": ["Milleniumon"]
+      }
+    }
+  },
+  "Moonmon": {
+    "Moonmon": {
+      "Lunamon": {
+        "level": 9,
+        "friendship": 50
+      }
+    },
+    "Lunamon": {
+      "Lekismon": {
+        "level": 19,
+        "friendship": 70
+      }
+    },
+    "Lekismon": {
+      "Crescemon": {
+        "level": 33,
+        "friendship": 80,
+        "darkExp": 2800
+      }
+    },
+    "Crescemon": {
+      "Dianamon": {
+        "level": 50,
+        "friendship": 100,
+        "darkExp": 14500
+      }
+    }
+  },
+  "Pagumon": {
+    "Pagumon": {
+      "PicoDevimon": {
+        "level": 10
+      },
+      "Impmon": {
+        "level": 15,
+        "spirit": 80,
+        "darkExp": 490
+      }
+    },
+    "PicoDevimon": {
+      "Devimon": {
+        "level": 21,
+        "darkExp": 450
+      },
+      "Musyamon": {
+        "level": 26,
+        "attack": 130,
+        "darkExp": 1200
+      }
+    },
+    "Devimon": {
+      "Vamdemon": {
+        "level": 42,
+        "spirit": 195,
+        "darkExp": 10000
+      }
+    },
+    "Vamdemon": {
+      "VenomVamdemon": {
+        "level": 66,
+        "beastExp": 6666,
+        "befriended": ["PicoDevimon"]
+      }
+    },
+    "Musyamon": {
+      "Vajiramon": {
+        "level": 35,
+        "defense": 160,
+        "beastExp": 3700
+      }
+    },
+    "Vajiramon": {
+      "Zanbamon": {
+        "level": 47,
+        "speed": 240,
+        "darkExp": 13000
+      },
+      "Boltmon": {
+        "level": 47,
+        "speed": 240,
+        "darkExp": 13000
+      }
+    },
+    "Impmon": {
+      "Evilmon": {
+        "level": 23,
+        "darkExp": 950
+      },
+      "Wizardmon": {
+        "level": 25,
+        "friendship": 70,
+        "darkExp": 700
+      }
+    },
+    "Evilmon": {
+      "LadyDevimon": {
+        "level": 39,
+        "attack": 185,
+        "darkExp": 6200
+      }
+    },
+    "LadyDevimon": {
+      "Lilithmon": {
+        "level": 64,
+        "spirit": 300,
+        "darkExp": 32000
+      }
+    },
+    "Wizardmon": {
+      "Mummymon": {
+        "level": 36,
+        "spirit": 180,
+        "darkExp": 5100
+      }
+    },
+    "Mummymon": {
+      "Pharaohmon": {
+        "level": 50,
+        "holyExp": 9000,
+        "darkExp": 9000
+      }
+    }
+  },
+  "Tsumemon:": {
+    "Tsumemon": {
+      "Keramon": {
+        "level": 18,
+        "darkExp": 450,
+        "befriended": ["Keramon"]
+      },
+      "Dracmon": {
+        "level": 9
+      }
+    },
+    "Keramon": {
+      "Chrysalimon": {
+        "level": 27,
+        "defense": 110,
+        "befriended": ["Keramon"]
+      }
+    },
+    "Chrysalimon": {
+      "Infermon": {
+        "level": 36,
+        "attack": 200
+      },
+      "ArgomonUT": {
+        "level": 48,
+        "spirit": 320,
+        "insectPlantExp": 20000
+      }
+    },
+    "Infermon": {
+      "Diaboromon": {
+        "level": 45,
+        "darkExp": 25000,
+        "befriended": ["Keramon"]
+      }
+    },
+    "ArgomonUT": {
+      "ArgomonMG": {
+        "level": 62,
+        "attack": 400,
+        "darkExp": 40000
+      }
+    },
+    "Dracmon": {
+      "SangLoupmon": {
+        "level": 19,
+        "beastExp": 500
+      }
+    },
+    "SangLoupmon": {
+      "Matadormon": {
+        "level": 35,
+        "speed": 175,
+        "darkExp": 3900
+      }
+    },
+    "Matadormon": {
+      "Piedmon": {
+        "level": 55,
+        "befriended": ["Piedmon", "Puppetmon"]
+      }
+    }
+  },
+  "Chicomon": {
+    "Chicomon": {
+      "Veemon": {
+        "level": 10,
+        "friendship": 50
+      },
+      "Monodramon": {
+        "level": 15,
+        "dragonExp": 300
+      }
+    },
+    "Veemon": {
+      "ExVeemon": {
+        "level": 23,
+        "attack": 120,
+        "spirit": 115
+      },
+      "Veedramon": {
+        "level": 18,
+        "attack": 90,
+        "dragonExp": 340
+      }
+    },
+    "Veedramon": {
+      "AeroVeedramon": {
+        "level": 36,
+        "attack": 190,
+        "dragonExp": 4100
+      }
+    },
+    "AeroVeedramon": {
+      "Goldramon": {
+        "level": 63,
+        "holyExp": 45000,
+        "befriended": ["Airdramon"]
+      }
+    },
+    "Monodramon": {
+      "Dinohumon": {
+        "level": 24,
+        "dragonExp": 900
+      },
+      "Airdramon": {
+        "level": 21,
+        "totalExp": 4000,
+        "befriended": ["Airdramon"]
+      }
+    },
+    "Dinohumon": {
+      "Cyberdramon": {
+        "level": 38,
+        "attack": 195,
+        "machineExp": 3800
+      }
+    },
+    "Cyberdramon": {
+      "Justimon": {
+        "level": 51,
+        "spirit": 250,
+        "machineExp": 18000
+      }
+    },
+    "Airdramon": {
+      "Megadramon": {
+        "level": 34,
+        "machineExp": 3800
+      }
+    },
+    "Megadramon": {
+      "Darkdramon": {
+        "level": 52,
+        "darkExp": 12000,
+        "machineExp": 9000
+      }
+    }
+  },
+  "Gigimon": {
+    "Gigimon": {
+      "Guilmon": {
+        "level": 11,
+        "befriended": ["Guilmon"]
+      }
+    },
+    "Guilmon": {
+      "Growlmon": {
+        "level": 21,
+        "attack": 105,
+        "befriended": ["Guilmon"]
+      },
+      "Tyrannomon": {
+        "level": 21,
+        "dragonExp": 340
+      }
+    },
+    "Growlmon": {
+      "WarGrowlmon": {
+        "level": 36,
+        "spirit": 130,
+        "machineExp": 2100
+      },
+      "BlackWarGrowlmon": {
+        "level": 40,
+        "darkExp": 3600,
+        "machineExp": 3300
+      }
+    },
+    "WarGrowlmon": {
+      "Megidramon": {
+        "level": 48,
+        "darkExp": 9000,
+        "befriended": ["Guilmon"]
+      },
+      "Gallantmon": {
+        "level": 60,
+        "friendship": 90,
+        "befriended": ["Megidramon"]
+      }
+    },
+    "Tyrannomon": {
+      "Triceramon": {
+        "level": 33,
+        "defense": 135,
+        "dragonExp": 2000
+      }
+    },
+    "Triceramon": {
+      "Cannondramon": {
+        "level": 47,
+        "attack": 255,
+        "machineExp": 12500
+      }
+    }
+  },
+  "Koromon": {
+    "Koromon": {
+      "Agumon": {
+        "level": 7
+      },
+      "DotAgumon": {
+        "level": 30,
+        "aptitude": 45,
+        "befriended": ["DotAgumon"]
+      }
+    },
+    "Agumon": {
+      "Greymon": {
+        "level": 18,
+        "dragonExp": 280
+      },
+      "GeoGreymon": {
+        "level": 20,
+        "friendship": 60,
+        "attack": 90
+      }
+    },
+    "Greymon": {
+      "MetalGreymon": {
+        "level": 34,
+        "friendship": 70,
+        "dragonExp": 3000
+      }
+    },
+    "MetalGreymon": {
+      "WarGreymon": {
+        "level": 52,
+        "friendship": 90,
+        "befriended": ["Agumon"]
+      }
+    },
+    "GeoGreymon": {
+      "RizeGreymon": {
+        "level": 35,
+        "dragonExp": 3500,
+        "machineExp": 3500
+      }
+    },
+    "RizeGreymon": {
+      "ShineGreymon": {
+        "level": 54,
+        "attack": 270,
+        "holyExp": 13000
+      },
+      "DotShineGreymon": {
+        "level": 50,
+        "aptitude": 55,
+        "machineExp": 12000
+      }
+    }
+  },
+  "Dorimon": {
+    "Dorimon": {
+      "Dorumon": {
+        "level": 8,
+        "beastExp": 100
+      },
+      "Armadillomon": {
+        "level": 11,
+        "friendship": 60
+      },
+      "Shamanmon": {
+        "level": 14,
+        "spirit": 75
+      }
+    },
+    "Dorumon": {
+      "Dorugamon": {
+        "level": 24,
+        "dragonExp": 4800,
+        "machineExp": 3000
+      },
+      "Dorimogemon": {
+        "level": 19,
+        "attack": 90,
+        "aptitude": 25
+      }
+    },
+    "Dorugamon": {
+      "DoruGreymon": {
+        "level": 38,
+        "dragonExp": 4800,
+        "machineExp": 3000
+      }
+    },
+    "DoruGreymon": {
+      "Dorugoramon": {
+        "level": 54,
+        "attack": 265,
+        "totalExp": 57000
+      }
+    },
+    "Armadillomon": {
+      "Ankylomon": {
+        "level": 23,
+        "defense": 100,
+        "beastExp": 500
+      },
+      "NiseDorimogemon": {
+        "level": 19,
+        "attack": 90,
+        "aptitude": 25
+      }
+    },
+    "Shamanmon": {
+      "Fuugamon": {
+        "level": 24,
+        "attack": 120,
+        "beastExp": 450
+      },
+      "Apemon": {
+        "level": 26,
+        "holyExp": 260,
+        "befriended": ["Apemon"]
+      }
+    },
+    "Apemon": {
+      "Kyukimon": {
+        "level": 34,
+        "speed": 180,
+        "beastExp": 4000
+      }
+    },
+    "Kyukimon": {
+      "Kuzuhamon": {
+        "level": 48,
+        "holyExp": 9800,
+        "befriended": ["Kuzuhamon"]
+      }
+    }
+  },
+  "Tsunomon": {
+    "Tsunomon": {
+      "Gabumon": {
+        "level": 8
+      },
+      "Goburimon": {
+        "level": 12,
+        "attack": 60
+      }
+    },
+    "Gabumon": {
+      "Garurumon": {
+        "level": 19,
+        "friendship": 60,
+        "attack": 100
+      },
+      "JMojyamon": {
+        "level": 17,
+        "beastExp": 350
+      }
+    },
+    "Garurumon": {
+      "WereGarurumon": {
+        "level": 35,
+        "speed": 170,
+        "beastExp": 4500
+      }
+    },
+    "WereGarurumon": {
+      "MetalGarurumon": {
+        "level": 52,
+        "friendship": 90,
+        "befriended": ["Gabumon"]
+      }
+    },
+    "Goburimon": {
+      "Ogremon": {
+        "level": 26,
+        "attack": 120,
+        "beastExp": 750
+      },
+      "Minotarumon": {
+        "level": 23,
+        "defense": 95,
+        "beastExp": 360
+      },
+      "Nanimon": {
+        "level": 20,
+        "friendship": 70,
+        "aptitude": 28
+      }
+    },
+    "Ogremon": {
+      "WereGarurumonBlack": {
+        "level": 41,
+        "speed": 190,
+        "darkExp": 6500
+      }
+    },
+    "WereGarurumonBlack": {
+      "Gulfmon": {
+        "level": 56,
+        "darkExp": 15000,
+        "beastExp": 10000
+      }
+    },
+    "Minotarumon": {
+      "Etemon": {
+        "level": 34,
+        "spirit": 135,
+        "beastExp": 3800
+      }
+    },
+    "Etemon": {
+      "MetalEtemon": {
+        "level": 46,
+        "defense": 200,
+        "beastExp": 10000
+      }
+    }
+  },
+  "Wanyamon": {
+    "Wanyamon": {
+      "Gaomon": {
+        "level": 7,
+        "friendship": 60
+      },
+      "Kumamon": {
+        "level": 10
+      }
+    },
+    "Gaomon": {
+      "Gaogamon": {
+        "level": 17,
+        "speed": 90,
+        "beastExp": 250
+      },
+      "Leomon": {
+        "level": 28,
+        "attack": 150,
+        "spirit": 130
+      }
+    },
+    "Gaogamon": {
+      "MachGaogamon": {
+        "level": 33,
+        "friendship": 80,
+        "machineExp": 2800
+      }
+    },
+    "MachGaogamon": {
+      "MirageGaogamon": {
+        "level": 53,
+        "attack": 235,
+        "speed": 280
+      },
+      "DotMirageGaogamon": {
+        "level": 60,
+        "machineExp": 30000,
+        "befriended": ["DotMirageGaogamon"]
+      }
+    },
+    "Leomon": {
+      "GrappLeomon": {
+        "level": 39,
+        "speed": 190,
+        "machineExp": 5500
+      }
+    },
+    "GrappLeomon": {
+      "SaberLeomon": {
+        "level": 57,
+        "attack": 290,
+        "beastExp": 20000
+      }
+    },
+    "Kumamon": {
+      "Grizzmon": {
+        "level": 19,
+        "beastExp": 390
+      },
+      "Mojyamon": {
+        "level": 21,
+        "beastExp": 220,
+        "aquaExp": 180
+      }
+    },
+    "Grizzmon": {
+      "Monzaemon": {
+        "level": 33,
+        "friendship": 80,
+        "holyExp": 4000
+      },
+      "Pandamon": {
+        "level": 36,
+        "beastExp": 8000,
+        "befriended": ["Pandamon"]
+      }
+    },
+    "Monzaemon": {
+      "Babamon": {
+        "level": 48,
+        "spirit": 220,
+        "holyExp": 8000
+      }
+    },
+    "Mojyamon": {
+      "Mammothmon": {
+        "level": 35,
+        "attack": 180,
+        "defense": 185
+      }
+    },
+    "Mammothmon": {
+      "SkullMammothmon": {
+        "level": 49,
+        "darkExp": 6000,
+        "beastExp": 8000
+      }
+    }
+  },
+  "Kapurimon": {
+    "Kapurimon": {
+      "Hagurumon": {
+        "level": 10,
+        "friendship": 50
+      },
+      "Kotemon": {
+        "level": 12,
+        "attack": 60
+      },
+      "PawnChessmonBlack": {
+        "level": 11,
+        "machineExp": 200
+      }
+    },
+    "Hagurumon": {
+      "Guardromon": {
+        "level": 20,
+        "defense": 105
+      },
+      "Hookmon": {
+        "level": 22,
+        "machineExp": 450,
+        "aquaExp": 300
+      }
+    },
+    "Guardromon": {
+      "Andromon": {
+        "level": 35,
+        "friendship": 80,
+        "attack": 165
+      }
+    },
+    "Andromon": {
+      "HiAndromon": {
+        "level": 50,
+        "spirit": 250,
+        "machineExp": 15000
+      }
+    },
+    "Kotemon": {
+      "Omekamon": {
+        "level": 22,
+        "machineExp": 580
+      },
+      "PlatinumSukamon": {
+        "level": 25,
+        "defense": 120
+      }
+    },
+    "Omekamon": {
+      "Tekkamon": {
+        "level": 37,
+        "attack": 170,
+        "speed": 150
+      }
+    },
+    "Tekkamon": {
+      "Puppetmon": {
+        "level": 55,
+        "machineExp": 20000,
+        "befriended": ["Machinedramon"]
+      }
+    },
+    "PawnChessmonBlack": {
+      "KnightChessmonBlack": {
+        "level": 21,
+        "speed": 100
+      }
+    },
+    "KnightChessmonBlack": {
+      "RookChessmon": {
+        "level": 34,
+        "defense": 175
+      }
+    },
+    "RookChessmon": {
+      "QueenChessmon": {
+        "level": 50,
+        "spirit": 220,
+        "machineExp": 13000
+      }
+    }
+  },
+  "Poyomon": {
+    "Poyomon": {
+      "Kamemon": {
+        "level": 9
+      },
+      "Gomamon": {
+        "level": 11,
+        "aquaExp": 100
+      },
+      "Crabmon": {
+        "level": 16,
+        "defense": 75
+      }
+    },
+    "Kamemon": {
+      "Gwappamon": {
+        "level": 19,
+        "machineExp": 370
+      },
+      "Tortomon": {
+        "level": 23,
+        "defense": 110
+      }
+    },
+    "Gwappamon": {
+      "Shawujinmon": {
+        "level": 34,
+        "spirit": 155,
+        "aquaExp": 3600
+      }
+    },
+    "Shawujinmon": {
+      "JumboGamemon": {
+        "level": 51,
+        "attack": 270,
+        "machineExp": 9600
+      }
+    },
+    "Tortomon": {
+      "Brachiomon": {
+        "level": 38,
+        "aquaExp": 7500,
+        "befriended": ["Brachiomon"]
+      }
+    },
+    "Brachiomon": {
+      "Plesiomon": {
+        "level": 47,
+        "aquaExp": 17500
+      }
+    },
+    "Gomamon": {
+      "Ikkakumon": {
+        "level": 21,
+        "friendship": 70
+      }
+    },
+    "Ikkakumon": {
+      "Zudomon": {
+        "level": 32,
+        "attack": 160,
+        "aquaExp": 4100
+      }
+    },
+    "Zudomon": {
+      "Vikemon": {
+        "level": 50,
+        "defense": 230,
+        "spirit": 230
+      }
+    },
+    "Crabmon": {
+      "Ebidramon": {
+        "level": 27,
+        "defense": 140,
+        "dragonExp": 1100
+      }
+    }
+  },
+  "Tokomon": {
+    "Tokomon": {
+      "Patamon": {
+        "level": 8,
+        "friendship": 50
+      },
+      "Falcomon": {
+        "level": 12,
+        "friendship": 60
+      },
+      "DotFalcomon": {
+        "level": 30,
+        "aptitude": 45,
+        "befriended": ["DotFalcomon"]
+      }
+    },
+    "Patamon": {
+      "Angemon": {
+        "level": 19,
+        "friendship": 70,
+        "holyExp": 300
+      }
+    },
+    "Angemon": {
+      "HolyAngemon": {
+        "level": 34,
+        "spirit": 160,
+        "holyExp": 3100
+      }
+    },
+    "HolyAngemon": {
+      "SlashAngemon": {
+        "level": 48,
+        "attack": 250,
+        "machineExp": 8500
+      },
+      "Seraphimon": {
+        "level": 66,
+        "spirit": 380,
+        "holyExp": 77777
+      }
+    },
+    "Falcomon": {
+      "Peckmon": {
+        "level": 20,
+        "speed": 100
+      }
+    },
+    "Peckmon": {
+      "Yatagaramon": {
+        "level": 37,
+        "friendship": 80,
+        "birdExp": 3500
+      }
+    },
+    "Yatagaramon": {
+      "Ravemon": {
+        "level": 50,
+        "speed": 255,
+        "machineExp": 10000
+      }
+    }
+  },
+  "Chicchimon": {
+    "Chicchimon": {
+      "Penmon": {
+        "level": 10,
+        "aquaExp": 100
+      },
+      "Muchomon": {
+        "level": 11
+      }
+    },
+    "Penmon": {
+      "Kiwimon": {
+        "level": 18,
+        "defense": 80,
+        "insectPlantExp": 400
+      },
+      "Kokatorimon": {
+        "level": 21,
+        "friendship": 70,
+        "darkExp": 370
+      }
+    },
+    "Kiwimon": {
+      "Deramon": {
+        "level": 36,
+        "insectPlantExp": 4000
+      },
+      "Phoenixmon": {
+        "level": 52,
+        "holyExp": 11000,
+        "birdExp": 11000
+      }
+    },
+    "Muchomon": {
+      "Diatrymon": {
+        "level": 29,
+        "defense": 150,
+        "birdExp": 2400
+      },
+      "Akatorimon": {
+        "level": 21,
+        "friendship": 70,
+        "birdExp": 700
+      }
+    },
+    "Diatrymon": {
+      "Sinduramon": {
+        "level": 40,
+        "birdExp": 8000,
+        "befriended": ["Sinduramon"]
+      }
+    },
+    "Akatorimon": {
+      "Parrotmon": {
+        "level": 35,
+        "holyExp": 2200,
+        "birdExp": 3300
+      }
+    },
+    "Parrotmon": {
+      "Eaglemon": {
+        "level": 51,
+        "defense": 265,
+        "holyExp": 7500
+      }
+    }
+  },
+  "Budmon": {
+    "Budmon": {
+      "Raramon": {
+        "level": 7
+      },
+      "Mushroomon": {
+        "level": 13,
+        "attack": 65
+      },
+      "DoKunemon": {
+        "level": 10,
+        "insectPlantExp": 130
+      }
+    },
+    "Raramon": {
+      "Sunflowmon": {
+        "level": 18,
+        "friendship": 70,
+        "insectPlantExp": 380
+      },
+      "RedVegiemon": {
+        "level": 22,
+        "friendship": 70,
+        "speed": 115
+      }
+    },
+    "Sunflowmon": {
+      "Lylamon": {
+        "level": 35,
+        "friendship": 80,
+        "speed": 135
+      }
+    },
+    "Lylamon": {
+      "Rosemon": {
+        "level": 50,
+        "attack": 225,
+        "insectPlantExp": 17000
+      },
+      "Lotusmon": {
+        "level": 57,
+        "insectPlantExp": 29000,
+        "befriended": ["Rosemon"]
+      }
+    },
+    "Mushroomon": {
+      "Ninjamon": {
+        "level": 22,
+        "friendship": 70,
+        "speed": 115
+      },
+      "Kougamon": {
+        "level": 22,
+        "attack": 105,
+        "speed": 110
+      }
+    },
+    "DoKunemon": {
+      "Kuwagamon": {
+        "level": 20,
+        "insectPlantExp": 380
+      },
+      "Dokugumon": {
+        "level": 24,
+        "darkExp": 450
+      },
+      "Roachmon": {
+        "level": 17,
+        "speed": 95
+      }
+    },
+    "Kuwagamon": {
+      "Ookuwamon": {
+        "level": 35,
+        "defense": 145,
+        "insectPlantExp": 4000
+      }
+    },
+    "Ookuwamon": {
+      "GranKuwagamon": {
+        "level": 49,
+        "attack": 255,
+        "insectPlantExp": 17000
+      }
+    },
+    "Dokugumon": {
+      "Arukenimon": {
+        "level": 40,
+        "spirit": 220,
+        "darkExp": 7500
+      }
+    }
+  },
+  "Minomon": {
+    "Minomon": {
+      "Wormmon": {
+        "level": 10,
+        "friendship": 50
+      },
+      "Tentomon": {
+        "level": 13,
+        "defense": 50
+      },
+      "Kunemon": {
+        "level": 7
+      }
+    },
+    "Wormmon": {
+      "Stingmon": {
+        "level": 23,
+        "defense": 110,
+        "speed": 115
+      },
+      "Snimon": {
+        "level": 19,
+        "attack": 90
+      }
+    },
+    "Tentomon": {
+      "Kabuterimon": {
+        "level": 21,
+        "insectPlantExp": 410
+      },
+      "SandYanmamon": {
+        "level": 18,
+        "defense": 90,
+        "insectPlantExp": 250
+      }
+    },
+    "Kabuterimon": {
+      "AlturKabuterimonRed": {
+        "level": 36,
+        "friendship": 80,
+        "spirit": 170
+      },
+      "AlturKabuterimon": {
+        "level": 33,
+        "spirit": 140
+      }
+    },
+    "Kunemon": {
+      "Yanmamon": {
+        "level": 18,
+        "speed": 75,
+        "insectPlantExp": 250
+      },
+      "Flymon": {
+        "level": 19,
+        "insectPlantExp": 500
+      },
+      "Sukamon": {
+        "level": 18,
+        "totalExp": 1500
+      }
+    },
+    "Flymon": {
+      "Dinobeemon": {
+        "level": 41,
+        "dragonExp": 8800,
+        "befriended": ["Dinobeemon"]
+      }
+    },
+    "Dinobeemon": {
+      "BlackImperialdramon": {
+        "level": 60,
+        "attack": 315,
+        "dragonExp": 20000
+      }
+    },
+    "Sukamon": {
+      "Garbagemon": {
+        "level": 35,
+        "attack": 170,
+        "machineExp": 5000
+      }
+    }
+  },
+  "Tanemon": {
+    "Tanemon": {
+      "Palmon": {
+        "level": 8
+      },
+      "Aruraumon": {
+        "level": 14,
+        "totalExp": 1100
+      },
+      "Floramon": {
+        "level": 12,
+        "insectPlantExp": 100
+      }
+    },
+    "Palmon": {
+      "Togemon": {
+        "level": 19,
+        "friendship": 60,
+        "attack": 95
+      },
+      "MoriShellmon": {
+        "level": 22,
+        "defense": 105,
+        "beastExp": 900
+      }
+    },
+    "Togemon": {
+      "Lillymon": {
+        "level": 33,
+        "friendship": 80
+      }
+    },
+    "Aruraumon": {
+      "Zassoumon": {
+        "level": 23,
+        "spirit": 95
+      },
+      "Woodmon": {
+        "level": 27,
+        "defense": 125,
+        "insectPlantExp": 1800
+      }
+    },
+    "Zassoumon": {
+      "Blossomon": {
+        "level": 34,
+        "attack": 140,
+        "aquaExp": 3200
+      }
+    },
+    "Woodmon": {
+      "Cherrymon": {
+        "level": 41,
+        "attack": 200,
+        "spirit": 320
+      }
+    },
+    "Floramon": {
+      "Vegiemon": {
+        "level": 23,
+        "insectPlantExp": 500
+      }
+    }
+  },
+  "Gotsumon": {
+    "Gotsumon": {
+      "Icemon": {
+        "level": 19,
+        "defense": 90,
+        "aquaExp": 400
+      },
+      "Golemon": {
+        "level": 21,
+        "attack": 120,
+        "machineExp": 500
+      },
+      "MudFrigimon": {
+        "level": 20,
+        "friendship": 70,
+        "befriended": ["MudFrigimon"]
+      }
+    },
+    "Icemon": {
+      "Meteormon": {
+        "level": 37,
+        "defense": 210,
+        "speed": 175
+      }
+    }
+  },
+  "Kokuwamon": {
+    "Kokuwamon": {
+      "Thunderballmon": {
+        "level": 23,
+        "machineExp": 460
+      }
+    },
+    "Thunderballmon": {
+      "Mamemon": {
+        "level": 33,
+        "attack": 150,
+        "speed": 140
+      }
+    }
+  },
+  "Solarmon": {
+    "Solarmon": {
+      "Clockmon": {
+        "level": 33,
+        "aptitude": 40,
+        "machineExp": 6000
+      },
+      "BomberNanimon": {
+        "level": 24,
+        "friendship": 70,
+        "machineExp": 960
+      }
+    },
+    "Clockmon": {
+      "Knightmon": {
+        "level": 40,
+        "attack": 200,
+        "defense": 180
+      }
+    },
+    "Knightmon": {
+      "Alphamon": {
+        "level": 65,
+        "holyExp": 50000,
+        "befriended": ["Clockmon"]
+      }
+    },
+    "BomberNanimon": {
+      "Giromon": {
+        "level": 38,
+        "attack": 175,
+        "machineExp": 4000
+      }
+    }
+  },
+  "ToyAgumon": {
+    "ToyAgumon": {
+      "Tankmon": {
+        "level": 19,
+        "attack": 110
+      },
+      "Revolmon": {
+        "level": 22,
+        "friendship": 70,
+        "machineExp": 600
+      }
+    },
+    "Tankmon": {
+      "MetalMamemon": {
+        "level": 34,
+        "attack": 165,
+        "machineExp": 3300
+      }
+    },
+    "MetalMamemon": {
+      "PrinceMamemon": {
+        "level": 46,
+        "spirit": 220,
+        "machineExp": 9300
+      }
+    },
+    "Revolmon": {
+      "MameTyramon": {
+        "level": 37,
+        "defense": 170,
+        "dragonExp": 3900
+      }
+    }
+  },
+  "ToyAgumonB": {
+    "ToyAgumonB": {
+      "Mekanorimon": {
+        "level": 20,
+        "machineExp": 410
+      }
+    },
+    "Mekanorimon": {
+      "EXTyrannomon": {
+        "level": 34,
+        "darkExp": 4500
+      }
+    },
+    "EXTyrannomon": {
+      "Ghoulmon": {
+        "level": 49,
+        "defense": 230,
+        "spirit": 230
+      }
+    }
+  },
+  "Betamon": {
+    "Betamon": {
+      "Octomon": {
+        "level": 21,
+        "defense": 95,
+        "aquaExp": 550
+      },
+      "Gesomon": {
+        "level": 21,
+        "attack": 95,
+        "aquaExp": 550
+      },
+      "Dolphmon": {
+        "level": 17,
+        "spirit": 100,
+        "aquaExp": 500
+      }
+    },
+    "Dolphmon": {
+      "Whamon": {
+        "level": 32,
+        "aquaExp": 6000
+      },
+      "Divermon": {
+        "level": 36,
+        "machineExp": 2900,
+        "befriended": ["Divermon"]
+      }
+    },
+    "Whamon": {
+      "MarineAngemon": {
+        "level": 47,
+        "holyExp": 8000,
+        "aquaExp": 13000
+      }
+    }
+  },
+  "Gizamon": {
+    "Gizamon": {
+      "IceDevimon": {
+        "level": 25,
+        "darkExp": 350
+      },
+      "Raremon": {
+        "level": 22,
+        "defense": 90,
+        "machineExp": 440
+      }
+    },
+    "IceDevimon": {
+      "MarineDevimon": {
+        "level": 35,
+        "darkExp": 2100,
+        "aquaExp": 2700
+      }
+    },
+    "Raremon": {
+      "Nanomon": {
+        "level": 35,
+        "machineExp": 4400
+      }
+    },
+    "Nanomon": {
+      "Parasimon": {
+        "level": 48,
+        "aptitude": 52,
+        "darkExp": 8800
+      }
+    }
+  },
+  "Otamamon": {
+    "Otamamon": {
+      "Gekomon": {
+        "level": 18,
+        "aquaExp": 370
+      },
+      "Geremon": {
+        "level": 19,
+        "befriended": ["Numemon"]
+      },
+      "Numemon": {
+        "level": 19,
+        "totalExp": 1400
+      }
+    },
+    "Gekomon": {
+      "ShogunGekomon": {
+        "level": 32,
+        "friendship": 70,
+        "machineExp": 2900
+      }
+    }
+  },
+  "SnowAgumon": {
+    "SnowAgumon": {
+      "Seadramon": {
+        "level": 24
+      }
+    },
+    "Seadramon": {
+      "MegaSeadramon": {
+        "level": 37,
+        "attack": 155,
+        "aquaExp": 4000
+      }
+    },
+    "MegaSeadramon": {
+      "MetalSeadramon": {
+        "level": 55,
+        "machineExp": 10000,
+        "aquaExp": 11000
+      },
+      "GigaSeadramon": {
+        "level": 59,
+        "aquaExp": 25000,
+        "befriended": ["GigaSeadramon"]
+      }
+    }
+  },
+  "SnowGoburimon": {
+    "SnowGoburimon": {
+      "Hyogamon": {
+        "level": 23,
+        "attack": 110
+      },
+      "Frigimon": {
+        "level": 21,
+        "friendship": 70,
+        "aquaExp": 700
+      }
+    }
+  },
+  "Syakomon": {
+    "Syakomon": {
+      "Coelamon": {
+        "level": 18,
+        "attack": 95,
+        "aquaExp": 410
+      },
+      "Shellmon": {
+        "level": 23,
+        "beastExp": 410
+      },
+      "KaratsukiNumemon": {
+        "level": 26,
+        "defense": 135,
+        "aptitude": 30
+      }
+    },
+    "Coelamon": {
+      "Scorpiomon": {
+        "level": 31,
+        "spirit": 130,
+        "aquaExp": 3200
+      }
+    },
+    "Scorpiomon": {
+      "Pukumon": {
+        "level": 45,
+        "attack": 200,
+        "aquaExp": 9900
+      }
+    },
+    "KaratsukiNumemon": {
+      "Digitamamon": {
+        "level": 38,
+        "holyExp": 3100,
+        "befriended": ["Tapirmon"]
+      }
+    },
+    "Digitamamon": {
+      "Lampmon": {
+        "level": 49,
+        "defense": 220,
+        "holyExp": 11500
+      },
+      "Devitamamon": {
+        "level": 50,
+        "attack": 250,
+        "darkExp": 18000
+      }
+    }
+  },
+  "Biyomon": {
+    "Biyomon": {
+      "Birdramon": {
+        "level": 19,
+        "friendship": 60
+      },
+      "Saberdramon": {
+        "level": 18,
+        "speed": 95,
+        "birdExp": 210
+      }
+    },
+    "Birdramon": {
+      "Garudamon": {
+        "level": 32,
+        "friendship": 80,
+        "birdExp": 2700
+      }
+    },
+    "Garudamon": {
+      "Gryphomon": {
+        "level": 47,
+        "attack": 240,
+        "beastExp": 8000
+      }
+    },
+    "Saberdramon": {
+      "Karatenmon": {
+        "level": 33,
+        "spirit": 170
+      }
+    }
+  },
+  "Hawkmon": {
+    "Hawkmon": {
+      "Aquilamon": {
+        "level": 20,
+        "attack": 105
+      }
+    }
+  },
+  "LucemonFM": {
+    "LucemonFM": {
+      "Daemon": {
+        "level": 67,
+        "attack": 390,
+        "darkExp": 50000
+      }
+    }
+  },
+  "Paildramon": {
+    "Paildramon": {
+      "ImperialdramonDM": {
+        "level": 56,
+        "dragonExp": 22000,
+        "befriended": ["Chicomon"]
+      },
+      "ImperialdramonFM": {
+        "level": 60,
+        "friendship": 80,
+        "befriended": ["ImperialdramonDM"]
+      }
+    }
+  },
+  "Vadermon": {
+    "Vadermon": {
+      "Ebemon": {
+        "level": 47,
+        "attack": 245,
+        "machineExp": 11000
+      }
+    }
+  },
+  "Dragomon": {
+    "Dragomon": {
+      "Neptunmon": {
+        "level": 62,
+        "spirit": 340,
+        "aquaExp": 44000
+      }
+    }
+  },
+  "Silphymon": {
+    "Silphymon": {
+      "Valkyriemon": {
+        "level": 52,
+        "speed": 260,
+        "holyExp": 12000
+      }
+    }
+  }
+}
