@@ -1,6 +1,6 @@
 {
   "name": "@clokken/digimon-dawn-dusk-data",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
@@ -20,5 +20,9 @@
     "vite-plugin-dts": "^4.3.0",
     "vitest": "^2.1.8",
     "zod": "^3.23.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clokken/digimon-dawn-dusk-data.git"
   }
 }
