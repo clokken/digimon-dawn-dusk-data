@@ -1,6 +1,6 @@
 {
   "name": "@clokken/digimon-dawn-dusk-data",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
@@ -10,12 +10,6 @@
   "main": "./dist/digimon-dawn-dusk-data.umd.cjs",
   "module": "./dist/digimon-dawn-dusk-data.js",
   "types": "./dist/src/index.d.ts",
-  "exports": {
-    ".": {
-      "import": "./dist/digimon-dawn-dusk-data.js",
-      "require": "./dist/digimon-dawn-dusk-data.umd.cjs"
-    }
-  },
   "files": ["dist"],
   "author": "clokken",
   "license": "ISC",
