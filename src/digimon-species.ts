@@ -7,7 +7,7 @@ export const DIGIMON_SPECIES = [
   'Beast',
   'Bird',
   'Machine',
-  'Fish',
+  'Aquan',
   'InsectPlant',
 ] as const;
 
