@@ -1,11 +1,11 @@
 {
   "name": "@clokken/digimon-dawn-dusk-data",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
     "test": "vitest run",
-    "prepublishOnly": "npm run test"
+    "prepublishOnly": "npm run build && npm run test"
   },
   "main": "./dist/digimon-dawn-dusk-data.umd.cjs",
   "module": "./dist/digimon-dawn-dusk-data.js",
