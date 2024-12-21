@@ -15,3 +15,5 @@ export * from "./tech-info";
 export * from "./tech-learned";
 export * from "./trait-info";
 export * from "./version-exclusives";
+
+export * from "./utils";
