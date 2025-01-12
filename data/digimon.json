@@ -930,6 +930,10 @@
     "specialTech": {
       "name": "Headbutt",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 15,
+      "dragonExp": 300
     }
   },
   {
@@ -973,6 +977,9 @@
     "specialTech": {
       "name": "Pepper Breath",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 7
     }
   },
   {
@@ -1016,6 +1023,10 @@
     "specialTech": {
       "name": "Headbutt",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 10,
+      "friendship": 50
     }
   },
   {
@@ -1059,6 +1070,12 @@
     "specialTech": {
       "name": "Fire Ball",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 11,
+      "befriended": [
+        "Guilmon"
+      ]
     }
   },
   {
@@ -1102,6 +1119,10 @@
     "specialTech": {
       "name": "Beast Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 8,
+      "beastExp": 100
     }
   },
   {
@@ -1188,6 +1209,9 @@
     "specialTech": {
       "name": "Beast Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 8
     }
   },
   {
@@ -1231,6 +1255,10 @@
     "specialTech": {
       "name": "Boom Bubble",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 8,
+      "friendship": 50
     }
   },
   {
@@ -1317,6 +1345,9 @@
     "specialTech": {
       "name": "Poison Ivy",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 8
     }
   },
   {
@@ -1360,6 +1391,10 @@
     "specialTech": {
       "name": "Super Shocker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 13,
+      "defense": 50
     }
   },
   {
@@ -1489,6 +1524,10 @@
     "specialTech": {
       "name": "Water Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 11,
+      "aquaExp": 100
     }
   },
   {
@@ -1532,6 +1571,10 @@
     "specialTech": {
       "name": "Holy Shoot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 16,
+      "holyExp": 470
     }
   },
   {
@@ -1578,6 +1621,9 @@
     "specialTech": {
       "name": "Demi Dart",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 10
     }
   },
   {
@@ -1664,6 +1710,10 @@
     "specialTech": {
       "name": "MachineAttack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 10,
+      "friendship": 50
     }
   },
   {
@@ -1710,6 +1760,9 @@
     "specialTech": {
       "name": "Holy Shoot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 7
     }
   },
   {
@@ -1753,6 +1806,10 @@
     "specialTech": {
       "name": "Petite Tackle",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 10,
+      "friendship": 50
     }
   },
   {
@@ -1839,6 +1896,10 @@
     "specialTech": {
       "name": "Beast Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 11,
+      "friendship": 60
     }
   },
   {
@@ -1882,6 +1943,9 @@
     "specialTech": {
       "name": "Tiny Twister",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 9
     }
   },
   {
@@ -1925,6 +1989,9 @@
     "specialTech": {
       "name": "Dark Twister",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 9
     }
   },
   {
@@ -1968,6 +2035,10 @@
     "specialTech": {
       "name": "Leaf Blade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 12,
+      "speed": 70
     }
   },
   {
@@ -2011,6 +2082,11 @@
     "specialTech": {
       "name": "Dark Fire",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 15,
+      "spirit": 80,
+      "darkExp": 490
     }
   },
   {
@@ -2054,6 +2130,13 @@
     "specialTech": {
       "name": "Crazy Giggle",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "darkExp": 450,
+      "befriended": [
+        "Keramon"
+      ]
     }
   },
   {
@@ -2097,6 +2180,10 @@
     "specialTech": {
       "name": "Beak Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 12,
+      "friendship": 60
     }
   },
   {
@@ -2143,6 +2230,10 @@
     "specialTech": {
       "name": "Beak Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 10,
+      "aquaExp": 100
     }
   },
   {
@@ -2186,6 +2277,10 @@
     "specialTech": {
       "name": "Goburi Strike",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 12,
+      "attack": 60
     }
   },
   {
@@ -2232,6 +2327,9 @@
     "specialTech": {
       "name": "Beast Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 10
     }
   },
   {
@@ -2275,6 +2373,10 @@
     "specialTech": {
       "name": "LightningArrow",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 12,
+      "attack": 60
     }
   },
   {
@@ -2321,6 +2423,10 @@
     "specialTech": {
       "name": "Goburi Strike",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 14,
+      "spirit": 75
     }
   },
   {
@@ -2500,6 +2606,10 @@
     "specialTech": {
       "name": "Pepper Breath",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 7,
+      "attack": 75
     }
   },
   {
@@ -2543,6 +2653,9 @@
     "specialTech": {
       "name": "Beak Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 11
     }
   },
   {
@@ -2586,6 +2699,10 @@
     "specialTech": {
       "name": "Water Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 16,
+      "defense": 75
     }
   },
   {
@@ -2629,6 +2746,10 @@
     "specialTech": {
       "name": "Poison Ivy",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 12,
+      "insectPlantExp": 100
     }
   },
   {
@@ -2718,6 +2839,9 @@
     "specialTech": {
       "name": "Petite Tackle",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 7
     }
   },
   {
@@ -2765,6 +2889,10 @@
     "specialTech": {
       "name": "Poison Ivy",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 14,
+      "totalExp": 1100
     }
   },
   {
@@ -2852,6 +2980,9 @@
     "specialTech": {
       "name": "Dark Twister",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 8
     }
   },
   {
@@ -2896,6 +3027,10 @@
     "specialTech": {
       "name": "Bone Spear",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 11,
+      "machineExp": 200
     }
   },
   {
@@ -2939,6 +3074,10 @@
     "specialTech": {
       "name": "Beast Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 7,
+      "friendship": 60
     }
   },
   {
@@ -2985,6 +3124,13 @@
     "specialTech": {
       "name": "Boom Bubble",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 30,
+      "aptitude": 45,
+      "befriended": [
+        "DotFalcomon"
+      ]
     }
   },
   {
@@ -3028,6 +3174,13 @@
     "specialTech": {
       "name": "Holy Shoot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 15,
+      "aptitude": 25,
+      "befriended": [
+        "Kudamon"
+      ]
     }
   },
   {
@@ -3071,6 +3224,9 @@
     "specialTech": {
       "name": "Water Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 9
     }
   },
   {
@@ -3114,6 +3270,9 @@
     "specialTech": {
       "name": "Demi Dart",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 9
     }
   },
   {
@@ -3158,6 +3317,10 @@
     "specialTech": {
       "name": "Bone Spear",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 11,
+      "machineExp": 200
     }
   },
   {
@@ -3201,6 +3364,13 @@
     "specialTech": {
       "name": "Fire Ball",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 30,
+      "aptitude": 45,
+      "befriended": [
+        "DotAgumon"
+      ]
     }
   },
   {
@@ -3244,6 +3414,9 @@
     "specialTech": {
       "name": "Super Shocker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 7
     }
   },
   {
@@ -3287,6 +3460,10 @@
     "specialTech": {
       "name": "Super Shocker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 13,
+      "attack": 65
     }
   },
   {
@@ -3376,6 +3553,10 @@
     "specialTech": {
       "name": "Dark Fire",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 13,
+      "darkExp": 120
     }
   },
   {
@@ -3462,6 +3643,10 @@
     "specialTech": {
       "name": "Super Shocker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 10,
+      "insectPlantExp": 130
     }
   },
   {
@@ -3505,6 +3690,10 @@
     "specialTech": {
       "name": "Holy Shoot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 11,
+      "friendship": 50
     }
   },
   {
@@ -3548,6 +3737,10 @@
     "specialTech": {
       "name": "Demi Dart",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 9,
+      "friendship": 50
     }
   },
   {
@@ -3594,6 +3787,10 @@
     "specialTech": {
       "name": "Power Laser",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "machineExp": 410
     }
   },
   {
@@ -3637,6 +3834,10 @@
     "specialTech": {
       "name": "Fiery Breath",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "dragonExp": 280
     }
   },
   {
@@ -3680,6 +3881,10 @@
     "specialTech": {
       "name": "Fire Breath",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "dragonExp": 340
     }
   },
   {
@@ -3723,6 +3928,10 @@
     "specialTech": {
       "name": "Touch of Evil",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "darkExp": 450
     }
   },
   {
@@ -3766,6 +3975,13 @@
     "specialTech": {
       "name": "Fatal Tornado",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "totalExp": 4000,
+      "befriended": [
+        "Airdramon"
+      ]
     }
   },
   {
@@ -3809,6 +4025,9 @@
     "specialTech": {
       "name": "Water Wave",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 24
     }
   },
   {
@@ -3852,6 +4071,10 @@
     "specialTech": {
       "name": "Nume Charge",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "totalExp": 1400
     }
   },
   {
@@ -3895,6 +4118,10 @@
     "specialTech": {
       "name": "ElectroShocker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "insectPlantExp": 410
     }
   },
   {
@@ -3938,6 +4165,11 @@
     "specialTech": {
       "name": "Freeze Fang",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "friendship": 60,
+      "attack": 100
     }
   },
   {
@@ -3981,6 +4213,11 @@
     "specialTech": {
       "name": "HeavenKnuckle",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "friendship": 70,
+      "holyExp": 300
     }
   },
   {
@@ -4027,6 +4264,10 @@
     "specialTech": {
       "name": "Branch Drain",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "insectPlantExp": 500
     }
   },
   {
@@ -4070,6 +4311,11 @@
     "specialTech": {
       "name": "Bone Strike",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 26,
+      "attack": 120,
+      "beastExp": 750
     }
   },
   {
@@ -4113,6 +4359,10 @@
     "specialTech": {
       "name": "Touch of Evil",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "darkExp": 420
     }
   },
   {
@@ -4156,6 +4406,10 @@
     "specialTech": {
       "name": "Scar Nail",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "totalExp": 1500
     }
   },
   {
@@ -4199,6 +4453,11 @@
     "specialTech": {
       "name": "Feather Shoot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "friendship": 70,
+      "darkExp": 370
     }
   },
   {
@@ -4242,6 +4501,11 @@
     "specialTech": {
       "name": "Shishiomaru",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 28,
+      "attack": 150,
+      "spirit": 130
     }
   },
   {
@@ -4285,6 +4549,10 @@
     "specialTech": {
       "name": "Shadow Slash",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "insectPlantExp": 380
     }
   },
   {
@@ -4328,6 +4596,11 @@
     "specialTech": {
       "name": "Scar Nail",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "defense": 90,
+      "machineExp": 440
     }
   },
   {
@@ -4371,6 +4644,10 @@
     "specialTech": {
       "name": "Water Wave",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "aquaExp": 370
     }
   },
   {
@@ -4417,6 +4694,10 @@
     "specialTech": {
       "name": "HeavenKnuckle",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "friendship": 70
     }
   },
   {
@@ -4460,6 +4741,11 @@
     "specialTech": {
       "name": "Thunder Ball",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 25,
+      "friendship": 70,
+      "darkExp": 700
     }
   },
   {
@@ -4503,6 +4789,11 @@
     "specialTech": {
       "name": "Needle Spray",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "friendship": 60,
+      "attack": 95
     }
   },
   {
@@ -4546,6 +4837,10 @@
     "specialTech": {
       "name": "Power Laser",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "defense": 105
     }
   },
   {
@@ -4592,6 +4887,11 @@
     "specialTech": {
       "name": "X Laser",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "attack": 120,
+      "spirit": 115
     }
   },
   {
@@ -4635,6 +4935,11 @@
     "specialTech": {
       "name": "Spiking FN",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "defense": 110,
+      "speed": 115
     }
   },
   {
@@ -4678,6 +4983,10 @@
     "specialTech": {
       "name": "Meteor Wing",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "friendship": 60
     }
   },
   {
@@ -4721,6 +5030,11 @@
     "specialTech": {
       "name": "Megaton Press",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "defense": 100,
+      "beastExp": 500
     }
   },
   {
@@ -4764,6 +5078,11 @@
     "specialTech": {
       "name": "Bunny Pummel",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "friendship": 60,
+      "beastExp": 480
     }
   },
   {
@@ -4807,6 +5126,13 @@
     "specialTech": {
       "name": "Fire Breath",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "attack": 105,
+      "befriended": [
+        "Guilmon"
+      ]
     }
   },
   {
@@ -4850,6 +5176,10 @@
     "specialTech": {
       "name": "FoxtailInferno",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "spirit": 125
     }
   },
   {
@@ -4896,6 +5226,13 @@
     "specialTech": {
       "name": "Data Crusher",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 27,
+      "defense": 110,
+      "befriended": [
+        "Keramon"
+      ]
     }
   },
   {
@@ -4942,6 +5279,11 @@
     "specialTech": {
       "name": "Energy Ray",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 24,
+      "defense": 120,
+      "holyExp": 800
     }
   },
   {
@@ -4988,6 +5330,10 @@
     "specialTech": {
       "name": "Touch of Evil",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "darkExp": 950
     }
   },
   {
@@ -5031,6 +5377,10 @@
     "specialTech": {
       "name": "Blast Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "attack": 105
     }
   },
   {
@@ -5077,6 +5427,10 @@
     "specialTech": {
       "name": "ElectroShocker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 17,
+      "speed": 95
     }
   },
   {
@@ -5120,6 +5474,10 @@
     "specialTech": {
       "name": "Dino Slash",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 24,
+      "dragonExp": 900
     }
   },
   {
@@ -5163,6 +5521,11 @@
     "specialTech": {
       "name": "Metal Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "machineExp": 450,
+      "aquaExp": 300
     }
   },
   {
@@ -5206,6 +5569,10 @@
     "specialTech": {
       "name": "Heavy Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "beastExp": 390
     }
   },
   {
@@ -5249,6 +5616,11 @@
     "specialTech": {
       "name": "Fighting Spirit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 24,
+      "dragonExp": 4800,
+      "machineExp": 3000
     }
   },
   {
@@ -5341,6 +5713,13 @@
     "specialTech": {
       "name": "Bone Strike",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 26,
+      "holyExp": 260,
+      "befriended": [
+        "Apemon"
+      ]
     }
   },
   {
@@ -5384,6 +5763,11 @@
     "specialTech": {
       "name": "Meteor Squall",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 24,
+      "friendship": 70,
+      "spirit": 115
     }
   },
   {
@@ -5428,6 +5812,11 @@
     "specialTech": {
       "name": "PowerfulPunch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 24,
+      "friendship": 70,
+      "machineExp": 960
     }
   },
   {
@@ -5471,6 +5860,11 @@
     "specialTech": {
       "name": "Blast Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "defense": 80,
+      "insectPlantExp": 400
     }
   },
   {
@@ -5514,6 +5908,10 @@
     "specialTech": {
       "name": "Aerial Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "speed": 90
     }
   },
   {
@@ -5557,6 +5955,10 @@
     "specialTech": {
       "name": "Meteor Squall",
       "level": 1
+    },
+    "evoReqs": {
+      "friendship": 70,
+      "holyExp": 700
     }
   },
   {
@@ -5604,6 +6006,11 @@
     "specialTech": {
       "name": "Fire Blast",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "attack": 100,
+      "darkExp": 1000
     }
   },
   {
@@ -5647,6 +6054,11 @@
     "specialTech": {
       "name": "Blast Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "friendship": 70,
+      "birdExp": 700
     }
   },
   {
@@ -5691,6 +6103,10 @@
     "specialTech": {
       "name": "Scar Nail",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 25,
+      "defense": 120
     }
   },
   {
@@ -5734,6 +6150,10 @@
     "specialTech": {
       "name": "HarpoonTrpedo",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "friendship": 70
     }
   },
   {
@@ -5780,6 +6200,11 @@
     "specialTech": {
       "name": "Heavy Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "defense": 95,
+      "beastExp": 360
     }
   },
   {
@@ -5823,6 +6248,11 @@
     "specialTech": {
       "name": "Ice Punch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "defense": 90,
+      "aquaExp": 400
     }
   },
   {
@@ -5870,6 +6300,10 @@
     "specialTech": {
       "name": "Fire Blast",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "dragonExp": 650
     }
   },
   {
@@ -5916,6 +6350,10 @@
     "specialTech": {
       "name": "Fire Breath",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "dragonExp": 650
     }
   },
   {
@@ -5959,6 +6397,11 @@
     "specialTech": {
       "name": "Fiery Breath",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "friendship": 60,
+      "attack": 90
     }
   },
   {
@@ -6002,6 +6445,11 @@
     "specialTech": {
       "name": "Spiral Blow",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 17,
+      "speed": 90,
+      "beastExp": 250
     }
   },
   {
@@ -6045,6 +6493,11 @@
     "specialTech": {
       "name": "Blast Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 29,
+      "defense": 150,
+      "birdExp": 2400
     }
   },
   {
@@ -6088,6 +6541,11 @@
     "specialTech": {
       "name": "Fang Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 27,
+      "speed": 125,
+      "holyExp": 800
     }
   },
   {
@@ -6131,6 +6589,11 @@
     "specialTech": {
       "name": "Sunshine Beam",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "friendship": 70,
+      "insectPlantExp": 380
     }
   },
   {
@@ -6177,6 +6640,10 @@
     "specialTech": {
       "name": "DJ Shooter",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "machineExp": 370
     }
   },
   {
@@ -6220,6 +6687,10 @@
     "specialTech": {
       "name": "Drain Slash",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "beastExp": 500
     }
   },
   {
@@ -6263,6 +6734,10 @@
     "specialTech": {
       "name": "Feather Shoot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "speed": 100
     }
   },
   {
@@ -6309,6 +6784,11 @@
     "specialTech": {
       "name": "Drill Spin",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "attack": 90,
+      "aptitude": 25
     }
   },
   {
@@ -6356,6 +6836,11 @@
     "specialTech": {
       "name": "Drill Spin",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "attack": 90,
+      "aptitude": 25
     }
   },
   {
@@ -6399,6 +6884,11 @@
     "specialTech": {
       "name": "Drill Spin",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "defense": 105,
+      "beastExp": 900
     }
   },
   {
@@ -6445,6 +6935,10 @@
     "specialTech": {
       "name": "Heavy Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 29,
+      "darkExp": 1800
     }
   },
   {
@@ -6491,6 +6985,11 @@
     "specialTech": {
       "name": "Bone Strike",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 24,
+      "attack": 120,
+      "beastExp": 450
     }
   },
   {
@@ -6539,6 +7038,13 @@
     "specialTech": {
       "name": "Heavy Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "friendship": 70,
+      "befriended": [
+        "MudFrigimon"
+      ]
     }
   },
   {
@@ -6585,6 +7091,10 @@
     "specialTech": {
       "name": "StrngCarapace",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "defense": 110
     }
   },
   {
@@ -6628,6 +7138,11 @@
     "specialTech": {
       "name": "Water Wave",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 27,
+      "defense": 140,
+      "dragonExp": 1100
     }
   },
   {
@@ -6671,6 +7186,11 @@
     "specialTech": {
       "name": "Deadly Shade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "defense": 95,
+      "aquaExp": 550
     }
   },
   {
@@ -6714,6 +7234,11 @@
     "specialTech": {
       "name": "Deadly Shade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "attack": 95,
+      "aquaExp": 550
     }
   },
   {
@@ -6757,6 +7282,11 @@
     "specialTech": {
       "name": "Water Wave",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "attack": 95,
+      "aquaExp": 410
     }
   },
   {
@@ -6800,6 +7330,10 @@
     "specialTech": {
       "name": "Water Wave",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "beastExp": 410
     }
   },
   {
@@ -6846,6 +7380,11 @@
     "specialTech": {
       "name": "Ice Punch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "friendship": 70,
+      "aquaExp": 700
     }
   },
   {
@@ -6889,6 +7428,12 @@
     "specialTech": {
       "name": "Nume Charge",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "befriended": [
+        "Numemon"
+      ]
     }
   },
   {
@@ -6932,6 +7477,10 @@
     "specialTech": {
       "name": "Ice Punch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "attack": 110
     }
   },
   {
@@ -6979,6 +7528,11 @@
     "specialTech": {
       "name": "Nume Charge",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 26,
+      "defense": 135,
+      "aptitude": 30
     }
   },
   {
@@ -7022,6 +7576,10 @@
     "specialTech": {
       "name": "Ice Punch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 25,
+      "darkExp": 350
     }
   },
   {
@@ -7068,6 +7626,11 @@
     "specialTech": {
       "name": "Water Wave",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 17,
+      "spirit": 100,
+      "aquaExp": 500
     }
   },
   {
@@ -7111,6 +7674,11 @@
     "specialTech": {
       "name": "Meteor Wing",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "speed": 95,
+      "birdExp": 210
     }
   },
   {
@@ -7154,6 +7722,11 @@
     "specialTech": {
       "name": "Branch Drain",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 27,
+      "defense": 125,
+      "insectPlantExp": 1800
     }
   },
   {
@@ -7197,6 +7770,10 @@
     "specialTech": {
       "name": "Shadow Slash",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "attack": 90
     }
   },
   {
@@ -7240,6 +7817,10 @@
     "specialTech": {
       "name": "Poison Sting",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "insectPlantExp": 500
     }
   },
   {
@@ -7283,6 +7864,11 @@
     "specialTech": {
       "name": "ElectroShocker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "speed": 75,
+      "insectPlantExp": 250
     }
   },
   {
@@ -7327,6 +7913,11 @@
     "specialTech": {
       "name": "ElectroShocker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "defense": 90,
+      "insectPlantExp": 250
     }
   },
   {
@@ -7371,6 +7962,11 @@
     "specialTech": {
       "name": "Sunshine Beam",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "friendship": 70,
+      "speed": 115
     }
   },
   {
@@ -7417,6 +8013,10 @@
     "specialTech": {
       "name": "Branch Drain",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "spirit": 95
     }
   },
   {
@@ -7463,6 +8063,11 @@
     "specialTech": {
       "name": "Shadow Slash",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "friendship": 70,
+      "speed": 115
     }
   },
   {
@@ -7509,6 +8114,11 @@
     "specialTech": {
       "name": "Shadow Slash",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "attack": 105,
+      "speed": 110
     }
   },
   {
@@ -7552,6 +8162,10 @@
     "specialTech": {
       "name": "Paint Rocket",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "machineExp": 580
     }
   },
   {
@@ -7595,6 +8209,11 @@
     "specialTech": {
       "name": "ChronoBreaker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "aptitude": 40,
+      "machineExp": 6000
     }
   },
   {
@@ -7639,6 +8258,10 @@
     "specialTech": {
       "name": "PowerfulPunch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 23,
+      "machineExp": 460
     }
   },
   {
@@ -7682,6 +8305,10 @@
     "specialTech": {
       "name": "Metal Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "attack": 110
     }
   },
   {
@@ -7725,6 +8352,11 @@
     "specialTech": {
       "name": "PowerfulPunch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "friendship": 70,
+      "aptitude": 28
     }
   },
   {
@@ -7768,6 +8400,11 @@
     "specialTech": {
       "name": "PowerfulPunch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "attack": 120,
+      "machineExp": 500
     }
   },
   {
@@ -7811,6 +8448,10 @@
     "specialTech": {
       "name": "Fiery Breath",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "dragonExp": 220
     }
   },
   {
@@ -7854,6 +8495,11 @@
     "specialTech": {
       "name": "Bone Strike",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "beastExp": 220,
+      "aquaExp": 180
     }
   },
   {
@@ -7901,6 +8547,10 @@
     "specialTech": {
       "name": "Bone Strike",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 17,
+      "beastExp": 350
     }
   },
   {
@@ -7947,6 +8597,11 @@
     "specialTech": {
       "name": "Quick Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "friendship": 70,
+      "machineExp": 600
     }
   },
   {
@@ -7993,6 +8648,10 @@
     "specialTech": {
       "name": "Energy Ray",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 20,
+      "machineExp": 480
     }
   },
   {
@@ -8036,6 +8695,11 @@
     "specialTech": {
       "name": "Touch of Evil",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 22,
+      "dragonExp": 350,
+      "darkExp": 300
     }
   },
   {
@@ -8079,6 +8743,10 @@
     "specialTech": {
       "name": "Poison Sting",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 24,
+      "darkExp": 450
     }
   },
   {
@@ -8122,6 +8790,11 @@
     "specialTech": {
       "name": "VibelessArrow",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 18,
+      "attack": 90,
+      "dragonExp": 340
     }
   },
   {
@@ -8165,6 +8838,11 @@
     "specialTech": {
       "name": "Drain Slash",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 26,
+      "attack": 130,
+      "darkExp": 1200
     }
   },
   {
@@ -8209,6 +8887,10 @@
     "specialTech": {
       "name": "Night Lancer",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "speed": 100
     }
   },
   {
@@ -8253,6 +8935,10 @@
     "specialTech": {
       "name": "Night Lancer",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 21,
+      "speed": 100
     }
   },
   {
@@ -8296,6 +8982,11 @@
     "specialTech": {
       "name": "Flame Dive",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 25,
+      "friendship": 70,
+      "beastExp": 700
     }
   },
   {
@@ -8342,6 +9033,10 @@
     "specialTech": {
       "name": "MoonNightBomb",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 19,
+      "friendship": 70
     }
   },
   {
@@ -8389,6 +9084,11 @@
     "specialTech": {
       "name": "BigBangTackle",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 26,
+      "attack": 160,
+      "darkExp": 3400
     }
   },
   {
@@ -8433,6 +9133,11 @@
     "specialTech": {
       "name": "Giga Blaster",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "friendship": 70,
+      "dragonExp": 3000
     }
   },
   {
@@ -8477,6 +9182,11 @@
     "specialTech": {
       "name": "Lovely Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "friendship": 80,
+      "holyExp": 4000
     }
   },
   {
@@ -8521,6 +9231,13 @@
     "specialTech": {
       "name": "Skull Destroy",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 42,
+      "darkExp": 7000,
+      "befriended": [
+        "SkullGreymon"
+      ]
     }
   },
   {
@@ -8566,6 +9283,11 @@
     "specialTech": {
       "name": "Energy Bomb",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "attack": 165,
+      "machineExp": 3300
     }
   },
   {
@@ -8610,6 +9332,11 @@
     "specialTech": {
       "name": "Lightning Blade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "friendship": 80,
+      "attack": 165
     }
   },
   {
@@ -8654,6 +9381,11 @@
     "specialTech": {
       "name": "Love Serenade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "spirit": 135,
+      "beastExp": 3800
     }
   },
   {
@@ -8698,6 +9430,10 @@
     "specialTech": {
       "name": "Genocide A",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "machineExp": 3800
     }
   },
   {
@@ -8746,6 +9482,11 @@
     "specialTech": {
       "name": "Bit Bomb",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "spirit": 145,
+      "holyExp": 4300
     }
   },
   {
@@ -8790,6 +9531,13 @@
     "specialTech": {
       "name": "Enigma",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 38,
+      "holyExp": 3100,
+      "befriended": [
+        "Tapirmon"
+      ]
     }
   },
   {
@@ -8834,6 +9582,11 @@
     "specialTech": {
       "name": "Tusk Strike",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "attack": 180,
+      "defense": 185
     }
   },
   {
@@ -8882,6 +9635,10 @@
     "specialTech": {
       "name": "Horn Buster",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "spirit": 140
     }
   },
   {
@@ -8929,6 +9686,11 @@
     "specialTech": {
       "name": "S Arm's0mega",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "defense": 145,
+      "insectPlantExp": 4000
     }
   },
   {
@@ -8977,6 +9739,11 @@
     "specialTech": {
       "name": "Musical Fist",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 32,
+      "friendship": 70,
+      "machineExp": 2900
     }
   },
   {
@@ -9021,6 +9788,11 @@
     "specialTech": {
       "name": "Holy Arrow",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "attack": 160,
+      "holyExp": 2700
     }
   },
   {
@@ -9112,6 +9884,11 @@
     "specialTech": {
       "name": "Stinger S",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 31,
+      "spirit": 130,
+      "aquaExp": 3200
     }
   },
   {
@@ -9157,6 +9934,11 @@
     "specialTech": {
       "name": "LightningJavelin",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 37,
+      "attack": 155,
+      "aquaExp": 4000
     }
   },
   {
@@ -9249,6 +10031,11 @@
     "specialTech": {
       "name": "Wolf Claw",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 41,
+      "speed": 190,
+      "darkExp": 6500
     }
   },
   {
@@ -9298,6 +10085,11 @@
     "specialTech": {
       "name": "Wolf Claw",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "speed": 170,
+      "beastExp": 4500
     }
   },
   {
@@ -9345,6 +10137,11 @@
     "specialTech": {
       "name": "Midnight Raid",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 42,
+      "spirit": 195,
+      "darkExp": 10000
     }
   },
   {
@@ -9389,6 +10186,11 @@
     "specialTech": {
       "name": "DarknessWave",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 39,
+      "attack": 185,
+      "darkExp": 6200
     }
   },
   {
@@ -9433,6 +10235,11 @@
     "specialTech": {
       "name": "Shadow Wing",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 32,
+      "friendship": 80,
+      "birdExp": 2700
     }
   },
   {
@@ -9477,6 +10284,11 @@
     "specialTech": {
       "name": "Spiral Flower",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "attack": 140,
+      "aquaExp": 3200
     }
   },
   {
@@ -9524,6 +10336,10 @@
     "specialTech": {
       "name": "Flower Cannon",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "friendship": 80
     }
   },
   {
@@ -9572,6 +10388,11 @@
     "specialTech": {
       "name": "Horn Buster",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 36,
+      "friendship": 80,
+      "spirit": 170
     }
   },
   {
@@ -9619,6 +10440,10 @@
     "specialTech": {
       "name": "Digital Bomb",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "machineExp": 4400
     }
   },
   {
@@ -9663,6 +10488,11 @@
     "specialTech": {
       "name": "Erase Claw",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 38,
+      "attack": 195,
+      "machineExp": 3800
     }
   },
   {
@@ -9711,6 +10541,11 @@
     "specialTech": {
       "name": "Heaven's Gate",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "spirit": 160,
+      "holyExp": 3100
     }
   },
   {
@@ -9799,6 +10634,13 @@
     "specialTech": {
       "name": "DMasquerade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 41,
+      "dragonExp": 8800,
+      "befriended": [
+        "Dinobeemon"
+      ]
     }
   },
   {
@@ -9843,6 +10685,10 @@
     "specialTech": {
       "name": "Bunny Blade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 41,
+      "friendship": 80
     }
   },
   {
@@ -9890,6 +10736,11 @@
     "specialTech": {
       "name": "Spider Thread",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 40,
+      "spirit": 220,
+      "darkExp": 7500
     }
   },
   {
@@ -9934,6 +10785,11 @@
     "specialTech": {
       "name": "Necrophobia",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 36,
+      "spirit": 180,
+      "darkExp": 5100
     }
   },
   {
@@ -9981,6 +10837,11 @@
     "specialTech": {
       "name": "Atomic BRT",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 36,
+      "spirit": 130,
+      "machineExp": 2100
     }
   },
   {
@@ -10025,6 +10886,11 @@
     "specialTech": {
       "name": "Rapid Fire",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "speed": 145,
+      "machineExp": 3500
     }
   },
   {
@@ -10069,6 +10935,11 @@
     "specialTech": {
       "name": "Lethal Cards",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 36,
+      "friendship": 80,
+      "spirit": 185
     }
   },
   {
@@ -10113,6 +10984,11 @@
     "specialTech": {
       "name": "Mjollnir Ltning",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "holyExp": 2200,
+      "birdExp": 3300
     }
   },
   {
@@ -10157,6 +11033,10 @@
     "specialTech": {
       "name": "EnergyGrenade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 36,
+      "attack": 200
     }
   },
   {
@@ -10202,6 +11082,11 @@
     "specialTech": {
       "name": "Rapid Fire",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "speed": 145,
+      "machineExp": 3500
     }
   },
   {
@@ -10246,6 +11131,13 @@
     "specialTech": {
       "name": "Animal Nail",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 36,
+      "beastExp": 8000,
+      "befriended": [
+        "Pandamon"
+      ]
     }
   },
   {
@@ -10291,6 +11183,11 @@
     "specialTech": {
       "name": "Guilty Black",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "darkExp": 2100,
+      "aquaExp": 2700
     }
   },
   {
@@ -10335,6 +11232,10 @@
     "specialTech": {
       "name": "Shogekiha",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "spirit": 170
     }
   },
   {
@@ -10379,6 +11280,11 @@
     "specialTech": {
       "name": "Mega Twister",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "speed": 180,
+      "beastExp": 4000
     }
   },
   {
@@ -10423,6 +11329,13 @@
     "specialTech": {
       "name": "Puyavaha",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 40,
+      "birdExp": 8000,
+      "befriended": [
+        "Sinduramon"
+      ]
     }
   },
   {
@@ -10514,6 +11427,11 @@
     "specialTech": {
       "name": "Metal Meteor",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 38,
+      "dragonExp": 4800,
+      "machineExp": 3000
     }
   },
   {
@@ -10558,6 +11476,13 @@
     "specialTech": {
       "name": "Harpoon Jab",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 36,
+      "machineExp": 2900,
+      "befriended": [
+        "Divermon"
+      ]
     }
   },
   {
@@ -10602,6 +11527,13 @@
     "specialTech": {
       "name": "Heat Viper",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 44,
+      "darkExp": 11000,
+      "befriended": [
+        "Kimeramon"
+      ]
     }
   },
   {
@@ -10646,6 +11578,11 @@
     "specialTech": {
       "name": "Tryhorn A",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "defense": 135,
+      "dragonExp": 2000
     }
   },
   {
@@ -10690,6 +11627,10 @@
     "specialTech": {
       "name": "Royal Nuts",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 36,
+      "insectPlantExp": 4000
     }
   },
   {
@@ -10779,6 +11720,11 @@
     "specialTech": {
       "name": "Hail Strike",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 41,
+      "attack": 190,
+      "holyExp": 8800
     }
   },
   {
@@ -10827,6 +11773,11 @@
     "specialTech": {
       "name": "Atomic BRT",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 40,
+      "darkExp": 3600,
+      "machineExp": 3300
     }
   },
   {
@@ -10871,6 +11822,11 @@
     "specialTech": {
       "name": "VulcanHammer",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 32,
+      "attack": 160,
+      "aquaExp": 4100
     }
   },
   {
@@ -10916,6 +11872,10 @@
     "specialTech": {
       "name": "Tidal Wave",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 32,
+      "aquaExp": 6000
     }
   },
   {
@@ -10960,6 +11920,11 @@
     "specialTech": {
       "name": "Smiley Bomb",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "attack": 150,
+      "speed": 140
     }
   },
   {
@@ -11095,6 +12060,11 @@
     "specialTech": {
       "name": "Cosmo Flash",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 37,
+      "defense": 210,
+      "speed": 175
     }
   },
   {
@@ -11139,6 +12109,11 @@
     "specialTech": {
       "name": "Genocide Gear",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 40,
+      "attack": 195,
+      "machineExp": 4400
     }
   },
   {
@@ -11186,6 +12161,11 @@
     "specialTech": {
       "name": "TRI Revolver",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "dragonExp": 3500,
+      "machineExp": 3500
     }
   },
   {
@@ -11231,6 +12211,11 @@
     "specialTech": {
       "name": "GaogaTornado",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "friendship": 80,
+      "machineExp": 2800
     }
   },
   {
@@ -11278,6 +12263,11 @@
     "specialTech": {
       "name": "HurricaneBlade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 43,
+      "spirit": 210,
+      "holyExp": 7100
     }
   },
   {
@@ -11325,6 +12315,11 @@
     "specialTech": {
       "name": "Lila Shower",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "friendship": 80,
+      "speed": 135
     }
   },
   {
@@ -11413,6 +12408,11 @@
     "specialTech": {
       "name": "Grand Arrow",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "speed": 175,
+      "darkExp": 3900
     }
   },
   {
@@ -11501,6 +12501,11 @@
     "specialTech": {
       "name": "Illusion M",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 41,
+      "attack": 200,
+      "spirit": 320
     }
   },
   {
@@ -11545,6 +12550,11 @@
     "specialTech": {
       "name": "Poop Bazooka",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "attack": 170,
+      "machineExp": 5000
     }
   },
   {
@@ -11639,6 +12649,11 @@
     "specialTech": {
       "name": "Met Lariat",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 37,
+      "defense": 170,
+      "dragonExp": 3900
     }
   },
   {
@@ -11683,6 +12698,11 @@
     "specialTech": {
       "name": "Deadly Bomb",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 38,
+      "attack": 175,
+      "machineExp": 4000
     }
   },
   {
@@ -11775,6 +12795,10 @@
     "specialTech": {
       "name": "GBlaster 2",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "machineExp": 5500
     }
   },
   {
@@ -11819,6 +12843,11 @@
     "specialTech": {
       "name": "ElectricKatana",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 37,
+      "attack": 170,
+      "speed": 150
     }
   },
   {
@@ -11908,6 +12937,10 @@
     "specialTech": {
       "name": "Pretty Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "darkExp": 4500
     }
   },
   {
@@ -11955,6 +12988,11 @@
     "specialTech": {
       "name": "Volcano SS",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 37,
+      "defense": 175,
+      "dragonExp": 3500
     }
   },
   {
@@ -11999,6 +13037,10 @@
     "specialTech": {
       "name": "Soul Chopper",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "darkExp": 4200
     }
   },
   {
@@ -12046,6 +13088,11 @@
     "specialTech": {
       "name": "Terra Blade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 35,
+      "defense": 160,
+      "beastExp": 3700
     }
   },
   {
@@ -12091,6 +13138,11 @@
     "specialTech": {
       "name": "V Wing Blade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 36,
+      "attack": 190,
+      "dragonExp": 4100
     }
   },
   {
@@ -12138,6 +13190,11 @@
     "specialTech": {
       "name": "Vortex Kick",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 39,
+      "speed": 190,
+      "machineExp": 5500
     }
   },
   {
@@ -12182,6 +13239,11 @@
     "specialTech": {
       "name": "Berserk Sword",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 40,
+      "attack": 200,
+      "defense": 180
     }
   },
   {
@@ -12226,6 +13288,13 @@
     "specialTech": {
       "name": "Brachio Bubble",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 38,
+      "aquaExp": 7500,
+      "befriended": [
+        "Brachiomon"
+      ]
     }
   },
   {
@@ -12364,6 +13433,11 @@
     "specialTech": {
       "name": "Whirl Form",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "spirit": 155,
+      "aquaExp": 3600
     }
   },
   {
@@ -12408,6 +13482,11 @@
     "specialTech": {
       "name": "Spiritual Kick",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 37,
+      "friendship": 80,
+      "birdExp": 3500
     }
   },
   {
@@ -12453,6 +13532,10 @@
     "specialTech": {
       "name": "Bishop Laser",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "attack": 175
     }
   },
   {
@@ -12497,6 +13580,10 @@
     "specialTech": {
       "name": "Rook Gatling",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 34,
+      "defense": 175
     }
   },
   {
@@ -12541,6 +13628,11 @@
     "specialTech": {
       "name": "Guren Juuouha",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 40,
+      "friendship": 80,
+      "spirit": 140
     }
   },
   {
@@ -12585,6 +13677,11 @@
     "specialTech": {
       "name": "Lunatic Dance",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 33,
+      "friendship": 80,
+      "darkExp": 2800
     }
   },
   {
@@ -12988,6 +14085,11 @@
     "specialTech": {
       "name": "Hupunos Claw",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 48,
+      "spirit": 320,
+      "insectPlantExp": 20000
     }
   },
   {
@@ -13077,6 +14179,11 @@
     "specialTech": {
       "name": "PhantomTurban",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 49,
+      "defense": 220,
+      "holyExp": 11500
     }
   },
   {
@@ -13171,6 +14278,11 @@
     "specialTech": {
       "name": "HowlingCrusher",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 57,
+      "attack": 290,
+      "beastExp": 20000
     }
   },
   {
@@ -13216,6 +14328,11 @@
     "specialTech": {
       "name": "Nuclear Punch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 46,
+      "defense": 200,
+      "beastExp": 10000
     }
   },
   {
@@ -13262,6 +14379,11 @@
     "specialTech": {
       "name": "0cean Love",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 47,
+      "holyExp": 8000,
+      "aquaExp": 13000
     }
   },
   {
@@ -13308,6 +14430,13 @@
     "specialTech": {
       "name": "G SeaDestroy",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 59,
+      "aquaExp": 25000,
+      "befriended": [
+        "GigaSeadramon"
+      ]
     }
   },
   {
@@ -13353,6 +14482,13 @@
     "specialTech": {
       "name": "Trump Sword",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 55,
+      "befriended": [
+        "Piedmon",
+        "Puppetmon"
+      ]
     }
   },
   {
@@ -13401,6 +14537,11 @@
     "specialTech": {
       "name": "Chaos Flare",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 67,
+      "attack": 390,
+      "darkExp": 50000
     }
   },
   {
@@ -13446,6 +14587,11 @@
     "specialTech": {
       "name": "Crimson Flame",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 52,
+      "holyExp": 11000,
+      "birdExp": 11000
     }
   },
   {
@@ -13491,6 +14637,13 @@
     "specialTech": {
       "name": "Puppet Pummel",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 55,
+      "machineExp": 20000,
+      "befriended": [
+        "Machinedramon"
+      ]
     }
   },
   {
@@ -13536,6 +14689,11 @@
     "specialTech": {
       "name": "Rose Rapier",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "attack": 225,
+      "insectPlantExp": 17000
     }
   },
   {
@@ -13581,6 +14739,13 @@
     "specialTech": {
       "name": "Terra Force",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 52,
+      "friendship": 90,
+      "befriended": [
+        "Agumon"
+      ]
     }
   },
   {
@@ -13627,6 +14792,13 @@
     "specialTech": {
       "name": "FreezingBreath",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 52,
+      "friendship": 90,
+      "befriended": [
+        "Gabumon"
+      ]
     }
   },
   {
@@ -13676,6 +14848,13 @@
     "specialTech": {
       "name": "Giga Cannon",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 55,
+      "attack": 280,
+      "befriended": [
+        "MetalSeadramon"
+      ]
     }
   },
   {
@@ -13725,6 +14904,13 @@
     "specialTech": {
       "name": "VN Infuse",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 66,
+      "beastExp": 6666,
+      "befriended": [
+        "PicoDevimon"
+      ]
     }
   },
   {
@@ -13823,6 +15009,13 @@
     "specialTech": {
       "name": "Mega Crusher",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 56,
+      "dragonExp": 22000,
+      "befriended": [
+        "Chicomon"
+      ]
     }
   },
   {
@@ -13873,6 +15066,13 @@
     "specialTech": {
       "name": "Giga Fire",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 60,
+      "friendship": 80,
+      "befriended": [
+        "ImperialdramonDM"
+      ]
     }
   },
   {
@@ -13970,6 +15170,11 @@
     "specialTech": {
       "name": "Eye Blow",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 49,
+      "defense": 230,
+      "spirit": 230
     }
   },
   {
@@ -14015,6 +15220,11 @@
     "specialTech": {
       "name": "SevenHeavens",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 66,
+      "spirit": 380,
+      "holyExp": 77777
     }
   },
   {
@@ -14060,6 +15270,11 @@
     "specialTech": {
       "name": "Atomic Ray",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "spirit": 250,
+      "machineExp": 15000
     }
   },
   {
@@ -14105,6 +15320,11 @@
     "specialTech": {
       "name": "BDeath Cloud",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "attack": 250,
+      "darkExp": 18000
     }
   },
   {
@@ -14154,6 +15374,11 @@
     "specialTech": {
       "name": "LightningSpear",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 62,
+      "spirit": 360,
+      "holyExp": 30000
     }
   },
   {
@@ -14203,6 +15428,11 @@
     "specialTech": {
       "name": "Dark Spear",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 62,
+      "attack": 300,
+      "darkExp": 23000
     }
   },
   {
@@ -14251,6 +15481,13 @@
     "specialTech": {
       "name": "FIN Elysion",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 60,
+      "friendship": 90,
+      "befriended": [
+        "Megidramon"
+      ]
     }
   },
   {
@@ -14350,6 +15587,11 @@
     "specialTech": {
       "name": "GA Missile",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "holyExp": 8000,
+      "machineExp": 8000
     }
   },
   {
@@ -14395,6 +15637,13 @@
     "specialTech": {
       "name": "Izuna",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 52,
+      "holyExp": 16000,
+      "befriended": [
+        "Kuzuhamon"
+      ]
     }
   },
   {
@@ -14440,6 +15689,13 @@
     "specialTech": {
       "name": "CatastropheC",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 45,
+      "darkExp": 25000,
+      "befriended": [
+        "Keramon"
+      ]
     }
   },
   {
@@ -14488,6 +15744,11 @@
     "specialTech": {
       "name": "Vortex P",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 62,
+      "spirit": 340,
+      "aquaExp": 44000
     }
   },
   {
@@ -14533,6 +15794,11 @@
     "specialTech": {
       "name": "Needle Squall",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 45,
+      "attack": 200,
+      "aquaExp": 9900
     }
   },
   {
@@ -14581,6 +15847,11 @@
     "specialTech": {
       "name": "SPSonic Voice",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 47,
+      "attack": 240,
+      "beastExp": 8000
     }
   },
   {
@@ -14629,6 +15900,10 @@
     "specialTech": {
       "name": "Sorrow Blue",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 47,
+      "aquaExp": 17500
     }
   },
   {
@@ -14774,6 +16049,11 @@
     "specialTech": {
       "name": "Mega Crusher",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 60,
+      "attack": 315,
+      "dragonExp": 20000
     }
   },
   {
@@ -14819,6 +16099,11 @@
     "specialTech": {
       "name": "Tomahawk S",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 47,
+      "speed": 240,
+      "darkExp": 13000
     }
   },
   {
@@ -14865,6 +16150,11 @@
     "specialTech": {
       "name": "Purple Rain",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 46,
+      "spirit": 220,
+      "machineExp": 9300
     }
   },
   {
@@ -14910,6 +16200,11 @@
     "specialTech": {
       "name": "Sephirothic C",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 64,
+      "spirit": 255,
+      "holyExp": 27000
     }
   },
   {
@@ -14955,6 +16250,11 @@
     "specialTech": {
       "name": "Slicing Slash",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 47,
+      "speed": 240,
+      "darkExp": 13000
     }
   },
   {
@@ -15004,6 +16304,11 @@
     "specialTech": {
       "name": "GA Missile",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "darkExp": 8000,
+      "machineExp": 8000
     }
   },
   {
@@ -15049,7 +16354,8 @@
     "specialTech": {
       "name": "HungonDeath",
       "level": 1
-    }
+    },
+    "evoReqs": {}
   },
   {
     "id": 341,
@@ -15094,6 +16400,11 @@
     "specialTech": {
       "name": "Empress Haze",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 48,
+      "spirit": 220,
+      "holyExp": 8000
     }
   },
   {
@@ -15187,6 +16498,11 @@
     "specialTech": {
       "name": "EL Bind",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 48,
+      "aptitude": 52,
+      "darkExp": 8800
     }
   },
   {
@@ -15233,6 +16549,11 @@
     "specialTech": {
       "name": "DynamicCannon",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 47,
+      "attack": 255,
+      "machineExp": 12500
     }
   },
   {
@@ -15282,6 +16603,11 @@
     "specialTech": {
       "name": "Heaven'sRipper",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 48,
+      "attack": 250,
+      "machineExp": 8500
     }
   },
   {
@@ -15330,6 +16656,11 @@
     "specialTech": {
       "name": "C Phoenix",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 51,
+      "defense": 265,
+      "holyExp": 7500
     }
   },
   {
@@ -15375,6 +16706,11 @@
     "specialTech": {
       "name": "SuprmeCourage",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 54,
+      "attack": 265,
+      "totalExp": 57000
     }
   },
   {
@@ -15516,6 +16852,11 @@
     "specialTech": {
       "name": "Gigastick L",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 52,
+      "darkExp": 12000,
+      "machineExp": 9000
     }
   },
   {
@@ -15561,6 +16902,13 @@
     "specialTech": {
       "name": "DarknessZone",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 71,
+      "darkExp": 44444,
+      "befriended": [
+        "Apocalymon"
+      ]
     }
   },
   {
@@ -15606,6 +16954,11 @@
     "specialTech": {
       "name": "Brain RP",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 47,
+      "attack": 245,
+      "machineExp": 11000
     }
   },
   {
@@ -15651,6 +17004,11 @@
     "specialTech": {
       "name": "Dead Scream",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 56,
+      "darkExp": 15000,
+      "beastExp": 10000
     }
   },
   {
@@ -15699,6 +17057,13 @@
     "specialTech": {
       "name": "Fatal Flame",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 63,
+      "holyExp": 45000,
+      "befriended": [
+        "Airdramon"
+      ]
     }
   },
   {
@@ -15797,6 +17162,11 @@
     "specialTech": {
       "name": "Eye Blow",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 49,
+      "attack": 230,
+      "darkExp": 10500
     }
   },
   {
@@ -15842,6 +17212,13 @@
     "specialTech": {
       "name": "Illuminator",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 48,
+      "holyExp": 9800,
+      "befriended": [
+        "Kuzuhamon"
+      ]
     }
   },
   {
@@ -15937,6 +17314,11 @@
     "specialTech": {
       "name": "UltimateStream",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 55,
+      "machineExp": 10000,
+      "aquaExp": 11000
     }
   },
   {
@@ -15985,6 +17367,11 @@
     "specialTech": {
       "name": "Fenrir Sword",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 52,
+      "speed": 260,
+      "holyExp": 12000
     }
   },
   {
@@ -16030,6 +17417,11 @@
     "specialTech": {
       "name": "Appndge Blade",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 51,
+      "spirit": 250,
+      "machineExp": 18000
     }
   },
   {
@@ -16075,6 +17467,11 @@
     "specialTech": {
       "name": "MjollnirHammer",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "defense": 230,
+      "spirit": 230
     }
   },
   {
@@ -16121,6 +17518,11 @@
     "specialTech": {
       "name": "Terra Force",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 58,
+      "spirit": 290,
+      "darkExp": 21000
     }
   },
   {
@@ -16167,6 +17569,11 @@
     "specialTech": {
       "name": "Spiral Bone",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 49,
+      "darkExp": 6000,
+      "beastExp": 8000
     }
   },
   {
@@ -16216,6 +17623,11 @@
     "specialTech": {
       "name": "DM Scissors",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 49,
+      "attack": 255,
+      "insectPlantExp": 17000
     }
   },
   {
@@ -16261,6 +17673,11 @@
     "specialTech": {
       "name": "Necro Mist",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "holyExp": 9000,
+      "darkExp": 9000
     }
   },
   {
@@ -16351,6 +17768,13 @@
     "specialTech": {
       "name": "DIGI of Soul",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 65,
+      "holyExp": 50000,
+      "befriended": [
+        "Clockmon"
+      ]
     }
   },
   {
@@ -16498,6 +17922,13 @@
     "specialTech": {
       "name": "Death Crystal",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 66,
+      "spirit": 370,
+      "befriended": [
+        "Milleniumon"
+      ]
     }
   },
   {
@@ -16546,6 +17977,13 @@
     "specialTech": {
       "name": "Megido Flame",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 48,
+      "darkExp": 9000,
+      "befriended": [
+        "Guilmon"
+      ]
     }
   },
   {
@@ -16591,6 +18029,11 @@
     "specialTech": {
       "name": "Bifrost",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 65,
+      "attack": 370,
+      "holyExp": 48000
     }
   },
   {
@@ -16637,6 +18080,11 @@
     "specialTech": {
       "name": "Glorious Burst",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 54,
+      "attack": 270,
+      "holyExp": 13000
     }
   },
   {
@@ -16683,6 +18131,11 @@
     "specialTech": {
       "name": "Gale Claw",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 53,
+      "attack": 235,
+      "speed": 280
     }
   },
   {
@@ -16729,6 +18182,11 @@
     "specialTech": {
       "name": "Jumbo Crater",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 51,
+      "attack": 270,
+      "machineExp": 9600
     }
   },
   {
@@ -16774,6 +18232,11 @@
     "specialTech": {
       "name": "Spiral R Claw",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "speed": 255,
+      "machineExp": 10000
     }
   },
   {
@@ -16820,6 +18283,11 @@
     "specialTech": {
       "name": "Heart Breaker",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "spirit": 220,
+      "machineExp": 13000
     }
   },
   {
@@ -16865,6 +18333,11 @@
     "specialTech": {
       "name": "Checkmate",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "aptitude": 55,
+      "machineExp": 13000
     }
   },
   {
@@ -16959,6 +18432,11 @@
     "specialTech": {
       "name": "Phantom Pain",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 64,
+      "spirit": 300,
+      "darkExp": 32000
     }
   },
   {
@@ -17052,6 +18530,11 @@
     "specialTech": {
       "name": "Solblaster",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 55,
+      "friendship": 100,
+      "holyExp": 17500
     }
   },
   {
@@ -17097,6 +18580,11 @@
     "specialTech": {
       "name": "CrescntHarken",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "friendship": 100,
+      "darkExp": 14500
     }
   },
   {
@@ -17341,6 +18829,13 @@
     "specialTech": {
       "name": "SV Fantasia",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 57,
+      "insectPlantExp": 29000,
+      "befriended": [
+        "Rosemon"
+      ]
     }
   },
   {
@@ -17387,6 +18882,11 @@
     "specialTech": {
       "name": "Glorious Burst",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 50,
+      "aptitude": 55,
+      "machineExp": 12000
     }
   },
   {
@@ -17433,6 +18933,13 @@
     "specialTech": {
       "name": "Gale Claw",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 60,
+      "machineExp": 30000,
+      "befriended": [
+        "DotMirageGaogamon"
+      ]
     }
   },
   {
@@ -17580,6 +19087,11 @@
     "specialTech": {
       "name": "Mystic Cannon",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 62,
+      "attack": 400,
+      "darkExp": 40000
     }
   },
   {

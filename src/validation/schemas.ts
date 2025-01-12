@@ -12,6 +12,7 @@ import { TechInfo } from "../tech-info";
 import { TechLearned } from "../tech-learned";
 import { TraitInfo } from "../trait-info";
 import { VersionExclusives } from "../version-exclusives";
+import { DigimonEvoLine } from "../evos";
 
 //# armor-eggs
 
@@ -106,6 +107,7 @@ export const DigimonSchema = z.object({
   traitNames: z.string().array().max(4),
   techsLearned: TechLearnedSchema.array(),
   specialTech: TechLearnedSchema,
+  evoReqs: EvoRequirementsSchema.optional(),
 }).strict() satisfies z.ZodSchema<Digimon>;
 
 //# dna-evos
@@ -145,8 +147,7 @@ export const DigimonDnaInfoMapSchema =
 
 //# evos
 
-export const DigimonEvosSchema = z.record(z.string(), EvoRequirementsSchema);
-export const DigimonEvoLineSchema = z.record(z.string(), DigimonEvosSchema);
+export const DigimonEvoLineSchema = z.record(z.string(), z.string().array()) satisfies z.ZodSchema<DigimonEvoLine>;
 
 //# tech-info
 

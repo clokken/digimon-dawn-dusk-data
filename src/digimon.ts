@@ -2,6 +2,7 @@ import { Attribute } from "./attributes";
 import { DigimonSpecies } from "./digimon-species";
 import { DigimonStage } from "./digimon-stages";
 import { DigimonType } from "./digimon-types";
+import { EvoRequirements } from "./evo-requirements";
 import { GameVersion } from "./game-version";
 import { TechLearned } from "./tech-learned";
 
@@ -24,7 +25,8 @@ export type Digimon = {
   spirit: number;
   speed: number;
   aptitude: number;
-  traitNames: string[],
+  traitNames: string[];
   techsLearned: TechLearned[];
   specialTech: TechLearned;
+  evoReqs?: EvoRequirements;
 };

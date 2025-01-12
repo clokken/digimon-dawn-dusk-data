@@ -99,7 +99,7 @@ export default function validate() {
 
   //## validate digimons
 
-  for (const { techsLearned, specialTech, traitNames } of digimons) {
+  for (const { techsLearned, specialTech, traitNames, evoReqs } of digimons) {
     for (const techLearned of techsLearned) {
       if (!allTechNames.includes(techLearned.name)) {
         throw new Error(`Unregistered tech name: ${techLearned.name}`);
@@ -115,6 +115,16 @@ export default function validate() {
         throw new Error(`Unregistered trait name: ${traitName}`);
       }
     }
+
+    if (evoReqs !== undefined) {
+      if (evoReqs.befriended !== undefined) {
+        evoReqs.befriended.forEach(checkDigimonName);
+      }
+
+      if (evoReqs.currentlyOwns !== undefined) {
+        evoReqs.currentlyOwns.forEach(checkDigimonName);
+      }
+    }
   }
 
   //## validate evoLines
@@ -122,18 +132,7 @@ export default function validate() {
   for (const [_lineName, evoLine] of Object.entries(evoLines)) {
     for (const [digimonName, evos] of Object.entries(evoLine)) {
       checkDigimonName(digimonName);
-
-      for (const [evoDigimonName, reqs] of Object.entries(evos)) {
-        checkDigimonName(evoDigimonName);
-
-        if (reqs.befriended !== undefined) {
-          reqs.befriended.forEach(checkDigimonName);
-        }
-
-        if (reqs.currentlyOwns !== undefined) {
-          reqs.currentlyOwns.forEach(checkDigimonName);
-        }
-      }
+      evos.forEach(checkDigimonName);
     }
   }
 
