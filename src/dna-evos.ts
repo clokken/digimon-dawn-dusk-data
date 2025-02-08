@@ -17,7 +17,7 @@ export type DnaEvoRequirements = {
   evoReqs: EvoRequirements;
 };
 
-export type DnaDegenerations = {
+export type DnaDegeneration = {
   target: DigimonName;
   neededDigimon: Array<{
     digimon: DigimonName;
@@ -31,7 +31,7 @@ export type DigimonDnaInfo = {
   // requirements to get into this digimon
   dnaReqs: DnaEvoRequirements;
   dnaEvolvesInto?: DigimonName[];
-  dnaDegensInto: DnaDegenerations[];
+  dnaDegensInto: DnaDegeneration[];
 };
 
 /// this is what is stored in the evo_dna.json

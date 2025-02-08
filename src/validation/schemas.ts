@@ -6,7 +6,7 @@ import { Digimon } from "../digimon";
 import { DIGIMON_SPECIES } from "../digimon-species";
 import { DIGIMON_STAGES } from "../digimon-stages";
 import { DIGIMON_TYPES } from "../digimon-types";
-import { PossibleDigimonPair, DnaEvoRequirements, DnaDegenerations, DigimonDnaInfo, DigimonDnaInfoMap } from "../dna-evos";
+import { PossibleDigimonPair, DnaEvoRequirements, DnaDegeneration, DigimonDnaInfo, DigimonDnaInfoMap } from "../dna-evos";
 import { EvoRequirements } from "../evo-requirements";
 import { TechInfo } from "../tech-info";
 import { TechLearned } from "../tech-learned";
@@ -134,7 +134,7 @@ export const DnaDegenerationsSchema = z.object({
   })),
   befriended: z.string().optional(),
   hasEgg: ArmorEggSchema.optional(),
-}).strict() satisfies z.ZodSchema<DnaDegenerations>;
+}).strict() satisfies z.ZodSchema<DnaDegeneration>;
 
 export const DigimonDnaInfoSchema = z.object({
   dnaReqs: DnaEvoRequirementsSchema,
