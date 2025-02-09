@@ -2688,6 +2688,7 @@
         "Stingmon",
         "ExVeemon"
       ],
+      "fixedFirst": true,
       "evoReqs": {
         "level": 35,
         "speed": 220,
@@ -4623,6 +4624,7 @@
         "ExVeemon",
         "Stingmon"
       ],
+      "fixedFirst": true,
       "evoReqs": {
         "level": 36,
         "attack": 230,
