@@ -30,6 +30,9 @@ export type DnaDegeneration = {
 export type DigimonDnaInfo = {
   // requirements to get into this digimon
   dnaReqs: DnaEvoRequirements;
+  /**
+   * @deprecated Because this is somewhat incomplete since many digimon don't even have a DnaInfo
+   */
   dnaEvolvesInto?: DigimonName[];
   dnaDegensInto: DnaDegeneration[];
 };
