@@ -1,3 +1,3 @@
 export function normalizeDigimonName(digimonName: string) {
-  return digimonName.toLowerCase().replace(/[\s\(\)]/g, '');
+  return digimonName.toLowerCase().replace(/[\s\(\)'"]/g, '');
 }
