@@ -35,6 +35,10 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 5,
+      "befriended": ["Chicchimon"]
     }
   },
   {
@@ -73,6 +77,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 3
     }
   },
   {
@@ -111,6 +118,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 3
     }
   },
   {
@@ -149,6 +159,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 3
     }
   },
   {
@@ -187,6 +200,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 4
     }
   },
   {
@@ -225,6 +241,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 3
     }
   },
   {
@@ -263,6 +282,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 4
     }
   },
   {
@@ -301,6 +323,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 5
     }
   },
   {
@@ -339,6 +364,10 @@
     "specialTech": {
       "name": "Glare Eye",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 3,
+      "befriended": ["Kuramon"]
     }
   },
   {
@@ -380,6 +409,10 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 3,
+      "befriended": ["Puttimon"]
     }
   },
   {
@@ -421,6 +454,10 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 4,
+      "befriended": ["Chibomon"]
     }
   },
   {
@@ -459,6 +496,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 4
     }
   },
   {
@@ -542,6 +582,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 5
     }
   },
   {
@@ -580,6 +623,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 4
     }
   },
   {
@@ -621,6 +667,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 4
     }
   },
   {
@@ -659,6 +708,10 @@
     "specialTech": {
       "name": "Nail Scratch",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 9,
+      "befriended": ["Tsumemon"]
     }
   },
   {
@@ -697,6 +750,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 3
     }
   },
   {
@@ -735,6 +791,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 3
     }
   },
   {
@@ -773,6 +832,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 2
     }
   },
   {
@@ -811,6 +873,9 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 3
     }
   },
   {
@@ -849,6 +914,10 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 1,
+      "befriended": ["Sunmon"]
     }
   },
   {
@@ -887,6 +956,10 @@
     "specialTech": {
       "name": "Frothy Spit",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 1,
+      "befriended": ["Moonmon"]
     }
   },
   {
@@ -1166,6 +1239,9 @@
     "specialTech": {
       "name": "Water Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 7
     }
   },
   {
@@ -1302,6 +1378,9 @@
     "specialTech": {
       "name": "Beak Attack",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 8
     }
   },
   {
@@ -2517,6 +2596,9 @@
     "specialTech": {
       "name": "Water Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 9
     }
   },
   {
@@ -2793,6 +2875,10 @@
     "specialTech": {
       "name": "Water Shot",
       "level": 1
+    },
+    "evoReqs": {
+      "level": 13,
+      "beastExp": 150
     }
   },
   {

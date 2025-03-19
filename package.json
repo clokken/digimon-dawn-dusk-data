@@ -1,6 +1,6 @@
 {
   "name": "@clokken/digimon-dawn-dusk-data",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
